@@ -1,4 +1,4 @@
-# FOCAL OBJECTS CONFIGURATION (Updated after Step 08 Market Cap Clean)
+# CONFIG THỰC NGHIỆM (Tự động gán status: active từ Excel)
 
 sectors:
   Technology:
@@ -7,278 +7,210 @@ sectors:
     - ticker: MSFT
       cik: 0000789019
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: AAPL
       cik: 0000320193
-      status: delete
-      reason: 'Step 08: Only 0 consecutive quarters (<6)'
+      status: active
     - ticker: ORCL
       cik: 0001341439
-      status: delete
-      reason: 'Step 08: Only 0 consecutive quarters (<6)'
+      status: active
     - ticker: ADBE
       cik: 0000796343
-      status: delete
-      reason: 'Rule 2: Anomalous total margin (14.70 > 10)'
+      status: active
     - ticker: CRM
       cik: 0001108524
-      status: delete
-      reason: 'Step 08: Only 0 consecutive quarters (<6)'
+      status: active
     - ticker: INTU
       cik: 0000896878
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: NOW
       cik: '0001373715'
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: WDAY
       cik: '0001327567'
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: PANW
       cik: '0001327567'
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: FTNT
       cik: 0001262039
-      status: delete
-      reason: 'Step 08: Only 0 consecutive quarters (<6)'
+      status: active
     - ticker: SNPS
       cik: 0000883241
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: CDNS
       cik: 0000813672
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: ANSS
       cik: 0001013594
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: KEYS
       cik: '0001100663'
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: TYL
       cik: '0000740370'
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: NVDA
       cik: 0001045810
-      status: delete
-      reason: 'Step 08: Only 5 consecutive quarters (<6)'
+      status: active
     - ticker: PLTR
       cik: '0001321655'
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: SNOW
       cik: '0001640147'
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: CRWD
       cik: '0001535527'
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: NET
       cik: '0001477333'
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: DDOG
       cik: '0001561550'
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: ZS
       cik: '0001664703'
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: OKTA
       cik: '0001660134'
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: MDB
       cik: 0001678718
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
   Retail:
     description: E-commerce, Traditional Retail
     companies:
     - ticker: AMZN
       cik: 0001018724
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: WMT
       cik: 0000104169
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: COST
       cik: 0000909832
-      status: delete
-      reason: 'Step 08: Only 0 consecutive quarters (<6)'
+      status: active
     - ticker: TGT
       cik: 0000027419
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: HD
       cik: 0000354950
       status: active
-      reason: 'Step 08: Only 6 consecutive quarters (<8)'
     - ticker: LOW
       cik: '0000060667'
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: DG
       cik: 0000029534
       status: active
-      reason: 'Step 08: Only 6 consecutive quarters (<8)'
     - ticker: DLTR
       cik: 0000935703
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: ROST
       cik: '0000745732'
-      status: delete
-      reason: 'Step 08: Only 5 consecutive quarters (<6)'
+      status: active
     - ticker: TJX
       cik: 0000109198
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: BBY
       cik: 0000764478
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: GPS
       cik: 0000039911
-      status: delete
-      reason: 'Step 08: Only 0 consecutive quarters (<6)'
+      status: active
     - ticker: M
       cik: 0000794367
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: KSS
       cik: 0000885639
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: JWN
       cik: '0000051143'
-      status: delete
-      reason: 'Step 08: Only 0 consecutive quarters (<6)'
+      status: active
     - ticker: PELO
       cik: 0001639826
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: RIVN
       cik: 0001874178
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: WISH
       cik: 0001819841
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: APRN
       cik: 0001681666
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: OLPX
       cik: 0001840949
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: BBBY
       cik: 0000886158
       status: active
-      reason: 'Step 08: Only 6 consecutive quarters (<8)'
     - ticker: CHWY
       cik: 0001679688
       status: active
-      reason: 'Step 08: Only 7 consecutive quarters (<8)'
     - ticker: ETSY
       cik: '0001370637'
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
   Services:
     description: Platform, Gig Economy, Travel, Fintech
     companies:
     - ticker: NFLX
       cik: 0001065280
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: UBER
       cik: '0001543151'
-      status: delete
-      reason: 'Step 08: Only 0 consecutive quarters (<6)'
+      status: active
     - ticker: ABNB
       cik: 0001559720
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: DASH
       cik: 0001792789
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: BKNG
       cik: '0001075531'
-      status: delete
-      reason: 'Step 08: Only 0 consecutive quarters (<6)'
+      status: active
     - ticker: EXPE
       cik: '0001024735'
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: TRIP
       cik: 0001043298
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: EBAY
       cik: 0001065088
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: PYPL
       cik: 0001633917
       status: active
-      reason: 'Step 08: CSV File Not Found'
     - ticker: SQ
       cik: '0001512673'
-      status: delete
-      reason: 'Step 08: Only 0 consecutive quarters (<6)'
+      status: active
     - ticker: V
       cik: '0001403161'
-      status: delete
-      reason: 'Rule 2: Anomalous total margin (14.18 > 10)'
+      status: active
     - ticker: MA
       cik: 0001141391
       status: active
-      reason: 'Step 08: Only 7 consecutive quarters (<8)'
     - ticker: AXP
       cik: 0000004962
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: LYFT
       cik: 0001759509
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: HOOD
       cik: 0001783879
-      status: delete
-      reason: 'Step 08: Only 0 consecutive quarters (<6)'
+      status: active
     - ticker: RBLX
       cik: 0001315098
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: COIN
       cik: 0001679788
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: SOFI
       cik: 0001818874
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
     - ticker: UPST
       cik: 0001840895
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: AFRM
       cik: 0001820639
-      status: delete
-      reason: 'Rule 1: Missing raw CSV data'
+      status: active
     - ticker: LCID
       cik: 0001811210
-      status: delete
-      reason: 'Step 08: Only 3 consecutive quarters (<6)'
+      status: active
