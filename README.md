@@ -33,8 +33,7 @@ The pipeline consists of 11 Python scripts executed in sequence. Each step has a
 * **Step 11 (`11_Statistical_analysis.py`)**: Runs the full statistical battery, including the Markov matrix, Kruskal-Wallis, post-hoc tests, PDI dynamics, and robustness tests.
 
 ## Citation & DOI
-Nguyễn, H. P. (2026). What Price Presupposes: Quantifying Labour Obligations in Speculative Market Regimes. Zenodo.
+Nguyễn, H. P. (2026). What Price Presupposes: Quantifying Labour Obligations in Speculative Market Regimes. Zenodo. https://doi.org/10.5281/zenodo.19272790
 
-https://doi.org/10.5281/zenodo.19272790
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19366083.svg)](https://doi.org/10.5281/zenodo.19366083)
 
