@@ -1,0 +1,15 @@
+# Configuration
+PyYAML>=6.0.1
+
+# Data Acquisition
+requests>=2.31.0
+yfinance>=0.2.37
+
+# Data Processing
+pandas>=2.2.1
+numpy>=1.26.4
+
+# Statistical Analysis
+scipy>=1.12.0
+statsmodels>=0.14.1
+scikit-posthocs>=0.9.0
