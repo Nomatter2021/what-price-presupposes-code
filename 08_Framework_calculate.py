@@ -15,12 +15,10 @@ warnings.filterwarnings('ignore')
 
 # ==================== CONFIGURATION ====================
 CONFIG_FILE = Path('survey_config.yaml')
-# Đảm bảo trỏ đúng thư mục raw data của bạn (đã sửa thành all_companies/raw để tránh lỗi File Not Found)
 RAW_DATA_FOLDER = Path('data/raw')
 PROCESS_FOLDER = Path('data/process')
 BENCHMARK_FOLDER = Path('data/processed')
 
-# Tự động tạo thư mục output nếu chưa có
 PROCESS_FOLDER.mkdir(parents=True, exist_ok=True)
 
 def get_q_period(date):
@@ -70,14 +68,17 @@ def calculate_framework_metrics(df, sector, benchmark_lookup):
     df['period_end'] = pd.to_datetime(df['period_end'])
     df = df.sort_values('period_end').reset_index(drop=True)
 
-    # 1. Kiểm tra các cột dữ liệu bắt buộc
+    rev_col = next((c for c in df.columns if str(c).lower() == 'revenue'), None)
+    if rev_col and rev_col != 'Revenue':
+        df.rename(columns={rev_col: 'Revenue'}, inplace=True)
+
     required_cols = ['Revenue', 'market_cap', 'KBrand']
     missing_cols = [col for col in required_cols if col not in df.columns]
     if missing_cols:
         print(f"  ⚠️ Thiếu cột bắt buộc: {missing_cols}")
         return None
 
-    # 2. Logic Operating Margin & Opex
+    # 1. Logic Operating Margin & Opex
     rnd = next((c for c in df.columns if 'research' in c.lower()), None)
     sga = next((c for c in df.columns if 'selling' in c.lower()), None)
     df['Opex_Ratio'] = (df[rnd].fillna(0) + df[sga].fillna(0)) / df['Revenue'] if rnd and sga else 0
@@ -88,7 +89,7 @@ def calculate_framework_metrics(df, sector, benchmark_lookup):
     use_gross = (df['Operating_Margin'] < 0) & (df['Opex_Ratio'] > 0.30) & (df.get('Gross_Margin', -1) > 0)
     df['Selected_Margin'] = np.where(use_gross, df.get('Gross_Margin', df['Operating_Margin']), df['Operating_Margin'])
 
-    # 3. Tính toán Benchmark và Thặng dư (Surplus)
+    # 2. Tính toán Benchmark và Thặng dư (Surplus)
     df['Benchmark_Margin'] = [get_benchmark_margin(sector, d, benchmark_lookup) for d in df['period_end']]
     
     df['s_baseline_value'] = np.where(df['Benchmark_Margin'].isna(), 
@@ -100,11 +101,11 @@ def calculate_framework_metrics(df, sector, benchmark_lookup):
     
     df['s_total'] = df['s_baseline_value'] + df['S_Surplus']
 
-    # 4. Bóc tách K_Pi' (Sử dụng công thức chuẩn LTV)
+    # 3. Bóc tách K_Pi' 
     df['V_Prod_base'] = df['Revenue'] * (1 - df['Selected_Margin'].clip(lower=0))
     df['K_Pi_prime'] = df['market_cap'] - (df['V_Prod_base'] + df['s_total'] + df['KBrand'])
     
-    # 5. Các tỷ số phi thứ nguyên (Dimensionless Ratios: E*)
+    # 4. Các tỷ số phi thứ nguyên (Dimensionless Ratios: E*)
     vpb = df['V_Prod_base']
     df['E_star'] = np.where(vpb > 0, (df['market_cap'] - vpb) / vpb, np.nan)
     df['E_0'] = np.where(vpb > 0, df['s_baseline_value'] / vpb, np.nan)
@@ -112,27 +113,46 @@ def calculate_framework_metrics(df, sector, benchmark_lookup):
     df['E_2'] = np.where(vpb > 0, df['KBrand'] / vpb, np.nan)
     df['E_3'] = np.where(vpb > 0, df['K_Pi_prime'] / vpb, np.nan)
     
-    # 6. Các chỉ số Động học và Động lượng (Dynamics & Momentum)
+    # 5. CÁC CHỈ SỐ ĐỘNG HỌC VÀ ĐỘNG LƯỢNG (DYNAMICS) - ĐÃ FILL 0 ĐỂ FIX GATE_C3
     df['K_Pi_prime_lag'] = df['K_Pi_prime'].shift(1)
-    df['R_t'] = np.where(df['K_Pi_prime_lag'] != 0, df['s_total'] / df['K_Pi_prime_lag'], np.nan)
+    
+    # Fill 0 cho R_t nếu là quý đầu tiên (lag = NaN)
+    df['R_t'] = np.where(
+        df['K_Pi_prime_lag'].notna() & (df['K_Pi_prime_lag'] != 0), 
+        df['s_total'] / df['K_Pi_prime_lag'], 
+        0.0  # <--- Bắt buộc bằng 0
+    )
+    
     df['T_t'] = np.where(df['R_t'] > 1e-6, 1 / df['R_t'], np.inf)
-    df['dK_Pi_prime'] = df['K_Pi_prime'].diff()
-    df['dK_Pi_prime_pct'] = df['dK_Pi_prime'] / df['K_Pi_prime_lag'].abs()
     
-    # Chỉ số phân kỳ động lượng (Power of Discharge Index)
-    df['PDI_t'] = df['s_total'] / (df['dK_Pi_prime'].abs() + df['s_total'])
+    # Fill 0 cho dK (vì quý đầu không có thay đổi)
+    df['dK_Pi_prime'] = df['K_Pi_prime'].diff().fillna(0.0) # <--- Bắt buộc fillna(0)
     
-    df['PGR_t'] = df['V_Prod_base'].pct_change()
+    # Fill 0 cho dK_pct
+    df['dK_Pi_prime_pct'] = np.where(
+        df['K_Pi_prime_lag'].notna() & (df['K_Pi_prime_lag'].abs() > 0), 
+        df['dK_Pi_prime'] / df['K_Pi_prime_lag'].abs(), 
+        0.0  # <--- Bắt buộc bằng 0
+    )
+    
+    denominator = df['dK_Pi_prime'].abs() + df['s_total']
+    df['PDI_t'] = np.where(
+        (denominator != 0) & denominator.notna(), 
+        df['s_total'] / denominator, 
+        0.0
+    )
+    
+    df['PGR_t'] = df['V_Prod_base'].pct_change().fillna(0.0)
 
-    # 7. Formal Gates: Xác định chế độ Vĩ mô (Normal vs Speculative)
+    # 6. Formal Gates: Xác định chế độ Vĩ mô (Normal vs Speculative)
     df['Gate_C1'] = (df['K_Pi_prime'] / df['market_cap']) > 0.5
     df['Gate_C2'] = df['E_3'] > (df['E_0'] + df['E_1'] + df['E_2'])
-    df['Gate_C3'] = df['R_t'] < 1.0
     
-    # Biến boolean quyết định Regime
+    # R_t đã được fill 0 ở quý đầu, nên Gate_C3 sẽ pass (True) hợp lệ
+    df['Gate_C3'] = df['R_t'] < 1.0 
+    
     df['Speculative_Regime'] = df['Gate_C1'] & df['Gate_C2'] & df['Gate_C3']
 
-    # Hoàn toàn không gọi hàm Classify ở đây. Output chuyển thẳng qua Step 09.
     return df
 
 def main():
@@ -157,7 +177,6 @@ def main():
         for company in sector_info.get('companies', []):
             ticker = company.get('ticker')
             
-            # Bỏ qua các file đã bị delete ở các bước trước
             if company.get('status') != 'active':
                 continue
 
