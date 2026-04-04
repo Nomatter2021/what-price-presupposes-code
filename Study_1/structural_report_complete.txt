@@ -1,78 +1,40 @@
-COMPLETE STRUCTURAL VALIDATION REPORT - EXPECTATION CHIMERA HYPOTHESIS
+COMPLETE STRUCTURAL VALIDATION REPORT - CHIMERA HYPOTHESIS
 ================================================================================
 
-1. CONFIGURATION DISTRIBUTION
+1. QUARTERLY CONFIGURATION DISTRIBUTION
 ----------------------------------------
-  Normal :    60 ( 8.46%)
+  Normal :   515 (72.64%)
   C1     :     8 ( 1.13%)
   C2     :    24 ( 3.39%)
   C3     :    81 (11.42%)
-  C4     :    69 ( 9.73%)
+  C4     :    43 ( 6.06%)
   C5     :     0 ( 0.00%)
   C6     :    12 ( 1.69%)
 
-2. MARKOV TRANSITION MATRIX (with 95% Cluster Bootstrap CI)
+2. QUARTER-OVER-QUARTER MARKOV TRANSITION MATRIX (95% CI)
 ------------------------------------------------------------
-Transition probabilities (%), with 95% CI from bootstrap (by cycle):
-
 From\To    Normal     C1     C2     C3     C4     C5     C6
-Normal      85.4[  72-  96]    0.0[   0-   0]    2.1[   0-   5]   10.4[   0-  21]    0.0[   0-   0]    0.0[   0-   0]    2.1[   0-  10] 
+Normal      97.9[  96-  99]    0.0[   0-   0]    0.2[   0-   1]    1.1[   0-   2]    0.0[   0-   0]    0.0[   0-   0]    0.8[   0-   2] 
 C1           0.0[   0-   0]   12.5[   0-  25]   62.5[   0- 100]   12.5[   0-  25]    0.0[   0-   0]    0.0[   0-   0]   12.5[   0-  25] 
-C2          10.0[   0-  23]   10.0[   0-  30]   45.0[  14-  62]    5.0[   0-  25]    0.0[   0-   0]    0.0[   0-   0]   30.0[  17-  45] 
-C3           3.0[   0-   8]    3.0[   0-  10]    3.0[   0-   8]   52.2[  42-  67]   38.8[  24-  49]    0.0[   0-   0]    0.0[   0-   0] 
-C4           6.7[   0-  15]    0.0[   0-   0]    5.0[   0-  14]   61.7[  46-  76]   26.7[  16-  38]    0.0[   0-   0]    0.0[   0-   0] 
+C2          21.7[  15-  33]    8.7[   0-  25]   39.1[  12-  54]    4.3[   0-  22]    0.0[   0-   0]    0.0[   0-   0]   26.1[  15-  40] 
+C3          18.8[  12-  30]    2.5[   0-   8]    2.5[   0-   6]   43.8[  34-  53]   32.5[  18-  42]    0.0[   0-   0]    0.0[   0-   0] 
+C4          19.5[   7-  36]    0.0[   0-   0]    4.9[   0-  19]   58.5[  41-  75]   17.1[   4-  24]    0.0[   0-   0]    0.0[   0-   0] 
 C5           0.0            0.0            0.0            0.0            0.0            0.0            0.0         
 C6           0.0[   0-   0]   27.3[   0-  42]   36.4[   0-  78]   18.2[   0- 100]    9.1[   0-  18]    0.0[   0-   0]    9.1[   0-  18] 
 
-Note: CIs reported only for states with N >= 5 outgoing transitions.
-
-3. GESTATION (C2) PATHWAY ANALYSIS: E3 AS THRESHOLD
+3. GESTATION (C2) PATHWAY DYNAMICS
 --------------------------------------------------
-Number of C2 sequences with known terminal state: 2
-  -> Maturation (C2→C3) : n=1, Median E3 = 2.59
-  -> Collapse (C2→C1/C6): n=1, Median E3 = 31.74
-Optimal E3 threshold: 5 (Balanced Accuracy = 100.0%)
+C2 observations mapped to immediate subsequent state: 2
+  -> Maturation (C2→C3) : n=1, Median E3=2.59
+  -> Collapse (C2→C1/C6): n=1, Median E3=31.74
+Empirically optimal E3 barrier: 5 (Accuracy=100.0%)
 
-Sensitivity Analysis (Accuracy at various thresholds):
-  Threshold= 5: Correct C3= 1/ 1, Correct Collapse= 1/ 1, Total Acc=100.0%
-  Threshold=10: Correct C3= 1/ 1, Correct Collapse= 1/ 1, Total Acc=100.0%
-  Threshold=15: Correct C3= 1/ 1, Correct Collapse= 1/ 1, Total Acc=100.0%
-  Threshold=20: Correct C3= 1/ 1, Correct Collapse= 1/ 1, Total Acc=100.0%
-  Threshold=25: Correct C3= 1/ 1, Correct Collapse= 1/ 1, Total Acc=100.0%
-  Threshold=30: Correct C3= 1/ 1, Correct Collapse= 1/ 1, Total Acc=100.0%
-  Threshold=35: Correct C3= 1/ 1, Correct Collapse= 0/ 1, Total Acc=50.0%
-  Threshold=40: Correct C3= 1/ 1, Correct Collapse= 0/ 1, Total Acc=50.0%
-
-4. PDI LEADING INDICATOR WITHIN MATURITY (C3/C4)
+4. PDI FORECASTING UTILITY WITHIN MATURITY (C3/C4)
 --------------------------------------------------
-Maturity quarters with known subsequent outcome: 147
-  -> Followed by Collapse (C1/C6): n=2, Median PDI=0.0397
-  -> Followed by Continuation    : n=145, Median PDI=0.2097
-  Insufficient sample size for non-parametric testing.
+  -> Imminent Collapse Next Quarter: n=2, Median PDI=0.0397
+  -> Structural Continuity Next Quarter: n=119, Median PDI=0.1679
 
-5. SUPPLEMENTARY CROSS-SECTIONAL STATISTICS
+5. CROSS-SECTIONAL NON-PARAMETRIC CORRELATIONS
 --------------------------------------------------
-Median Uninitiated Obligation Ratio (E3) by Configuration:
-  Normal: -0.0760
-  C1    : 8.7963
-  C2    : 38.8360
-  C3    : 5.2420
-  C4    : 4.2453
-  C5    : nan
-  C6    : 33.7087
-
-Median Productive Discharge Index (PDI) by Configuration:
-  Normal: 0.2712
-  C1    : 0.0000
-  C2    : 0.0000
-  C3    : 0.1550
-  C4    : 0.3906
-  C5    : nan
-  C6    : 0.0000
-
-Global Rank Correlations (Spearman):
-  Obligation (E3) vs Discharge Speed (R_t) : rho = 0.0120, p = 8.50e-01
-  Obligation (E3) vs Discharge Source (PDI): rho = -0.3717, p = 1.04e-09
-
-================================================================================
-END OF REPORT
+  E3 vs Discharge Velocity (R_t) : rho = 0.0120, p = 8.50e-01
+  E3 vs Discharge Source (PDI_t) : rho = -0.3717, p = 1.04e-09
