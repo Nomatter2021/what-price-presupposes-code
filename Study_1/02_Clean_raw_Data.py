@@ -58,7 +58,7 @@ def main() -> None:
                 df = pd.read_csv(csv_path, index_col=0)
                 if 'Operating_Margin' in df.columns:
                     total_margin = df['Operating_Margin'].sum()
-                    if total_margin > 10:
+                    if total_margin > 6:
                         logger.warning(f"  ✗ {ticker}: Margin anomaly ({total_margin:.2f} > 10).")
                         csv_path.unlink()
                         company.update({'status': 'delete', 'reason': f'Rule 2: Anomaly ({total_margin:.2f})'})

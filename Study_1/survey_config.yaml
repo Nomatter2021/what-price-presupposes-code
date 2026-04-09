@@ -6,19 +6,19 @@ sectors:
     companies:
     - ticker: MSFT
       cik: 0000789019
-      status: active
-      reason: 'Step 08: CSV File Not Found'
+      status: delete
+      reason: 'Rule 2: Anomaly (9.72)'
     - ticker: AAPL
       cik: 0000320193
-      status: active
-      reason: Insufficient continuity (2)
+      status: delete
+      reason: 'Rule 2: Anomaly (8.97)'
     - ticker: ORCL
       cik: 0001341439
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: ADBE
       cik: 0000796343
-      status: active
+      status: delete
       reason: 'Rule 2: Anomaly (14.70)'
     - ticker: CRM
       cik: 0001108524
@@ -30,7 +30,7 @@ sectors:
       reason: 'Step 08: CSV File Not Found'
     - ticker: NOW
       cik: '0001373715'
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: WDAY
       cik: '0001327567'
@@ -42,63 +42,63 @@ sectors:
       reason: 'Step 08: CSV File Not Found'
     - ticker: FTNT
       cik: 0001262039
-      status: active
+      status: delete
       reason: Insufficient continuity (0)
     - ticker: SNPS
       cik: 0000883241
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: CDNS
       cik: 0000813672
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: ANSS
       cik: 0001013594
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: KEYS
       cik: '0001100663'
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: TYL
       cik: '0000740370'
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: NVDA
       cik: 0001045810
-      status: active
+      status: delete
       reason: Insufficient continuity (5)
     - ticker: PLTR
       cik: '0001321655'
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: SNOW
       cik: '0001640147'
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: CRWD
       cik: '0001535527'
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: NET
       cik: '0001477333'
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: DDOG
       cik: '0001561550'
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: ZS
       cik: '0001664703'
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: OKTA
       cik: '0001660134'
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: MDB
       cik: 0001678718
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
   Retail:
     description: E-commerce, Traditional Retail
@@ -113,7 +113,7 @@ sectors:
       reason: 'Step 08: CSV File Not Found'
     - ticker: COST
       cik: 0000909832
-      status: active
+      status: delete
       reason: Insufficient continuity (0)
     - ticker: TGT
       cik: 0000027419
@@ -125,7 +125,7 @@ sectors:
       reason: 'Step 08: Only 6 consecutive quarters (<8)'
     - ticker: LOW
       cik: '0000060667'
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: DG
       cik: 0000029534
@@ -137,7 +137,7 @@ sectors:
       reason: 'Step 08: CSV File Not Found'
     - ticker: ROST
       cik: '0000745732'
-      status: active
+      status: delete
       reason: Insufficient continuity (5)
     - ticker: TJX
       cik: 0000109198
@@ -149,7 +149,7 @@ sectors:
       reason: 'Step 08: CSV File Not Found'
     - ticker: GPS
       cik: 0000039911
-      status: active
+      status: delete
       reason: Insufficient continuity (0)
     - ticker: M
       cik: 0000794367
@@ -161,27 +161,27 @@ sectors:
       reason: 'Step 08: CSV File Not Found'
     - ticker: JWN
       cik: '0000051143'
-      status: active
+      status: delete
       reason: Insufficient continuity (0)
     - ticker: PELO
       cik: 0001639826
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: RIVN
       cik: 0001874178
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: WISH
       cik: 0001819841
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: APRN
       cik: 0001681666
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: OLPX
       cik: 0001840949
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: BBBY
       cik: 0000886158
@@ -193,92 +193,92 @@ sectors:
       reason: 'Step 08: Only 7 consecutive quarters (<8)'
     - ticker: ETSY
       cik: '0001370637'
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
   Services:
     description: Platform, Gig Economy, Travel, Fintech
     companies:
     - ticker: NFLX
       cik: 0001065280
-      status: active
-      reason: 'Step 08: CSV File Not Found'
+      status: delete
+      reason: 'Rule 2: Anomaly (7.67)'
     - ticker: UBER
       cik: '0001543151'
-      status: active
+      status: delete
       reason: Insufficient continuity (0)
     - ticker: ABNB
       cik: 0001559720
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: DASH
       cik: 0001792789
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: BKNG
       cik: '0001075531'
-      status: active
-      reason: Insufficient continuity (0)
+      status: delete
+      reason: 'Rule 2: Anomaly (8.24)'
     - ticker: EXPE
       cik: '0001024735'
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: TRIP
       cik: 0001043298
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: EBAY
       cik: 0001065088
-      status: active
-      reason: 'Step 08: CSV File Not Found'
+      status: delete
+      reason: 'Rule 2: Anomaly (6.08)'
     - ticker: PYPL
       cik: 0001633917
       status: active
       reason: 'Step 08: CSV File Not Found'
     - ticker: SQ
       cik: '0001512673'
-      status: active
+      status: delete
       reason: Insufficient continuity (0)
     - ticker: V
       cik: '0001403161'
-      status: active
+      status: delete
       reason: 'Rule 2: Anomaly (14.18)'
     - ticker: MA
       cik: 0001141391
-      status: active
-      reason: 'Step 08: Only 7 consecutive quarters (<8)'
+      status: delete
+      reason: 'Rule 2: Anomaly (9.58)'
     - ticker: AXP
       cik: 0000004962
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: LYFT
       cik: 0001759509
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: HOOD
       cik: 0001783879
-      status: active
+      status: delete
       reason: Insufficient continuity (0)
     - ticker: RBLX
       cik: 0001315098
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: COIN
       cik: 0001679788
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: SOFI
       cik: 0001818874
-      status: active
+      status: delete
       reason: Insufficient continuity (3)
     - ticker: UPST
       cik: 0001840895
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: AFRM
       cik: 0001820639
-      status: active
+      status: delete
       reason: 'Rule 1: Missing raw CSV'
     - ticker: LCID
       cik: 0001811210
-      status: active
+      status: delete
       reason: Insufficient continuity (3)

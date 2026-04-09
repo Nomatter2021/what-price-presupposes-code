@@ -1,0 +1,131 @@
+====================================================================================================
+STRUCTURAL BOUNDARY ANALYSIS – ACADEMIC REPORT (STUDY 1)
+Generated: 2026-04-08 08:42:09
+====================================================================================================
+
+================================================================================
+1. MARKOV TRANSITION MATRIX (REGIME PERSISTENCE)
+================================================================================
+Next_Config    Normal    C1    C2    C3    C4   C5    C6
+Configuration                                           
+Normal           59.6   0.0   3.8  28.8   7.7  0.0   0.0
+C1                0.0  20.0  60.0  10.0   0.0  0.0  10.0
+C2               12.0  12.0  40.0   8.0   0.0  0.0  28.0
+C3               17.4   2.3   2.3  44.2  33.7  0.0   0.0
+C4               19.6   0.0   4.3  54.3  21.7  0.0   0.0
+C5                0.0   0.0   0.0   0.0   0.0  0.0   0.0
+C6                0.0  25.0  25.0  25.0  12.5  0.0  12.5
+
+→ Interpretation: High diagonal values indicate strong regime persistence.
+  Note: C5 never observed, C1/C6 mostly transition to C2/C3 (early recovery).
+
+================================================================================
+2. SPEARMAN RANK CORRELATION (SPECULATIVE PARADOX)
+================================================================================
+E₃ vs R_t   : ρ = -0.1032, p = 1.33e-01
+E₃ vs PDI_t : ρ = -0.3962, p = 2.02e-09
+
+→ Interpretation: Negative ρ (E₃ vs PDI_t) supports the speculative paradox:
+  Higher extrapolative sentiment (E₃) coincides with lower price distortion (PDI).
+
+================================================================================
+3. STRUCTURAL BOUNDARY ANALYSIS (E₃, PDI_t, R_t)
+================================================================================
+A. Kruskal‑Wallis H‑test (differences across configurations)
+  E_3     : H =   93.59, p = 2.27e-19 (Significant)
+  PDI_t   : H =   72.51, p = 6.69e-15 (Significant)
+  R_t     : H =   77.47, p = 5.98e-16 (Significant)
+
+B. Pairwise Mann‑Whitney U tests (Bonferroni correction)
+
+* Metric: E_3
+    Normal vs C1    : p‑adj = 0.0001 ***
+    Normal vs C2    : p‑adj = 0.0000 ***
+    Normal vs C3    : p‑adj = 0.0000 ***
+    Normal vs C4    : p‑adj = 0.0000 ***
+    C1     vs C2    : p‑adj = 0.9663 ns
+    C1     vs C3    : p‑adj = 1.0000 ns
+    C1     vs C4    : p‑adj = 1.0000 ns
+    C2     vs C3    : p‑adj = 0.0554 ns
+    C2     vs C4    : p‑adj = 0.0007 ***
+    C3     vs C4    : p‑adj = 0.0729 ns
+
+* Metric: PDI_t
+    Normal vs C1    : p‑adj = 0.0131 *
+    Normal vs C2    : p‑adj = 0.0000 ***
+    Normal vs C3    : p‑adj = 1.0000 ns
+    Normal vs C4    : p‑adj = 1.0000 ns
+    C1     vs C2    : p‑adj = 1.0000 ns
+    C1     vs C3    : p‑adj = 0.0000 ***
+    C1     vs C4    : p‑adj = 0.0000 ***
+    C2     vs C3    : p‑adj = 0.0000 ***
+    C2     vs C4    : p‑adj = 0.0000 ***
+    C3     vs C4    : p‑adj = 1.0000 ns
+
+* Metric: R_t
+    Normal vs C1    : p‑adj = 1.0000 ns
+    Normal vs C2    : p‑adj = 1.0000 ns
+    Normal vs C3    : p‑adj = 0.0001 ***
+    Normal vs C4    : p‑adj = 0.0006 ***
+    C1     vs C2    : p‑adj = 1.0000 ns
+    C1     vs C3    : p‑adj = 0.0000 ***
+    C1     vs C4    : p‑adj = 0.0000 ***
+    C2     vs C3    : p‑adj = 0.0000 ***
+    C2     vs C4    : p‑adj = 0.0000 ***
+    C3     vs C4    : p‑adj = 1.0000 ns
+
+→ Key result: Normal regime has significantly lower E₃ than all other regimes,
+  confirming E₃ as the primary structural boundary variable.
+
+================================================================================
+4. C2 PATH: PREDICTING RECOVERY (C3) vs. CRASH (C1/C6)
+================================================================================
+Number of C2 transitions with known next state: 25
+  - C2 → C3   : 2 transitions
+  - C2 → Crash: 10 transitions
+
+E_3:
+  ROC AUC = 0.000
+  Optimal threshold (Youden): inf (accuracy = 50.0%)
+  Mann‑Whitney U test: p = 3.64e-02
+
+B:
+  ROC AUC = 0.000
+  Optimal threshold (Youden): inf (accuracy = 50.0%)
+  Mann‑Whitney U test: p = 3.64e-02
+
+================================================================================
+5. PDI LEADING INDICATOR IN C3/C4 REGIMES
+================================================================================
+Number of C3/C4 quarters with known next state: 132
+  - Next quarter crash (C1/C6): n=2
+  - Next quarter safe       : n=130
+  Insufficient data for leading indicator test.
+
+================================================================================
+6. CONDITIONAL TEST (R_t ≈ 0 AND dK_Pi_prime < 0)
+    → Under identical structural constraints, does PDI discriminate Normal vs Crash?
+================================================================================
+Observations satisfying condition: 61
+  - Normal state : n=6
+  - Crash state  : n=19
+  Median PDI in Normal: 0.0256
+  Median PDI in Crash : 0.0000
+  Mann‑Whitney U test: p = 1.60e-03
+  → Conclusion: PDI discriminates between Normal and crash regimes even under identical R_t and capital outflow conditions.
+
+================================================================================
+7. DIRECTIONAL TEST (LAGGED PDI AS LEADING INDICATOR)
+    → Does PDI(t-1) predict next‑quarter crash?
+================================================================================
+Total observations (with lag): 227
+  - Survival (no crash): n=209
+  - Crash (C1/C6)      : n=18
+  Median PDI_lag1 in survival group: 0.1470
+  Median PDI_lag1 in crash group   : 0.0000
+  Mann‑Whitney U test: p = 1.63e-07
+  → Conclusion: Lagged PDI is a directional leading indicator for crashes.
+
+====================================================================================================
+END OF REPORT
+====================================================================================================
