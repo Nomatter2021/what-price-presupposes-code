@@ -157,7 +157,7 @@ The M-C-M' revenue proxy holds for Technology, Healthcare, Retail, and Services 
                Source Code for What Price Presupposes V2.0.0},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.19366083},
-  url       = {https://doi.org/10.5281/zenodo.19366083}
+  doi       = {10.5281/zenodo.1948971},
+  url       = {https://doi.org/10.5281/zenodo.1948971}
 }
 ```
