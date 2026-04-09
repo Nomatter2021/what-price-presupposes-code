@@ -1,0 +1,6428 @@
+sectors:
+  Healthcare_Pharma:
+    description: Pharmaceuticals, Medical Devices, and Healthcare Services
+    companies:
+    - ticker: ESPR
+      cik: 0001434868
+      name: Esperion Therapeutics, Inc.
+      status: active
+    - ticker: LMAT
+      cik: 0001158895
+      name: LEMAITRE VASCULAR INC
+      status: active
+    - ticker: PEN
+      cik: '0001321732'
+      name: Penumbra Inc
+      status: active
+    - ticker: NXL, NXLIW
+      cik: '0001527352'
+      name: Nexalin Technology, Inc.
+      status: active
+    - ticker: CTMX
+      cik: 0001501989
+      name: CytomX Therapeutics, Inc.
+      status: active
+    - ticker: CYRX
+      cik: '0001124524'
+      name: Cryoport, Inc.
+      status: active
+    - ticker: YBGJ
+      cik: 0000895464
+      name: Yubo International Biotech Ltd
+      status: active
+    - ticker: NEPTF
+      cik: 0001401395
+      name: Neptune Wellness Solutions Inc.
+      status: active
+    - ticker: LUNG
+      cik: '0001127537'
+      name: Pulmonx Corp
+      status: active
+    - ticker: UTHR
+      cik: 0001082554
+      name: UNITED THERAPEUTICS Corp
+      status: active
+    - ticker: EXAS
+      cik: '0001124140'
+      name: EXACT SCIENCES CORP
+      status: active
+    - ticker: CPMD
+      cik: 0001081938
+      name: CANNAPHARMARX, INC.
+      status: active
+    - ticker: PAHC
+      cik: 0001069899
+      name: PHIBRO ANIMAL HEALTH CORP
+      status: active
+    - ticker: EXEL
+      cik: 0000939767
+      name: EXELIXIS, INC.
+      status: active
+    - ticker: SRDX
+      cik: 0000924717
+      name: SURMODICS INC
+      status: active
+    - ticker: RDNT
+      cik: 0000790526
+      name: RadNet, Inc.
+      status: active
+    - ticker: KOD
+      cik: 0001468748
+      name: Kodiak Sciences Inc.
+      status: active
+    - ticker: EW
+      cik: 0001099800
+      name: Edwards Lifesciences Corp
+      status: active
+    - ticker: MRKR
+      cik: 0001094038
+      name: Marker Therapeutics, Inc.
+      status: active
+    - ticker: VIRX
+      cik: '0001061027'
+      name: Viracta Therapeutics, Inc.
+      status: active
+    - ticker: BIOCQ
+      cik: 0001044378
+      name: BIOCEPT INC
+      status: active
+    - ticker: OCUL
+      cik: 0001393434
+      name: OCULAR THERAPEUTIX, INC
+      status: active
+    - ticker: LNTH
+      cik: '0001521036'
+      name: Lantheus Holdings, Inc.
+      status: active
+    - ticker: CWBR
+      cik: '0001522602'
+      name: CohBar, Inc.
+      status: active
+    - ticker: DMAC
+      cik: '0001401040'
+      name: DiaMedica Therapeutics Inc.
+      status: active
+    - ticker: AYTU
+      cik: 0001385818
+      name: AYTU BIOPHARMA, INC
+      status: active
+    - ticker: DMKPQ
+      cik: 0000887247
+      name: DMK PHARMACEUTICALS Corp
+      status: active
+    - ticker: PMCB
+      cik: '0001157075'
+      name: PharmaCyte Biotech, Inc.
+      status: active
+    - ticker: CHRS
+      cik: '0001512762'
+      name: Coherus BioSciences, Inc.
+      status: active
+    - ticker: ESMC
+      cik: 0000862668
+      name: ESCALON MEDICAL CORP
+      status: active
+    - ticker: IRTC
+      cik: 0001388658
+      name: iRhythm Technologies, Inc.
+      status: active
+    - ticker: AURX
+      cik: 0001091596
+      name: Nuo Therapeutics, Inc.
+      status: active
+    - ticker: ACST
+      cik: 0001444192
+      name: Acasti Pharma Inc.
+      status: active
+    - ticker: AFL
+      cik: 0000004977
+      name: AFLAC INC
+      status: active
+    - ticker: HSIC
+      cik: 0001000228
+      name: HENRY SCHEIN INC
+      status: active
+    - ticker: COSM
+      cik: '0001474167'
+      name: Cosmos Health Inc.
+      status: active
+    - ticker: TCMD
+      cik: 0001027838
+      name: TACTILE SYSTEMS TECHNOLOGY INC
+      status: active
+    - ticker: SIBN
+      cik: 0001459839
+      name: SI-BONE, Inc.
+      status: active
+    - ticker: ORMP
+      cik: 0001176309
+      name: ORAMED PHARMACEUTICALS INC.
+      status: active
+    - ticker: ELTP
+      cik: 0001053369
+      name: ELITE PHARMACEUTICALS INC /NV/
+      status: active
+    - ticker: OGEN
+      cik: 0001174940
+      name: ORAGENICS INC
+      status: active
+    - ticker: PTGX
+      cik: '0001377121'
+      name: Protagonist Therapeutics, Inc
+      status: active
+    - ticker: STEK
+      cik: 0001511820
+      name: Stemtech Corp
+      status: active
+    - ticker: SUPN
+      cik: '0001356576'
+      name: SUPERNUS PHARMACEUTICALS, INC.
+      status: active
+    - ticker: FOLD
+      cik: 0001178879
+      name: AMICUS THERAPEUTICS, INC.
+      status: active
+    - ticker: TARA
+      cik: 0001359931
+      name: Protara Therapeutics, Inc.
+      status: active
+    - ticker: MITI
+      cik: 0000802257
+      name: Mitesco, Inc.
+      status: active
+    - ticker: IART
+      cik: 0000917520
+      name: INTEGRA LIFESCIENCES HOLDINGS CORP
+      status: active
+    - ticker: RGRX
+      cik: '0000707511'
+      name: REGENERX BIOPHARMACEUTICALS INC
+      status: active
+    - ticker: MBOT
+      cik: 0000883975
+      name: Microbot Medical Inc.
+      status: active
+    - ticker: CTSO
+      cik: '0001175151'
+      name: Cytosorbents Corp
+      status: active
+    - ticker: SEM
+      cik: '0001320414'
+      name: SELECT MEDICAL HOLDINGS CORP
+      status: active
+    - ticker: CPRX
+      cik: 0001369568
+      name: CATALYST PHARMACEUTICALS, INC.
+      status: active
+    - ticker: MNOV
+      cik: '0001226616'
+      name: MEDICINOVA INC
+      status: active
+    - ticker: GMED
+      cik: 0001237831
+      name: GLOBUS MEDICAL INC
+      status: active
+    - ticker: FENC
+      cik: 0001211583
+      name: FENNEC PHARMACEUTICALS INC.
+      status: active
+    - ticker: TVTX
+      cik: 0001438533
+      name: Travere Therapeutics, Inc.
+      status: active
+    - ticker: ANIP
+      cik: '0001023024'
+      name: ANI PHARMACEUTICALS INC
+      status: active
+    - ticker: FEMY
+      cik: 0001339005
+      name: FEMASYS INC
+      status: active
+    - ticker: PFHO
+      cik: 0001138476
+      name: PACIFIC HEALTH CARE ORGANIZATION INC
+      status: active
+    - ticker: FATE
+      cik: '0001434316'
+      name: FATE THERAPEUTICS INC
+      status: active
+    - ticker: IMNM
+      cik: '0001472012'
+      name: Immunome Inc.
+      status: active
+    - ticker: GNLX
+      cik: '0001231457'
+      name: GENELUX Corp
+      status: active
+    - ticker: RENB
+      cik: 0001527728
+      name: RENOVARO INC.
+      status: active
+    - ticker: CRIS
+      cik: 0001108205
+      name: CURIS INC
+      status: active
+    - ticker: ADVM
+      cik: '0001501756'
+      name: Adverum Biotechnologies, Inc.
+      status: active
+    - ticker: ENOV
+      cik: 0001420800
+      name: Enovis CORP
+      status: active
+    - ticker: ISCO
+      cik: 0001355790
+      name: International Stem Cell CORP
+      status: active
+    - ticker: CVM
+      cik: '0000725363'
+      name: CEL SCI CORP
+      status: active
+    - ticker: UFPT
+      cik: 0000914156
+      name: UFP TECHNOLOGIES INC
+      status: active
+    - ticker: NBIX
+      cik: 0000914475
+      name: NEUROCRINE BIOSCIENCES INC
+      status: active
+    - ticker: SRTS
+      cik: 0001494891
+      name: Sensus Healthcare, Inc.
+      status: active
+    - ticker: OMER
+      cik: 0001285819
+      name: OMEROS CORP
+      status: active
+    - ticker: IMNN
+      cik: 0000749647
+      name: Imunon, Inc.
+      status: active
+    - ticker: CLRB
+      cik: 0001279704
+      name: Cellectar Biosciences, Inc.
+      status: active
+    - ticker: CRVO
+      cik: 0001053691
+      name: CervoMed Inc.
+      status: active
+    - ticker: AGEN
+      cik: 0001098972
+      name: AGENUS INC
+      status: active
+    - ticker: THC
+      cik: 0000070318
+      name: TENET HEALTHCARE CORP
+      status: active
+    - ticker: CYH
+      cik: 0001108109
+      name: COMMUNITY HEALTH SYSTEMS INC
+      status: active
+    - ticker: CATX
+      cik: 0000728387
+      name: Perspective Therapeutics, Inc.
+      status: active
+    - ticker: ADXS
+      cik: 0001100397
+      name: Ayala Pharmaceuticals, Inc.
+      status: active
+    - ticker: OFIX
+      cik: 0000884624
+      name: Orthofix Medical Inc.
+      status: active
+    - ticker: STAB
+      cik: 0001318641
+      name: Statera Biopharma, Inc.
+      status: active
+    - ticker: ANNX
+      cik: 0001528115
+      name: Annexon, Inc.
+      status: active
+    - ticker: ICCC
+      cik: 0000811641
+      name: IMMUCELL CORP /DE/
+      status: active
+    - ticker: AMPE
+      cik: 0001411906
+      name: Ampio Pharmaceuticals, Inc.
+      status: active
+    - ticker: FCHS
+      cik: 0001416876
+      name: First Choice Healthcare Solutions, Inc.
+      status: active
+    - ticker: PETV, PETVW
+      cik: 0001512922
+      name: PetVivo Holdings, Inc.
+      status: active
+    - ticker: LRMR
+      cik: 0001374690
+      name: Larimar Therapeutics, Inc.
+      status: active
+    - ticker: CANB
+      cik: 0001509957
+      name: Can B Corp
+      status: active
+    - ticker: EBS
+      cik: '0001367644'
+      name: Emergent BioSolutions Inc.
+      status: active
+    - ticker: XGN
+      cik: '0001274737'
+      name: EXAGEN INC.
+      status: active
+    - ticker: SYK
+      cik: '0000310764'
+      name: STRYKER CORP
+      status: active
+    - ticker: TTNP, TTNPW
+      cik: 0000910267
+      name: TITAN PHARMACEUTICALS INC
+      status: active
+    - ticker: MODD
+      cik: 0001074871
+      name: Modular Medical, Inc.
+      status: active
+    - ticker: ATOS
+      cik: 0001488039
+      name: ATOSSA THERAPEUTICS, INC.
+      status: active
+    - ticker: ZYXI
+      cik: 0000846475
+      name: ZYNEX INC
+      status: active
+    - ticker: NAOV
+      cik: '0001326706'
+      name: NanoVibronix, Inc.
+      status: active
+    - ticker: AGRX, AGXRW
+      cik: 0001261249
+      name: AGILE THERAPEUTICS INC
+      status: active
+    - ticker: PBH
+      cik: 0001295947
+      name: Prestige Consumer Healthcare Inc.
+      status: active
+    - ticker: MGNX
+      cik: '0001125345'
+      name: MACROGENICS INC
+      status: active
+    - ticker: CUTR
+      cik: '0001162461'
+      name: CUTERA INC
+      status: active
+    - ticker: PDSB
+      cik: 0001472091
+      name: PDS Biotechnology Corp
+      status: active
+    - ticker: CSTL
+      cik: '0001447362'
+      name: CASTLE BIOSCIENCES INC
+      status: active
+    - ticker: AVGR
+      cik: 0001506928
+      name: Avinger Inc
+      status: active
+    - ticker: IRIX
+      cik: '0001006045'
+      name: IRIDEX CORP
+      status: active
+    - ticker: UNH
+      cik: '0000731766'
+      name: UNITEDHEALTH GROUP INC
+      status: active
+    - ticker: WST
+      cik: '0000105770'
+      name: WEST PHARMACEUTICAL SERVICES INC
+      status: active
+    - ticker: RVNC
+      cik: 0001479290
+      name: Revance Therapeutics, Inc.
+      status: active
+    - ticker: BETRF
+      cik: '0001464165'
+      name: BetterLife Pharma Inc.
+      status: active
+    - ticker: CRL
+      cik: 0001100682
+      name: CHARLES RIVER LABORATORIES INTERNATIONAL, INC.
+      status: active
+    - ticker: SMTI
+      cik: '0000714256'
+      name: Sanara MedTech Inc.
+      status: active
+    - ticker: PCNT
+      cik: 0001504239
+      name: Point of Care Nano-Technology, Inc.
+      status: active
+    - ticker: BSX
+      cik: 0000885725
+      name: BOSTON SCIENTIFIC CORP
+      status: active
+    - ticker: CYTK
+      cik: 0001061983
+      name: CYTOKINETICS INC
+      status: active
+    - ticker: CPHI
+      cik: '0001106644'
+      name: CHINA PHARMA HOLDINGS, INC.
+      status: active
+    - ticker: MDGL
+      cik: '0001157601'
+      name: MADRIGAL PHARMACEUTICALS, INC.
+      status: active
+    - ticker: GYRE
+      cik: '0001124105'
+      name: GYRE THERAPEUTICS, INC.
+      status: active
+    - ticker: DRRX
+      cik: 0001082038
+      name: DURECT CORP
+      status: active
+    - ticker: MLSS
+      cik: 0000855683
+      name: MILESTONE SCIENTIFIC INC.
+      status: active
+    - ticker: RIGL
+      cik: 0001034842
+      name: RIGEL PHARMACEUTICALS INC
+      status: active
+    - ticker: XSNX
+      cik: 0001039466
+      name: NovAccess Global Inc.
+      status: active
+    - ticker: MYGN
+      cik: 0000899923
+      name: MYRIAD GENETICS INC
+      status: active
+    - ticker: SONN
+      cik: 0001106838
+      name: Sonnet BioTherapeutics Holdings, Inc.
+      status: active
+    - ticker: TNFA
+      cik: 0001321834
+      name: TNF Pharmaceuticals, Inc.
+      status: active
+    - ticker: VSTM
+      cik: 0001526119
+      name: Verastem, Inc.
+      status: active
+    - ticker: IGXT
+      cik: 0001098880
+      name: IntelGenx Technologies Corp.
+      status: active
+    - ticker: NEPH
+      cik: 0001196298
+      name: NEPHROS INC
+      status: active
+    - ticker: PBYI
+      cik: '0001401667'
+      name: PUMA BIOTECHNOLOGY, INC.
+      status: active
+    - ticker: SCYX
+      cik: 0001178253
+      name: SCYNEXIS INC
+      status: active
+    - ticker: ALKS
+      cik: '0001520262'
+      name: Alkermes plc.
+      status: active
+    - ticker: NURO
+      cik: 0001289850
+      name: NeuroMetrix, Inc.
+      status: active
+    - ticker: KURA
+      cik: '0001422143'
+      name: Kura Oncology, Inc.
+      status: active
+    - ticker: ARMP
+      cik: 0000921114
+      name: Armata Pharmaceuticals, Inc.
+      status: active
+    - ticker: REGN
+      cik: 0000872589
+      name: REGENERON PHARMACEUTICALS, INC.
+      status: active
+    - ticker: PLX
+      cik: 0001006281
+      name: Protalix BioTherapeutics, Inc.
+      status: active
+    - ticker: SGMO
+      cik: '0001001233'
+      name: SANGAMO THERAPEUTICS, INC
+      status: active
+    - ticker: LSTA
+      cik: '0000320017'
+      name: LISATA THERAPEUTICS, INC.
+      status: active
+    - ticker: RSPI
+      cik: 0000849636
+      name: RespireRx Pharmaceuticals Inc.
+      status: active
+    - ticker: GERN, GERNW
+      cik: 0000886744
+      name: GERON CORP
+      status: active
+    - ticker: ADIL
+      cik: '0001513525'
+      name: ADIAL PHARMACEUTICALS, INC.
+      status: active
+    - ticker: SBFM, SBFMW
+      cik: 0001402328
+      name: Sunshine Biopharma, Inc
+      status: active
+    - ticker: INVO
+      cik: 0001417926
+      name: INVO Bioscience, Inc.
+      status: active
+    - ticker: VBIVQ
+      cik: 0000764195
+      name: VBI Vaccines Inc/BC
+      status: active
+    - ticker: IDXX
+      cik: 0000874716
+      name: IDEXX LABORATORIES INC /DE
+      status: active
+    - ticker: APYX
+      cik: 0000719135
+      name: Apyx Medical Corp
+      status: active
+    - ticker: TTOO
+      cik: 0001492674
+      name: T2 Biosystems, Inc.
+      status: active
+    - ticker: MRK
+      cik: 0000310158
+      name: Merck & Co., Inc.
+      status: active
+    - ticker: MDXG
+      cik: 0001376339
+      name: MIMEDX GROUP, INC.
+      status: active
+    - ticker: PREJF
+      cik: 0000911421
+      name: PARTNERRE LTD
+      status: active
+    - ticker: VERO
+      cik: 0001409269
+      name: Venus Concept Inc.
+      status: active
+    - ticker: ADUS
+      cik: 0001468328
+      name: Addus HomeCare Corp
+      status: active
+    - ticker: ALGN
+      cik: 0001097149
+      name: ALIGN TECHNOLOGY INC
+      status: active
+    - ticker: KAYS
+      cik: '0001530746'
+      name: Kaya Holdings, Inc.
+      status: active
+    - ticker: BDSX
+      cik: 0001439725
+      name: BIODESIX INC
+      status: active
+    - ticker: PCRX
+      cik: 0001396814
+      name: Pacira BioSciences, Inc.
+      status: active
+    - ticker: PGEN
+      cik: 0001356090
+      name: PRECIGEN, INC.
+      status: active
+    - ticker: CVRX
+      cik: 0001235912
+      name: CVRx, Inc.
+      status: active
+    - ticker: VCEL
+      cik: 0000887359
+      name: Vericel Corp
+      status: active
+    - ticker: RMTI
+      cik: '0001041024'
+      name: ROCKWELL MEDICAL, INC.
+      status: active
+    - ticker: CHHE
+      cik: 0001309057
+      name: China Health Industries Holdings, Inc.
+      status: active
+    - ticker: ACAD
+      cik: 0001070494
+      name: ACADIA PHARMACEUTICALS INC
+      status: active
+    - ticker: IGC
+      cik: '0001326205'
+      name: IGC Pharma, Inc.
+      status: active
+    - ticker: ATHXQ
+      cik: 0001368148
+      name: ATHERSYS, INC / NEW
+      status: active
+    - ticker: QLGN
+      cik: '0001460702'
+      name: Qualigen Therapeutics, Inc.
+      status: active
+    - ticker: SLS
+      cik: 0001390478
+      name: SELLAS Life Sciences Group, Inc.
+      status: active
+    - ticker: PKTX
+      cik: 0001128189
+      name: ProtoKinetix, Inc.
+      status: active
+    - ticker: INFIQ
+      cik: 0001113148
+      name: INFINITY PHARMACEUTICALS, INC.
+      status: active
+    - ticker: PTIX, PTIXW
+      cik: 0001022899
+      name: Protagenic Therapeutics, Inc.\new
+      status: active
+    - ticker: NIMU
+      cik: '0000720762'
+      name: NON INVASIVE MONITORING SYSTEMS INC /FL/
+      status: active
+    - ticker: NUS
+      cik: '0001021561'
+      name: NU SKIN ENTERPRISES, INC.
+      status: active
+    - ticker: CAH
+      cik: '0000721371'
+      name: CARDINAL HEALTH INC
+      status: active
+    - ticker: NVAX
+      cik: 0001000694
+      name: NOVAVAX INC
+      status: active
+    - ticker: ZVRA
+      cik: '0001434647'
+      name: ZEVRA THERAPEUTICS, INC.
+      status: active
+    - ticker: MASI
+      cik: 0000937556
+      name: MASIMO CORP
+      status: active
+    - ticker: KALA
+      cik: 0001479419
+      name: KALA BIO, Inc.
+      status: active
+    - ticker: MTEM
+      cik: 0001183765
+      name: Molecular Templates, Inc.
+      status: active
+    - ticker: SGBI
+      cik: 0001104280
+      name: SANGUI BIOTECH INTERNATIONAL INC
+      status: active
+    - ticker: PDCO
+      cik: 0000891024
+      name: PATTERSON COMPANIES, INC.
+      status: active
+    - ticker: ANGO
+      cik: 0001275187
+      name: ANGIODYNAMICS INC
+      status: active
+    - ticker: VCYT
+      cik: 0001384101
+      name: VERACYTE, INC.
+      status: active
+    - ticker: IRMD
+      cik: 0001325618
+      name: IRADIMED CORP
+      status: active
+    - ticker: CAPR
+      cik: 0001133869
+      name: CAPRICOR THERAPEUTICS, INC.
+      status: active
+    - ticker: NUWE, NUWEW
+      cik: 0001506492
+      name: Nuwellis, Inc.
+      status: active
+    - ticker: PLUR
+      cik: 0001158780
+      name: Pluri Inc.
+      status: active
+    - ticker: TENX
+      cik: 0000034956
+      name: TENAX THERAPEUTICS, INC.
+      status: active
+    - ticker: HALB
+      cik: 0001458631
+      name: Halberd Corp
+      status: active
+    - ticker: CSBR
+      cik: 0000771856
+      name: CHAMPIONS ONCOLOGY, INC.
+      status: active
+    - ticker: TRXDW
+      cik: 0000876378
+      name: ASENSUS SURGICAL, INC.
+      status: active
+    - ticker: ITGR
+      cik: 0001114483
+      name: Integer Holdings Corp
+      status: active
+    - ticker: GRST
+      cik: 0000792935
+      name: ETHEMA HEALTH Corp
+      status: active
+    - ticker: PRPH
+      cik: 0000868278
+      name: ProPhase Labs, Inc.
+      status: active
+    - ticker: PSNL
+      cik: '0001527753'
+      name: Personalis, Inc.
+      status: active
+    - ticker: POCI
+      cik: 0000867840
+      name: PRECISION OPTICS CORPORATION, INC.
+      status: active
+    - ticker: KIDS
+      cik: '0001425450'
+      name: ORTHOPEDIATRICS CORP
+      status: active
+    - ticker: PTEIQ
+      cik: 0001076682
+      name: POLARITYTE, INC.
+      status: active
+    - ticker: ISRG
+      cik: '0001035267'
+      name: INTUITIVE SURGICAL INC
+      status: active
+    - ticker: PTN
+      cik: 0000911216
+      name: PALATIN TECHNOLOGIES INC
+      status: active
+    - ticker: HROW, HROWL, HROWM
+      cik: '0001360214'
+      name: HARROW, INC.
+      status: active
+    - ticker: AVDL
+      cik: '0001012477'
+      name: AVADEL PHARMACEUTICALS PLC
+      status: active
+    - ticker: TNXP
+      cik: '0001430306'
+      name: Tonix Pharmaceuticals Holding Corp.
+      status: active
+    - ticker: CNMD
+      cik: 0000816956
+      name: CONMED Corp
+      status: active
+    - ticker: BIXT
+      cik: 0001445815
+      name: BIOXYTRAN, INC
+      status: active
+    - ticker: NKTR
+      cik: 0000906709
+      name: NEKTAR THERAPEUTICS
+      status: active
+    - ticker: ELV
+      cik: 0001156039
+      name: Elevance Health, Inc.
+      status: active
+    - ticker: NRC
+      cik: 0000070487
+      name: NATIONAL RESEARCH CORP
+      status: active
+    - ticker: PVCT
+      cik: '0000315545'
+      name: PROVECTUS BIOPHARMACEUTICALS, INC.
+      status: active
+    - ticker: ZIVO, ZIVOW
+      cik: '0001101026'
+      name: Zivo Bioscience, Inc.
+      status: active
+    - ticker: CELZ
+      cik: 0001187953
+      name: CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.
+      status: active
+    - ticker: CDMO
+      cik: '0000704562'
+      name: Avid Bioservices, Inc.
+      status: active
+    - ticker: RBSH
+      cik: '0001421204'
+      name: Rebus Holdings, Inc.
+      status: active
+    - ticker: SRNE
+      cik: 0000850261
+      name: Sorrento Therapeutics, Inc.
+      status: active
+    - ticker: DCTH
+      cik: 0000872912
+      name: DELCATH SYSTEMS, INC.
+      status: active
+    - ticker: COLL
+      cik: '0001267565'
+      name: COLLEGIUM PHARMACEUTICAL, INC
+      status: active
+    - ticker: VNRX
+      cik: 0000093314
+      name: VOLITIONRX LTD
+      status: active
+    - ticker: NAVB
+      cik: 0000810509
+      name: NAVIDEA BIOPHARMACEUTICALS, INC.
+      status: active
+    - ticker: IOVA
+      cik: '0001425205'
+      name: IOVANCE BIOTHERAPEUTICS, INC.
+      status: active
+    - ticker: ANVS
+      cik: 0001477845
+      name: Annovis Bio, Inc.
+      status: active
+    - ticker: GILD
+      cik: 0000882095
+      name: GILEAD SCIENCES, INC.
+      status: active
+    - ticker: NVRO
+      cik: 0001444380
+      name: NEVRO CORP
+      status: active
+    - ticker: SSY
+      cik: 0000096793
+      name: SUNLINK HEALTH SYSTEMS INC
+      status: active
+    - ticker: BMRA
+      cik: 0000073290
+      name: BIOMERICA INC
+      status: active
+    - ticker: ATEC
+      cik: '0001350653'
+      name: Alphatec Holdings, Inc.
+      status: active
+    - ticker: XNCR
+      cik: '0001326732'
+      name: Xencor Inc
+      status: active
+    - ticker: UEEC
+      cik: 0001096938
+      name: United Health Products, Inc.
+      status: active
+    - ticker: LIFD
+      cik: 0001391135
+      name: LFTD PARTNERS INC.
+      status: active
+    - ticker: CVSI
+      cik: 0001510964
+      name: CV Sciences, Inc.
+      status: active
+    - ticker: ATRC
+      cik: 0001323885
+      name: AtriCure, Inc.
+      status: active
+    - ticker: LH
+      cik: 0000920148
+      name: LABCORP HOLDINGS INC.
+      status: active
+    - ticker: OPK
+      cik: 0000944809
+      name: OPKO HEALTH, INC.
+      status: active
+    - ticker: INSM
+      cik: '0001104506'
+      name: INSMED Inc
+      status: active
+    - ticker: BUDZ
+      cik: 0001393772
+      name: WEED, INC.
+      status: active
+    - ticker: COCP
+      cik: 0001412486
+      name: Cocrystal Pharma, Inc.
+      status: active
+    - ticker: WCUI
+      cik: 0001516887
+      name: Wellness Center USA, Inc.
+      status: active
+    - ticker: ADPT
+      cik: 0001478320
+      name: Adaptive Biotechnologies Corp
+      status: active
+    - ticker: ONCT
+      cik: 0001260990
+      name: Oncternal Therapeutics, Inc.
+      status: active
+    - ticker: HUM
+      cik: 0000049071
+      name: HUMANA INC
+      status: active
+    - ticker: CARA
+      cik: 0001346830
+      name: Cara Therapeutics, Inc.
+      status: active
+    - ticker: VNDA
+      cik: 0001347178
+      name: Vanda Pharmaceuticals Inc.
+      status: active
+    - ticker: UHS
+      cik: 0000352915
+      name: UNIVERSAL HEALTH SERVICES INC
+      status: active
+    - ticker: GPLB
+      cik: 0001392449
+      name: Green Planet Bio Engineering Co. Ltd.
+      status: active
+    - ticker: ENTA
+      cik: 0001177648
+      name: ENANTA PHARMACEUTICALS INC
+      status: active
+    - ticker: SLNO
+      cik: 0001484565
+      name: SOLENO THERAPEUTICS INC
+      status: active
+    - ticker: GCTK
+      cik: 0001506983
+      name: Glucotrack, Inc.
+      status: active
+    - ticker: SILK
+      cik: 0001397702
+      name: Silk Road Medical Inc
+      status: active
+    - ticker: MRSN
+      cik: 0001442836
+      name: Mersana Therapeutics, Inc.
+      status: active
+    - ticker: AIM
+      cik: 0000946644
+      name: AIM ImmunoTech Inc.
+      status: active
+    - ticker: NPCE
+      cik: 0001528287
+      name: NeuroPace Inc
+      status: active
+    - ticker: EGRX
+      cik: 0000827871
+      name: EAGLE PHARMACEUTICALS, INC.
+      status: active
+    - ticker: CRMD
+      cik: 0001410098
+      name: CorMedix Inc.
+      status: active
+    - ticker: TEVA, TEVJF
+      cik: 0000818686
+      name: TEVA PHARMACEUTICAL INDUSTRIES LTD
+      status: active
+    - ticker: ANIX
+      cik: '0000715446'
+      name: Anixa Biosciences Inc
+      status: active
+    - ticker: APTO
+      cik: 0000882361
+      name: Aptose Biosciences Inc.
+      status: active
+    - ticker: IGMS
+      cik: 0001496323
+      name: IGM Biosciences, Inc.
+      status: active
+    - ticker: KPTI
+      cik: 0001503802
+      name: Karyopharm Therapeutics Inc.
+      status: active
+    - ticker: SNGX
+      cik: 0000812796
+      name: SOLIGENIX, INC.
+      status: active
+    - ticker: XFOR, XFOWW
+      cik: 0001501697
+      name: X4 Pharmaceuticals, Inc
+      status: active
+    - ticker: LLY
+      cik: 0000059478
+      name: ELI LILLY & Co
+      status: active
+    - ticker: PTCT
+      cik: 0001070081
+      name: PTC THERAPEUTICS, INC.
+      status: active
+    - ticker: BAX
+      cik: '0000010456'
+      name: BAXTER INTERNATIONAL INC
+      status: active
+    - ticker: ENMI
+      cik: 0001300781
+      name: DH ENCHANTMENT, INC.
+      status: active
+    - ticker: ALDX
+      cik: '0001341235'
+      name: Aldeyra Therapeutics, Inc.
+      status: active
+    - ticker: TCON
+      cik: 0001394319
+      name: Tracon Pharmaceuticals, Inc.
+      status: active
+    - ticker: SKVI
+      cik: 0001085277
+      name: SKINVISIBLE, INC.
+      status: active
+    - ticker: AAGH
+      cik: 0001098009
+      name: America Great Health
+      status: active
+    - ticker: ARDX
+      cik: '0001437402'
+      name: ARDELYX, INC.
+      status: active
+    - ticker: ECIA
+      cik: 0000930775
+      name: ENCISION INC
+      status: active
+    - ticker: ABMC
+      cik: 0000896747
+      name: AMERICAN BIO MEDICA CORP
+      status: active
+    - ticker: PMD
+      cik: 0000806517
+      name: PSYCHEMEDICS CORP
+      status: active
+    - ticker: LADX
+      cik: 0000799698
+      name: LadRx Corp
+      status: active
+    - ticker: MCK
+      cik: 0000927653
+      name: MCKESSON CORP
+      status: active
+    - ticker: BMY, BMYMP, CELG-RI
+      cik: '0000014272'
+      name: BRISTOL MYERS SQUIBB CO
+      status: active
+    - ticker: ADMT
+      cik: 0000849401
+      name: ADM TRONICS UNLIMITED, INC.
+      status: active
+    - ticker: ALNY
+      cik: 0001178670
+      name: ALNYLAM PHARMACEUTICALS, INC.
+      status: active
+    - ticker: ALRN
+      cik: '0001420565'
+      name: Aileron Therapeutics, Inc.
+      status: active
+    - ticker: CTXR
+      cik: '0001506251'
+      name: Citius Pharmaceuticals, Inc.
+      status: active
+    - ticker: LGND, LGNDZ, LGNXZ, LGNYZ, LGNZZ
+      cik: 0000886163
+      name: LIGAND PHARMACEUTICALS INC
+      status: active
+    - ticker: OTLC
+      cik: 0000908259
+      name: Oncotelic Therapeutics, Inc.
+      status: active
+    - ticker: OTRK, OTRKP
+      cik: '0001136174'
+      name: Ontrak, Inc.
+      status: active
+    - ticker: AKBA
+      cik: '0001517022'
+      name: Akebia Therapeutics, Inc.
+      status: active
+    - ticker: AADI
+      cik: '0001422142'
+      name: Aadi Bioscience, Inc.
+      status: active
+    - ticker: RVP
+      cik: 0000946563
+      name: RETRACTABLE TECHNOLOGIES INC
+      status: active
+    - ticker: CYCC, CYCCP
+      cik: '0001130166'
+      name: Cyclacel Pharmaceuticals, Inc.
+      status: active
+    - ticker: NGNE
+      cik: '0001404644'
+      name: Neurogene Inc.
+      status: active
+    - ticker: RGEN
+      cik: '0000730272'
+      name: REPLIGEN CORP
+      status: active
+    - ticker: FRTX
+      cik: 0000819050
+      name: Fresh Tracks Therapeutics, Inc.
+      status: active
+    - ticker: MIST
+      cik: 0001408443
+      name: Milestone Pharmaceuticals Inc.
+      status: active
+    - ticker: NOTV
+      cik: '0000720154'
+      name: Inotiv, Inc.
+      status: active
+    - ticker: KPRX, KPHMW
+      cik: '0001372514'
+      name: KIORA PHARMACEUTICALS INC
+      status: active
+    - ticker: AIMD, AIMDW
+      cik: '0001014763'
+      name: Ainos, Inc.
+      status: active
+    - ticker: OPTN
+      cik: 0001494650
+      name: OptiNose, Inc.
+      status: active
+    - ticker: BZYR
+      cik: '0000724445'
+      name: BURZYNSKI RESEARCH INSTITUTE INC
+      status: active
+    - ticker: TRVN
+      cik: 0001429560
+      name: TREVENA INC
+      status: active
+    - ticker: CNO, CNO-PA
+      cik: 0001224608
+      name: CNO Financial Group, Inc.
+      status: active
+    - ticker: HRTX
+      cik: 0000818033
+      name: HERON THERAPEUTICS, INC. /DE/
+      status: active
+    - ticker: IMUX
+      cik: 0001280776
+      name: IMMUNIC, INC.
+      status: active
+    - ticker: MMM
+      cik: '0000066740'
+      name: 3M CO
+      status: active
+    - ticker: VAPO
+      cik: '0001253176'
+      name: VAPOTHERM INC
+      status: active
+    - ticker: INTI
+      cik: 0001042418
+      name: Inhibitor Therapeutics, Inc.
+      status: active
+    - ticker: VICP
+      cik: 0001468639
+      name: Vicapsys Life Sciences, Inc.
+      status: active
+    - ticker: ENDV
+      cik: 0001528172
+      name: ENDONOVO THERAPEUTICS, INC.
+      status: active
+    - ticker: INCY
+      cik: 0000879169
+      name: INCYTE CORP
+      status: active
+    - ticker: ENZN
+      cik: '0000727510'
+      name: ENZON PHARMACEUTICALS, INC.
+      status: active
+    - ticker: BLUE
+      cik: 0001293971
+      name: bluebird bio, Inc.
+      status: active
+    - ticker: CDNA
+      cik: '0001217234'
+      name: CareDx, Inc.
+      status: active
+    - ticker: CLDX
+      cik: 0000744218
+      name: Celldex Therapeutics, Inc.
+      status: active
+    - ticker: RARE
+      cik: '0001515673'
+      name: Ultragenyx Pharmaceutical Inc.
+      status: active
+    - ticker: PDEX
+      cik: 0000788920
+      name: PRO DEX INC
+      status: active
+    - ticker: PALI
+      cik: 0001357459
+      name: PALISADE BIO, INC.
+      status: active
+    - ticker: CNC
+      cik: 0001071739
+      name: CENTENE CORP
+      status: active
+    - ticker: ALIM
+      cik: '0001267602'
+      name: ALIMERA SCIENCES INC
+      status: active
+    - ticker: MMSI
+      cik: 0000856982
+      name: MERIT MEDICAL SYSTEMS INC
+      status: active
+    - ticker: SDGR
+      cik: 0001490978
+      name: Schrodinger, Inc.
+      status: active
+    - ticker: MYO
+      cik: 0001369290
+      name: MYOMO, INC.
+      status: active
+    - ticker: VTGN
+      cik: 0001411685
+      name: Vistagen Therapeutics, Inc.
+      status: active
+    - ticker: IRWD
+      cik: 0001446847
+      name: IRONWOOD PHARMACEUTICALS INC
+      status: active
+    - ticker: RMHI
+      cik: 0001452804
+      name: Retrieve Medical Holdings, Inc.
+      status: active
+    - ticker: ACUR
+      cik: 0000786947
+      name: ACURA PHARMACEUTICALS, INC
+      status: active
+    - ticker: CARM
+      cik: 0001485003
+      name: Carisma Therapeutics Inc.
+      status: active
+    - ticker: TLPH
+      cik: 0001427925
+      name: TALPHERA, INC.
+      status: active
+    - ticker: SKYE
+      cik: '0001516551'
+      name: Skye Bioscience, Inc.
+      status: active
+    - ticker: BSGM
+      cik: '0001530766'
+      name: BioSig Technologies, Inc.
+      status: active
+    - ticker: EIGRQ
+      cik: '0001305253'
+      name: Eiger BioPharmaceuticals, Inc.
+      status: active
+    - ticker: MSLPQ
+      cik: 0001415684
+      name: MusclePharm Corp
+      status: active
+    - ticker: COR
+      cik: 0001140859
+      name: Cencora, Inc.
+      status: active
+    - ticker: PBLA
+      cik: 0001029125
+      name: Panbela Therapeutics, Inc.
+      status: active
+    - ticker: HALO
+      cik: 0001159036
+      name: HALOZYME THERAPEUTICS, INC.
+      status: active
+    - ticker: VIVE
+      cik: 0000879682
+      name: VIVEVE MEDICAL, INC.
+      status: active
+    - ticker: ICUI
+      cik: 0000883984
+      name: ICU MEDICAL INC/DE
+      status: active
+    - ticker: SNWV
+      cik: '0001417663'
+      name: SANUWAVE Health, Inc.
+      status: active
+    - ticker: STRO
+      cik: 0001382101
+      name: SUTRO BIOPHARMA, INC.
+      status: active
+    - ticker: TOVX
+      cik: 0000894158
+      name: Theriva Biologics, Inc.
+      status: active
+    - ticker: ABVC
+      cik: '0001173313'
+      name: ABVC BIOPHARMA, INC.
+      status: active
+    - ticker: NMTC
+      cik: 0001500198
+      name: NEUROONE MEDICAL TECHNOLOGIES Corp
+      status: active
+    - ticker: AORT
+      cik: 0000784199
+      name: ARTIVION, INC.
+      status: active
+    - ticker: EMMA
+      cik: 0000822370
+      name: Emmaus Life Sciences, Inc.
+      status: active
+    - ticker: CALA
+      cik: 0001496671
+      name: Calithera Biosciences, Inc.
+      status: active
+    - ticker: VXRT
+      cik: '0000072444'
+      name: Vaxart, Inc.
+      status: active
+    - ticker: CHE
+      cik: 0000019584
+      name: CHEMED CORP
+      status: active
+    - ticker: ATXS
+      cik: 0001454789
+      name: Astria Therapeutics, Inc.
+      status: active
+    - ticker: ALT
+      cik: 0001326190
+      name: Altimmune, Inc.
+      status: active
+    - ticker: KTRA
+      cik: 0001498382
+      name: Kintara Therapeutics, Inc.
+      status: active
+    - ticker: HLF
+      cik: 0001180262
+      name: HERBALIFE LTD.
+      status: active
+    - ticker: INFU
+      cik: '0001337013'
+      name: InfuSystem Holdings, Inc
+      status: active
+    - ticker: MXCT
+      cik: 0001287098
+      name: MAXCYTE, INC.
+      status: active
+    - ticker: CERS
+      cik: '0001020214'
+      name: CERUS CORP
+      status: active
+    - ticker: CMRX
+      cik: 0001117480
+      name: CHIMERIX INC
+      status: active
+    - ticker: HSTC
+      cik: 0000797564
+      name: HST Global, Inc.
+      status: active
+    - ticker: RZLT
+      cik: 0001509261
+      name: Rezolute, Inc.
+      status: active
+    - ticker: RDGL
+      cik: 0001449349
+      name: VIVOS INC
+      status: active
+    - ticker: AGIO
+      cik: 0001439222
+      name: AGIOS PHARMACEUTICALS, INC.
+      status: active
+    - ticker: ADMA
+      cik: 0001368514
+      name: ADMA BIOLOGICS, INC.
+      status: active
+    - ticker: STRR, STRRP
+      cik: 0000707388
+      name: STAR EQUITY HOLDINGS, INC.
+      status: active
+    - ticker: AMPH
+      cik: 0001297184
+      name: Amphastar Pharmaceuticals, Inc.
+      status: active
+    - ticker: GSTC
+      cik: '0001502152'
+      name: GlobeStar Therapeutics Corp
+      status: active
+    - ticker: IONS
+      cik: 0000874015
+      name: IONIS PHARMACEUTICALS INC
+      status: active
+    - ticker: RMD, RSMDF
+      cik: 0000943819
+      name: RESMED INC
+      status: active
+    - ticker: MEDS
+      cik: 0001382574
+      name: TRxADE HEALTH, INC
+      status: active
+    - ticker: NBY
+      cik: 0001389545
+      name: NovaBay Pharmaceuticals, Inc.
+      status: active
+    - ticker: CORT
+      cik: 0001088856
+      name: CORCEPT THERAPEUTICS INC
+      status: active
+    - ticker: ELMD
+      cik: 0001488917
+      name: Electromed, Inc.
+      status: active
+    - ticker: ELDN
+      cik: 0001404281
+      name: Eledon Pharmaceuticals, Inc.
+      status: active
+    - ticker: PODD
+      cik: 0001145197
+      name: INSULET CORP
+      status: active
+    - ticker: OPGN
+      cik: 0001293818
+      name: OPGEN INC
+      status: active
+    - ticker: BLFS
+      cik: 0000834365
+      name: BIOLIFE SOLUTIONS INC
+      status: active
+    - ticker: FBRX
+      cik: 0001419041
+      name: Forte Biosciences, Inc.
+      status: active
+    - ticker: KRMD
+      cik: '0000704440'
+      name: KORU Medical Systems, Inc.
+      status: active
+    - ticker: TXMD
+      cik: '0000025743'
+      name: TherapeuticsMD, Inc.
+      status: active
+    - ticker: DYAI
+      cik: 0001213809
+      name: DYADIC INTERNATIONAL INC
+      status: active
+    - ticker: ENVB
+      cik: 0000890821
+      name: Enveric Biosciences, Inc.
+      status: active
+    - ticker: CYTH, CYTHW
+      cik: 0000922247
+      name: Cyclo Therapeutics, Inc.
+      status: active
+    - ticker: SNNC
+      cik: 0001313938
+      name: Sibannac, Inc.
+      status: active
+    - ticker: AFIB
+      cik: 0001522860
+      name: Acutus Medical, Inc.
+      status: active
+    - ticker: JAZZ
+      cik: '0001232524'
+      name: Jazz Pharmaceuticals plc
+      status: active
+    - ticker: PSTV
+      cik: 0001095981
+      name: PLUS THERAPEUTICS, INC.
+      status: active
+    - ticker: USPH
+      cik: 0000885978
+      name: U S PHYSICAL THERAPY INC /NV
+      status: active
+    - ticker: BSPK
+      cik: 0001409197
+      name: Bespoke Extracts, Inc.
+      status: active
+    - ticker: PMN
+      cik: 0001374339
+      name: ProMIS Neurosciences Inc.
+      status: active
+    - ticker: ONVO
+      cik: 0001497253
+      name: ORGANOVO HOLDINGS, INC.
+      status: active
+    - ticker: BCDA
+      cik: 0000925741
+      name: BioCardia, Inc.
+      status: active
+    - ticker: VYCO
+      cik: 0001424768
+      name: VYCOR MEDICAL INC
+      status: active
+    - ticker: LFCR
+      cik: 0001005286
+      name: LIFECORE BIOMEDICAL, INC. \DE\
+      status: active
+    - ticker: MNKD
+      cik: 0000899460
+      name: MANNKIND CORP
+      status: active
+    - ticker: SYBX
+      cik: 0001527599
+      name: SYNLOGIC, INC.
+      status: active
+    - ticker: VRTX
+      cik: 0000875320
+      name: VERTEX PHARMACEUTICALS INC / MA
+      status: active
+    - ticker: IMUC
+      cik: 0000822411
+      name: EOM Pharmaceutical Holdings, Inc.
+      status: active
+    - ticker: RCKT, RCKTW
+      cik: 0001281895
+      name: ROCKET PHARMACEUTICALS, INC.
+      status: active
+    - ticker: NEOG
+      cik: '0000711377'
+      name: NEOGEN CORP
+      status: active
+    - ticker: POAI
+      cik: 0001446159
+      name: Predictive Oncology Inc.
+      status: active
+    - ticker: UBX
+      cik: '0001463361'
+      name: Unity Biotechnology, Inc.
+      status: active
+    - ticker: FBIO, FBIOP
+      cik: 0001429260
+      name: Fortress Biotech, Inc.
+      status: active
+    - ticker: ENZ
+      cik: '0000316253'
+      name: ENZO BIOCHEM INC
+      status: active
+    - ticker: SILO
+      cik: 0001514183
+      name: Silo Pharma, Inc.
+      status: active
+    - ticker: AXIM
+      cik: 0001514946
+      name: AXIM BIOTECHNOLOGIES, INC.
+      status: active
+    - ticker: EVOK
+      cik: 0001403708
+      name: Evoke Pharma Inc
+      status: active
+    - ticker: PCYN
+      cik: 0000812306
+      name: PROCYON CORP
+      status: active
+    - ticker: CCEL
+      cik: 0000862692
+      name: CRYO CELL INTERNATIONAL INC
+      status: active
+    - ticker: CBGL
+      cik: 0001413488
+      name: CANNABIS GLOBAL, INC.
+      status: active
+    - ticker: LIPO
+      cik: '0001347242'
+      name: LIPELLA PHARMACEUTICALS INC.
+      status: active
+    - ticker: ONCSQ
+      cik: '0001444307'
+      name: ONCOSEC MEDICAL Inc
+      status: active
+    - ticker: MRNS
+      cik: 0001267813
+      name: MARINUS PHARMACEUTICALS, INC.
+      status: active
+    - ticker: SCPX
+      cik: 0001476963
+      name: Scorpius Holdings, Inc.
+      status: active
+    - ticker: ATNM
+      cik: 0001388320
+      name: Actinium Pharmaceuticals, Inc.
+      status: active
+    - ticker: NXGL, NXGLW
+      cik: 0001468929
+      name: NEXGEL, INC.
+      status: active
+    - ticker: APLS
+      cik: 0001492422
+      name: Apellis Pharmaceuticals, Inc.
+      status: active
+    - ticker: ABEO
+      cik: 0000318306
+      name: ABEONA THERAPEUTICS INC.
+      status: active
+    - ticker: NNVC
+      cik: 0001379006
+      name: NANOVIRICIDES, INC.
+      status: active
+    - ticker: GALT
+      cik: '0001133416'
+      name: GALECTIN THERAPEUTICS INC
+      status: active
+    - ticker: SSKN
+      cik: '0001051514'
+      name: STRATA Skin Sciences, Inc.
+      status: active
+    - ticker: APT
+      cik: 0000884269
+      name: ALPHA PRO TECH LTD
+      status: active
+    - ticker: HCIL
+      cik: 0001086303
+      name: Hongchang International Co., Ltd
+      status: active
+    - ticker: MOH
+      cik: 0001179929
+      name: MOLINA HEALTHCARE, INC.
+      status: active
+    - ticker: CGTX
+      cik: '0001455365'
+      name: COGNITION THERAPEUTICS INC
+      status: active
+    - ticker: ELOX
+      cik: '0001035354'
+      name: Eloxx Pharmaceuticals, Inc.
+      status: active
+    - ticker: XOMA, XOMAO, XOMAP
+      cik: 0000791908
+      name: XOMA Royalty Corp
+      status: active
+    - ticker: RNAC
+      cik: 0001453687
+      name: Cartesian Therapeutics, Inc.
+      status: active
+    - ticker: SIGA
+      cik: 0001010086
+      name: SIGA TECHNOLOGIES INC
+      status: active
+    - ticker: TSOI
+      cik: 0001419051
+      name: THERAPEUTIC SOLUTIONS INTERNATIONAL, INC.
+      status: active
+    - ticker: SINT
+      cik: 0001269026
+      name: Sintx Technologies, Inc.
+      status: active
+    - ticker: DVA
+      cik: 0000927066
+      name: DAVITA INC.
+      status: active
+    - ticker: BMRN
+      cik: 0001048477
+      name: BIOMARIN PHARMACEUTICAL INC
+      status: active
+    - ticker: BCRX
+      cik: 0000882796
+      name: BIOCRYST PHARMACEUTICALS INC
+      status: active
+    - ticker: DARE
+      cik: 0001401914
+      name: Dare Bioscience, Inc.
+      status: active
+    - ticker: CFRXQ
+      cik: 0001478069
+      name: CONTRAFECT Corp
+      status: active
+    - ticker: INVA
+      cik: 0001080014
+      name: Innoviva, Inc.
+      status: active
+    - ticker: INO
+      cik: '0001055726'
+      name: INOVIO PHARMACEUTICALS, INC.
+      status: active
+    - ticker: NIKA
+      cik: '0001145604'
+      name: NIKA PHARMACEUTICALS, INC
+      status: active
+    - ticker: MSA, MNESP
+      cik: '0000066570'
+      name: MSA Safety Inc
+      status: active
+    - ticker: IQV
+      cik: 0001478242
+      name: IQVIA HOLDINGS INC.
+      status: active
+    - ticker: AMS
+      cik: 0000744825
+      name: AMERICAN SHARED HOSPITAL SERVICES
+      status: active
+    - ticker: TFX
+      cik: 0000096943
+      name: TELEFLEX INC
+      status: active
+    - ticker: AMED
+      cik: 0000896262
+      name: AMEDISYS INC
+      status: active
+    - ticker: GKOS
+      cik: 0001192448
+      name: GLAUKOS Corp
+      status: active
+    - ticker: PBAJ
+      cik: '0000745543'
+      name: PETRO USA, INC.
+      status: active
+    - ticker: UTMD
+      cik: 0000706698
+      name: UTAH MEDICAL PRODUCTS INC
+      status: active
+    - ticker: CNBX
+      cik: 0001343009
+      name: CNBX Pharmaceuticals Inc.
+      status: active
+    - ticker: AEMD
+      cik: 0000882291
+      name: AETHLON MEDICAL INC
+      status: active
+    - ticker: ICAD
+      cik: 0000749660
+      name: ICAD INC
+      status: active
+    - ticker: ORGS
+      cik: '0001460602'
+      name: Orgenesis Inc.
+      status: active
+    - ticker: BIIB
+      cik: 0000875045
+      name: BIOGEN INC.
+      status: active
+    - ticker: BDX
+      cik: 0000010795
+      name: BECTON DICKINSON & CO
+      status: active
+    - ticker: BHC
+      cik: 0000885590
+      name: Bausch Health Companies Inc.
+      status: active
+    - ticker: ERNA
+      cik: 0000748592
+      name: Eterna Therapeutics Inc.
+      status: active
+    - ticker: OSUR
+      cik: '0001116463'
+      name: ORASURE TECHNOLOGIES INC
+      status: active
+    - ticker: ANAB
+      cik: '0001370053'
+      name: ANAPTYSBIO, INC
+      status: active
+    - ticker: EHC
+      cik: 0000785161
+      name: Encompass Health Corp
+      status: active
+    - ticker: BIMI
+      cik: '0001213660'
+      name: BIMI Holdings Inc.
+      status: active
+    - ticker: PFE
+      cik: 0000078003
+      name: PFIZER INC
+      status: active
+    - ticker: IDXG
+      cik: '0001054102'
+      name: INTERPACE BIOSCIENCES, INC.
+      status: active
+    - ticker: RNVA
+      cik: 0000931059
+      name: Rennova Health, Inc.
+      status: active
+    - ticker: AMGN
+      cik: 0000318154
+      name: AMGEN INC
+      status: active
+    - ticker: ANIK
+      cik: 0000898437
+      name: Anika Therapeutics, Inc.
+      status: active
+    - ticker: TIHE
+      cik: 0001066719
+      name: Taihe Group, Inc.
+      status: active
+    - ticker: VANI
+      cik: 0001266806
+      name: Vivani Medical, Inc.
+      status: active
+    - ticker: ABUS
+      cik: 0001447028
+      name: Arbutus Biopharma Corp
+      status: active
+    - ticker: DGX
+      cik: 0001022079
+      name: QUEST DIAGNOSTICS INC
+      status: active
+    - ticker: IBIO
+      cik: '0001420720'
+      name: iBio, Inc.
+      status: active
+    - ticker: TRAW
+      cik: 0001130598
+      name: Traws Pharma, Inc.
+      status: active
+    - ticker: TNDM
+      cik: 0001438133
+      name: TANDEM DIABETES CARE INC
+      status: active
+    - ticker: PHASQ
+      cik: 0001169245
+      name: PhaseBio Pharmaceuticals Inc
+      status: active
+    - ticker: CBIH
+      cik: '0001411057'
+      name: Cannabis Bioscience International Holdings, Inc.
+      status: active
+    - ticker: ACHV
+      cik: 0000949858
+      name: ACHIEVE LIFE SCIENCES, INC.
+      status: active
+    - ticker: INGN
+      cik: 0001294133
+      name: Inogen Inc
+      status: active
+    - ticker: BCLI
+      cik: 0001137883
+      name: BRAINSTORM CELL THERAPEUTICS INC.
+      status: active
+    - ticker: STIM
+      cik: '0001227636'
+      name: Neuronetics, Inc.
+      status: active
+    - ticker: MD
+      cik: 0000893949
+      name: Pediatrix Medical Group, Inc.
+      status: active
+    - ticker: RGLS
+      cik: '0001505512'
+      name: Regulus Therapeutics Inc.
+      status: active
+    - ticker: SNOA
+      cik: 0001367083
+      name: Sonoma Pharmaceuticals, Inc.
+      status: active
+    - ticker: LEXX, LEXXW
+      cik: 0001348362
+      name: Lexaria Bioscience Corp.
+      status: active
+    - ticker: VCNX
+      cik: 0001205922
+      name: VACCINEX, INC.
+      status: active
+    - ticker: VASO
+      cik: 0000839087
+      name: VASO Corp
+      status: active
+    - ticker: IBRX
+      cik: '0001326110'
+      name: ImmunityBio, Inc.
+      status: active
+    - ticker: DVAX
+      cik: 0001029142
+      name: DYNAVAX TECHNOLOGIES CORP
+      status: active
+    - ticker: FBDS
+      cik: 0000926844
+      name: Fuss Brands Corp.
+      status: active
+    - ticker: TGTX
+      cik: '0001001316'
+      name: TG THERAPEUTICS, INC.
+      status: active
+    - ticker: SGMT
+      cik: 0001400118
+      name: Sagimet Biosciences Inc.
+      status: active
+    - ticker: SAVA
+      cik: 0001069530
+      name: CASSAVA SCIENCES INC
+      status: active
+    - ticker: PLPL
+      cik: 0001317880
+      name: Plandai Biotechnology, Inc.
+      status: active
+    - ticker: LNSR
+      cik: '0001320350'
+      name: LENSAR, Inc.
+      status: active
+    - ticker: AWH
+      cik: 0000926617
+      name: Aspira Women's Health Inc.
+      status: active
+    - ticker: RGPX
+      cik: 0001357878
+      name: REGENEREX PHARMA, INC.
+      status: active
+    - ticker: GOVX, GOVXW
+      cik: 0000832489
+      name: GeoVax Labs, Inc.
+      status: active
+    - ticker: HCA
+      cik: 0000860730
+      name: HCA Healthcare, Inc.
+      status: active
+    - ticker: LYRA
+      cik: '0001327273'
+      name: Lyra Therapeutics, Inc.
+      status: active
+    - ticker: OM
+      cik: 0001484612
+      name: Outset Medical, Inc.
+      status: active
+    - ticker: LUNA
+      cik: 0001239819
+      name: LUNA INNOVATIONS INC
+      status: active
+    - ticker: GLYC
+      cik: 0001253689
+      name: GLYCOMIMETICS INC
+      status: active
+    - ticker: KALV
+      cik: 0001348911
+      name: KalVista Pharmaceuticals, Inc.
+      status: active
+    - ticker: OPCH
+      cik: 0001014739
+      name: Option Care Health, Inc.
+      status: active
+    - ticker: VERU
+      cik: 0000863894
+      name: VERU INC.
+      status: active
+    - ticker: LPTX
+      cik: 0001509745
+      name: LEAP THERAPEUTICS, INC.
+      status: active
+    - ticker: XTNT
+      cik: 0001453593
+      name: Xtant Medical Holdings, Inc.
+      status: active
+    - ticker: PPCB
+      cik: 0001517681
+      name: Propanc Biopharma, Inc.
+      status: active
+    - ticker: NATR
+      cik: '0000275053'
+      name: NATURES SUNSHINE PRODUCTS INC
+      status: active
+    - ticker: DTIL
+      cik: 0001357874
+      name: PRECISION BIOSCIENCES INC
+      status: active
+    - ticker: ALTS
+      cik: 0000862861
+      name: ALT5 Sigma Corp
+      status: active
+    - ticker: LUMO
+      cik: '0001126234'
+      name: LUMOS PHARMA, INC.
+      status: active
+    - ticker: ASMB
+      cik: 0001426800
+      name: ASSEMBLY BIOSCIENCES, INC.
+      status: active
+    - ticker: THER
+      cik: '0001362703'
+      name: THERALINK TECHNOLOGIES, INC.
+      status: active
+    - ticker: BBLG, BBLGW
+      cik: 0001419554
+      name: Bone Biologics Corp
+      status: active
+    - ticker: KA
+      cik: 0001445283
+      name: KINETA, INC./DE
+      status: active
+    - ticker: GTHP
+      cik: 0000924515
+      name: GUIDED THERAPEUTICS INC
+      status: active
+    - ticker: TECH
+      cik: 0000842023
+      name: BIO-TECHNE Corp
+      status: active
+    - ticker: DXCM
+      cik: 0001093557
+      name: DEXCOM INC
+      status: active
+    - ticker: CPMV
+      cik: 0000836564
+      name: Mosaic ImmunoEngineering Inc.
+      status: active
+    - ticker: RSLS
+      cik: '0001427570'
+      name: ReShape Lifesciences Inc.
+      status: active
+    - ticker: OMI
+      cik: '0000075252'
+      name: OWENS & MINOR INC/VA/
+      status: active
+    - ticker: BPTH
+      cik: 0001133818
+      name: BIO-PATH HOLDINGS, INC.
+      status: active
+    - ticker: OCGN
+      cik: 0001372299
+      name: Ocugen, Inc.
+      status: active
+    - ticker: USAQ
+      cik: 0000856984
+      name: QHSLab, Inc.
+      status: active
+    - ticker: ARWR
+      cik: 0000879407
+      name: ARROWHEAD PHARMACEUTICALS, INC.
+      status: active
+    - ticker: SRPT
+      cik: 0000873303
+      name: Sarepta Therapeutics, Inc.
+      status: active
+    - ticker: NSPR
+      cik: '0001433607'
+      name: InspireMD, Inc.
+      status: active
+    - ticker: ORKA, ABIO
+      cik: 0000907654
+      name: Oruka Therapeutics, Inc.
+      status: active
+    - ticker: CRDF
+      cik: '0001213037'
+      name: Cardiff Oncology, Inc.
+      status: active
+    - ticker: AURA
+      cik: 0001501796
+      name: Aura Biosciences, Inc.
+      status: active
+    - ticker: FZMD
+      cik: 0000319016
+      name: Fuse Medical, Inc.
+      status: active
+    - ticker: CPIX
+      cik: 0001087294
+      name: CUMBERLAND PHARMACEUTICALS INC
+      status: active
+    - ticker: LCTX
+      cik: 0000876343
+      name: Lineage Cell Therapeutics, Inc.
+      status: active
+    - ticker: IPIX
+      cik: '0001355250'
+      name: Innovation Pharmaceuticals Inc.
+      status: active
+    - ticker: SNDX
+      cik: 0001395937
+      name: Syndax Pharmaceuticals Inc
+      status: active
+    - ticker: TCRT
+      cik: '0001107421'
+      name: Alaunos Therapeutics, Inc.
+      status: active
+    - ticker: AMRN
+      cik: 0000897448
+      name: AMARIN CORP PLC\UK
+      status: active
+    - ticker: ABT
+      cik: 0000001800
+      name: ABBOTT LABORATORIES
+      status: active
+    - ticker: PFG
+      cik: 0001126328
+      name: PRINCIPAL FINANCIAL GROUP INC
+      status: active
+    - ticker: WINT, WINTW
+      cik: 0000946486
+      name: WINDTREE THERAPEUTICS INC /DE/
+      status: active
+    - ticker: MRZM
+      cik: '0001413754'
+      name: MARIZYME, INC.
+      status: active
+    - ticker: QTXB
+      cik: 0000820608
+      name: QUANTRX BIOMEDICAL CORP
+      status: active
+    - ticker: SEEL
+      cik: 0001017491
+      name: SEELOS THERAPEUTICS, INC.
+      status: active
+    - ticker: INBP
+      cik: '0001016504'
+      name: INTEGRATED BIOPHARMA INC
+      status: active
+    - ticker: ATYR
+      cik: 0001339970
+      name: aTYR PHARMA INC
+      status: active
+    - ticker: LFVN
+      cik: 0000849146
+      name: Lifevantage Corp
+      status: active
+    - ticker: UNM, UNMA
+      cik: '0000005513'
+      name: Unum Group
+      status: active
+    - ticker: AQST
+      cik: 0001398733
+      name: Aquestive Therapeutics, Inc.
+      status: active
+    - ticker: CYDY
+      cik: 0001175680
+      name: CytoDyn Inc.
+      status: active
+    - ticker: ATRX
+      cik: '0000737207'
+      name: Adhera Therapeutics, Inc.
+      status: active
+    - ticker: LAKE
+      cik: 0000798081
+      name: LAKELAND INDUSTRIES INC
+      status: active
+    - ticker: FONR
+      cik: 0000355019
+      name: FONAR CORP
+      status: active
+    - ticker: SVRA
+      cik: 0001160308
+      name: Savara Inc
+      status: active
+    - ticker: LXRX
+      cik: 0001062822
+      name: LEXICON PHARMACEUTICALS, INC.
+      status: active
+    - ticker: ZBH
+      cik: 0001136869
+      name: ZIMMER BIOMET HOLDINGS, INC.
+      status: active
+    - ticker: HSCS, HSCSW
+      cik: 0001468492
+      name: Heart Test Laboratories, Inc.
+      status: active
+    - ticker: NWBO
+      cik: 0001072379
+      name: NORTHWEST BIOTHERAPEUTICS INC
+      status: active
+    - ticker: BRTX
+      cik: 0001505497
+      name: BioRestorative Therapies, Inc.
+      status: active
+    - ticker: DYNT
+      cik: 0000720875
+      name: DYNATRONICS CORP
+      status: active
+    - ticker: HAE
+      cik: '0000313143'
+      name: HAEMONETICS CORP
+      status: active
+    - ticker: FGEN
+      cik: 0000921299
+      name: FIBROGEN INC
+      status: active
+    - ticker: AVXL
+      cik: '0001314052'
+      name: ANAVEX LIFE SCIENCES CORP.
+      status: active
+    - ticker: ARAY
+      cik: 0001138723
+      name: ACCURAY INC
+      status: active
+    - ticker: TRUP
+      cik: 0001371285
+      name: TRUPANION, INC.
+      status: active
+    - ticker: MEIP
+      cik: '0001262104'
+      name: MEI Pharma, Inc.
+      status: active
+    - ticker: GTBP
+      cik: 0000109657
+      name: GT Biopharma, Inc.
+      status: active
+    - ticker: LIXT, LIXTW
+      cik: '0001335105'
+      name: LIXTE BIOTECHNOLOGY HOLDINGS, INC.
+      status: active
+    - ticker: USRM
+      cik: 0001388319
+      name: U.S. Stem Cell, Inc.
+      status: active
+    - ticker: AXGN
+      cik: 0000805928
+      name: Axogen, Inc.
+      status: active
+    - ticker: JNJ
+      cik: '0000200406'
+      name: JOHNSON & JOHNSON
+      status: active
+    - ticker: OCUP
+      cik: 0001228627
+      name: Ocuphire Pharma, Inc.
+      status: active
+    - ticker: CLPT
+      cik: 0001285550
+      name: ClearPoint Neuro, Inc.
+      status: active
+    - ticker: STXS
+      cik: 0001289340
+      name: Stereotaxis, Inc.
+      status: active
+  Financials_and_Real_Estate:
+    description: Commercial Banks, REITs, Insurance, and Financial Services
+    companies:
+    - ticker: NYCB, NYCB-PA, NYCB-PU
+      cik: 0000910073
+      name: NEW YORK COMMUNITY BANCORP, INC.
+      status: active
+    - ticker: FXNC
+      cik: 0000719402
+      name: FIRST NATIONAL CORP /VA/
+      status: active
+    - ticker: FREVS
+      cik: 0000036840
+      name: FIRST REAL ESTATE INVESTMENT TRUST OF NEW JERSEY
+      status: active
+    - ticker: ARL
+      cik: 0001102238
+      name: AMERICAN REALTY INVESTORS INC
+      status: active
+    - ticker: TRNO
+      cik: '0001476150'
+      name: Terreno Realty Corp
+      status: active
+    - ticker: UUP
+      cik: 0001383151
+      name: Invesco DB US Dollar Index Bullish Fund
+      status: active
+    - ticker: BVFL
+      cik: 0001302387
+      name: BV Financial, Inc.
+      status: active
+    - ticker: ONIT
+      cik: 0000873860
+      name: ONITY GROUP INC.
+      status: active
+    - ticker: CME
+      cik: '0001156375'
+      name: CME GROUP INC.
+      status: active
+    - ticker: AOXY
+      cik: 0000352991
+      name: ADVANCED OXYGEN TECHNOLOGIES INC
+      status: active
+    - ticker: ORI
+      cik: '0000074260'
+      name: OLD REPUBLIC INTERNATIONAL CORP
+      status: active
+    - ticker: ITIC
+      cik: 0000720858
+      name: INVESTORS TITLE CO
+      status: active
+    - ticker: TRST
+      cik: '0000357301'
+      name: TRUSTCO BANK CORP N Y
+      status: active
+    - ticker: FDBC
+      cik: 0001098151
+      name: FIDELITY D & D BANCORP INC
+      status: active
+    - ticker: NRUC
+      cik: '0000070502'
+      name: NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORP /DC/
+      status: active
+    - ticker: HWC, HWCPZ
+      cik: '0000750577'
+      name: HANCOCK WHITNEY CORP
+      status: active
+    - ticker: UGA
+      cik: 0001396878
+      name: United States Gasoline Fund, LP
+      status: active
+    - ticker: LSBK
+      cik: 0001341318
+      name: LAKE SHORE BANCORP, INC.
+      status: active
+    - ticker: FRPH
+      cik: 0000844059
+      name: FRP HOLDINGS, INC.
+      status: active
+    - ticker: PGC
+      cik: '0001050743'
+      name: PEAPACK GLADSTONE FINANCIAL CORP
+      status: active
+    - ticker: CMCT
+      cik: 0000908311
+      name: Creative Media & Community Trust Corp
+      status: active
+    - ticker: SBSI
+      cik: '0000705432'
+      name: SOUTHSIDE BANCSHARES INC
+      status: active
+    - ticker: GSBC
+      cik: 0000854560
+      name: GREAT SOUTHERN BANCORP, INC.
+      status: active
+    - ticker: CHCO
+      cik: 0000726854
+      name: CITY HOLDING CO
+      status: active
+    - ticker: AJG
+      cik: 0000354190
+      name: Arthur J. Gallagher & Co.
+      status: active
+    - ticker: WTM
+      cik: 0000776867
+      name: WHITE MOUNTAINS INSURANCE GROUP LTD
+      status: active
+    - ticker: TRV
+      cik: 0000086312
+      name: TRAVELERS COMPANIES, INC.
+      status: active
+    - ticker: BRT
+      cik: 0000014846
+      name: BRT Apartments Corp.
+      status: active
+    - ticker: CASH
+      cik: 0000907471
+      name: PATHWARD FINANCIAL, INC.
+      status: active
+    - ticker: APLE
+      cik: 0001418121
+      name: Apple Hospitality REIT, Inc.
+      status: active
+    - ticker: WFC, WFC-PY, WFC-PL, WFC-PC, WFCNP, WFC-PA, WFC-PD, WFC-PZ
+      cik: 0000072971
+      name: WELLS FARGO & COMPANY/MN
+      status: active
+    - ticker: USO
+      cik: 0001327068
+      name: United States Oil Fund, LP
+      status: active
+    - ticker: ALX
+      cik: 0000003499
+      name: ALEXANDERS INC
+      status: active
+    - ticker: AFG, AFGC, AFGB, AFGD, AFGE
+      cik: '0001042046'
+      name: AMERICAN FINANCIAL GROUP INC
+      status: active
+    - ticker: EHTH
+      cik: 0001333493
+      name: eHealth, Inc.
+      status: active
+    - ticker: COLD
+      cik: 0001455863
+      name: AMERICOLD REALTY TRUST
+      status: active
+    - ticker: UNL
+      cik: '0001405513'
+      name: United States 12 Month Natural Gas Fund, LP
+      status: active
+    - ticker: CCNE, CCNEP
+      cik: '0000736772'
+      name: CNB FINANCIAL CORP/PA
+      status: active
+    - ticker: USIO
+      cik: 0001088034
+      name: Usio, Inc.
+      status: active
+    - ticker: ABIT
+      cik: 0001095146
+      name: Athena Bitcoin Global
+      status: active
+    - ticker: CSBB
+      cik: 0000880417
+      name: CSB Bancorp, Inc.
+      status: active
+    - ticker: PGR
+      cik: 0000080661
+      name: PROGRESSIVE CORP/OH/
+      status: active
+    - ticker: OPOF
+      cik: 0000740971
+      name: OLD POINT FINANCIAL CORP
+      status: active
+    - ticker: IVR, IVR-PC, IVR-PB
+      cik: '0001437071'
+      name: Invesco Mortgage Capital Inc.
+      status: active
+    - ticker: GCBC
+      cik: '0001070524'
+      name: GREENE COUNTY BANCORP INC
+      status: active
+    - ticker: FSBW
+      cik: 0001530249
+      name: FS Bancorp, Inc.
+      status: active
+    - ticker: IOR
+      cik: 0000949961
+      name: INCOME OPPORTUNITY REALTY INVESTORS INC /TX/
+      status: active
+    - ticker: SIGI, SIGIP
+      cik: '0000230557'
+      name: SELECTIVE INSURANCE GROUP INC
+      status: active
+    - ticker: MVBF
+      cik: 0001277902
+      name: MVB FINANCIAL CORP
+      status: active
+    - ticker: MVCO
+      cik: 0000924095
+      name: Metavesco, Inc.
+      status: active
+    - ticker: SLM, SLMBP
+      cik: '0001032033'
+      name: SLM Corp
+      status: active
+    - ticker: OPI, OPINL
+      cik: '0001456772'
+      name: OFFICE PROPERTIES INCOME TRUST
+      status: active
+    - ticker: MMC
+      cik: 0000062709
+      name: MARSH & MCLENNAN COMPANIES, INC.
+      status: active
+    - ticker: GBLI
+      cik: 0001494904
+      name: Global Indemnity Group, LLC
+      status: active
+    - ticker: BRBS
+      cik: 0000842717
+      name: BLUE RIDGE BANKSHARES, INC.
+      status: active
+    - ticker: INN, INN-PE, INN-PF
+      cik: 0001497645
+      name: Summit Hotel Properties, Inc.
+      status: active
+    - ticker: BDN
+      cik: 0000790816
+      name: BRANDYWINE REALTY TRUST
+      status: active
+    - ticker: KIM, KIM-PM, KIM-PL, KIM-PN
+      cik: 0000879101
+      name: KIMCO REALTY CORP
+      status: active
+    - ticker: AGO
+      cik: 0001273813
+      name: ASSURED GUARANTY LTD
+      status: active
+    - ticker: UBSI
+      cik: 0000729986
+      name: UNITED BANKSHARES INC/WV
+      status: active
+    - ticker: FRBK, FRBKQ
+      cik: 0000834285
+      name: REPUBLIC FIRST BANCORP INC
+      status: active
+    - ticker: NHMD
+      cik: 0001409446
+      name: NATE'S FOOD CO.
+      status: active
+    - ticker: RHP
+      cik: 0001040829
+      name: Ryman Hospitality Properties, Inc.
+      status: active
+    - ticker: RVSB
+      cik: 0001041368
+      name: RIVERVIEW BANCORP INC
+      status: active
+    - ticker: CFFN
+      cik: 0001490906
+      name: Capitol Federal Financial, Inc.
+      status: active
+    - ticker: FMAO
+      cik: 0000792966
+      name: FARMERS & MERCHANTS BANCORP INC
+      status: active
+    - ticker: RM
+      cik: 0001519401
+      name: Regional Management Corp.
+      status: active
+    - ticker: CUBE
+      cik: 0001298675
+      name: CubeSmart
+      status: active
+    - ticker: PFS
+      cik: 0001178970
+      name: PROVIDENT FINANCIAL SERVICES INC
+      status: active
+    - ticker: JEF
+      cik: 0000096223
+      name: Jefferies Financial Group Inc.
+      status: active
+    - ticker: UBCP
+      cik: '0000731653'
+      name: UNITED BANCORP INC /OH/
+      status: active
+    - ticker: TSBK
+      cik: '0001046050'
+      name: TIMBERLAND BANCORP INC
+      status: active
+    - ticker: OBK
+      cik: 0001516912
+      name: Origin Bancorp, Inc.
+      status: active
+    - ticker: AAT
+      cik: '0001500217'
+      name: American Assets Trust, Inc.
+      status: active
+    - ticker: WTFC, WTFCM, WTFCP
+      cik: 0001015328
+      name: WINTRUST FINANCIAL CORP
+      status: active
+    - ticker: SMBC
+      cik: 0000916907
+      name: SOUTHERN MISSOURI BANCORP, INC.
+      status: active
+    - ticker: BUSE
+      cik: 0000314489
+      name: FIRST BUSEY CORP /NV/
+      status: active
+    - ticker: FBNC
+      cik: 0000811589
+      name: FIRST BANCORP /NC/
+      status: active
+    - ticker: CHMG
+      cik: '0000763563'
+      name: CHEMUNG FINANCIAL CORP
+      status: active
+    - ticker: SOHO, SOHOO, SOHOB, SOHON
+      cik: '0001301236'
+      name: Sotherly Hotels Inc.
+      status: active
+    - ticker: LKFN
+      cik: 0000721994
+      name: LAKELAND FINANCIAL CORP
+      status: active
+    - ticker: CUBI, CUBI-PE, CUBI-PF, CUBB
+      cik: 0001488813
+      name: Customers Bancorp, Inc.
+      status: active
+    - ticker: SMBK
+      cik: 0001038773
+      name: SMARTFINANCIAL INC.
+      status: active
+    - ticker: UMH, UMH-PD
+      cik: '0000752642'
+      name: UMH PROPERTIES, INC.
+      status: active
+    - ticker: SPGI
+      cik: '0000064040'
+      name: S&P Global Inc.
+      status: active
+    - ticker: AIV
+      cik: 0000922864
+      name: APARTMENT INVESTMENT & MANAGEMENT CO
+      status: active
+    - ticker: OLP
+      cik: '0000712770'
+      name: ONE LIBERTY PROPERTIES INC
+      status: active
+    - ticker: APAM
+      cik: '0001517302'
+      name: Artisan Partners Asset Management Inc.
+      status: active
+    - ticker: LNC, LNC-PD
+      cik: 0000059558
+      name: LINCOLN NATIONAL CORP
+      status: active
+    - ticker: SRCE
+      cik: 0000034782
+      name: 1ST SOURCE CORP
+      status: active
+    - ticker: ENBP
+      cik: 0001437479
+      name: ENB Financial Corp
+      status: active
+    - ticker: EIG
+      cik: 0001379041
+      name: Employers Holdings, Inc.
+      status: active
+    - ticker: BFS, BFS-PD, BFS-PE
+      cik: 0000907254
+      name: SAUL CENTERS, INC.
+      status: active
+    - ticker: VRE
+      cik: 0000924901
+      name: Veris Residential, Inc.
+      status: active
+    - ticker: PRK
+      cik: 0000805676
+      name: PARK NATIONAL CORP /OH/
+      status: active
+    - ticker: ATLO
+      cik: '0001132651'
+      name: AMES NATIONAL CORP
+      status: active
+    - ticker: REG, REGCO, REGCP
+      cik: 0000910606
+      name: REGENCY CENTERS CORP
+      status: active
+    - ticker: BSRR
+      cik: '0001130144'
+      name: SIERRA BANCORP
+      status: active
+    - ticker: TCI
+      cik: 0000733590
+      name: TRANSCONTINENTAL REALTY INVESTORS INC
+      status: active
+    - ticker: NWFL
+      cik: '0001013272'
+      name: NORWOOD FINANCIAL CORP
+      status: active
+    - ticker: HMNF
+      cik: 0000921183
+      name: HMN FINANCIAL INC
+      status: active
+    - ticker: ZION, ZIONL, ZIONO, ZIONP
+      cik: 0000109380
+      name: ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/
+      status: active
+    - ticker: FXC
+      cik: '0001353612'
+      name: Invesco CurrencyShares Canadian Dollar Trust
+      status: active
+    - ticker: ARR, ARR-PC
+      cik: 0001428205
+      name: Armour Residential REIT, Inc.
+      status: active
+    - ticker: CBL
+      cik: 0000910612
+      name: CBL & ASSOCIATES PROPERTIES INC
+      status: active
+    - ticker: WTBA
+      cik: 0001166928
+      name: WEST BANCORPORATION INC
+      status: active
+    - ticker: FISI, FIISO, FIISP
+      cik: 0000862831
+      name: FINANCIAL INSTITUTIONS INC
+      status: active
+    - ticker: IRT
+      cik: 0001466085
+      name: INDEPENDENCE REALTY TRUST, INC.
+      status: active
+    - ticker: FFIC
+      cik: 0000923139
+      name: FLUSHING FINANCIAL CORP
+      status: active
+    - ticker: ACIC
+      cik: '0001401521'
+      name: AMERICAN COASTAL INSURANCE Corp
+      status: active
+    - ticker: BANR
+      cik: 0000946673
+      name: BANNER CORP
+      status: active
+    - ticker: BMRC
+      cik: '0001403475'
+      name: Bank of Marin Bancorp
+      status: active
+    - ticker: DBB
+      cik: 0001383084
+      name: INVESCO DB BASE METALS FUND
+      status: active
+    - ticker: CFR, CFR-PB
+      cik: 0000039263
+      name: CULLEN/FROST BANKERS, INC.
+      status: active
+    - ticker: OLKR
+      cik: 0000924396
+      name: OpenLocker Holdings, Inc.
+      status: active
+    - ticker: NFBK
+      cik: 0001493225
+      name: Northfield Bancorp, Inc.
+      status: active
+    - ticker: RYN
+      cik: 0000052827
+      name: RAYONIER INC
+      status: active
+    - ticker: CIA
+      cik: 0000024090
+      name: CITIZENS, INC.
+      status: active
+    - ticker: RNR, RNR-PF, RNR-PG
+      cik: 0000913144
+      name: RENAISSANCERE HOLDINGS LTD
+      status: active
+    - ticker: ONB, ONBPO, ONBPP
+      cik: 0000707179
+      name: OLD NATIONAL BANCORP /IN/
+      status: active
+    - ticker: AXS, AXS-PE
+      cik: 0001214816
+      name: AXIS CAPITAL HOLDINGS LTD
+      status: active
+    - ticker: INRE
+      cik: 0001528985
+      name: Inland Real Estate Income Trust, Inc.
+      status: active
+    - ticker: ACGL, ACGLO, ACGLN
+      cik: 0000947484
+      name: ARCH CAPITAL GROUP LTD.
+      status: active
+    - ticker: GHI
+      cik: 0001059142
+      name: Greystone Housing Impact Investors LP
+      status: active
+    - ticker: GEDC
+      cik: 0001174891
+      name: CalEthos, Inc.
+      status: active
+    - ticker: ATH-PA, ATH-PB, ATH-PC, ATH-PD, ATH-PE, ATHS
+      cik: 0001527469
+      name: Athene Holding Ltd.
+      status: active
+    - ticker: PEB, PEB-PF, PEB-PE, PEB-PG, PEB-PH
+      cik: 0001474098
+      name: Pebblebrook Hotel Trust
+      status: active
+    - ticker: LOB
+      cik: '0001462120'
+      name: Live Oak Bancshares, Inc.
+      status: active
+    - ticker: INTV
+      cik: 0001520118
+      name: INTEGRATED VENTURES, INC.
+      status: active
+    - ticker: BWB, BWBBP
+      cik: '0001341317'
+      name: Bridgewater Bancshares Inc
+      status: active
+    - ticker: HR
+      cik: '0001360604'
+      name: Healthcare Realty Trust Inc
+      status: active
+    - ticker: ARI
+      cik: '0001467760'
+      name: Apollo Commercial Real Estate Finance, Inc.
+      status: active
+    - ticker: FFNW
+      cik: '0001401564'
+      name: First Financial Northwest, Inc.
+      status: active
+    - ticker: CACC
+      cik: 0000885550
+      name: CREDIT ACCEPTANCE CORP
+      status: active
+    - ticker: CCB
+      cik: 0001437958
+      name: COASTAL FINANCIAL CORP
+      status: active
+    - ticker: RIOT
+      cik: 0001167419
+      name: Riot Platforms, Inc.
+      status: active
+    - ticker: JHG
+      cik: '0001274173'
+      name: JANUS HENDERSON GROUP PLC
+      status: active
+    - ticker: GNW
+      cik: '0001276520'
+      name: GENWORTH FINANCIAL INC
+      status: active
+    - ticker: ORC
+      cik: 0001518621
+      name: Orchid Island Capital, Inc.
+      status: active
+    - ticker: CFNB
+      cik: 0000803016
+      name: CALIFORNIA FIRST LEASING CORP
+      status: active
+    - ticker: GBCS
+      cik: '0000727346'
+      name: SELECTIS HEALTH, INC.
+      status: active
+    - ticker: WBS, WBS-PF, WBS-PG
+      cik: 0000801337
+      name: WEBSTER FINANCIAL CORP
+      status: active
+    - ticker: DX, DX-PC
+      cik: 0000826675
+      name: DYNEX CAPITAL INC
+      status: active
+    - ticker: CCI
+      cik: '0001051470'
+      name: CROWN CASTLE INC.
+      status: active
+    - ticker: CHTH
+      cik: 0001496454
+      name: CNL Healthcare Properties, Inc.
+      status: active
+    - ticker: ESGR, ESGRP, ESGRO
+      cik: 0001363829
+      name: Enstar Group LTD
+      status: active
+    - ticker: HMST
+      cik: 0001518715
+      name: HomeStreet, Inc.
+      status: active
+    - ticker: STEL
+      cik: 0001473844
+      name: Stellar Bancorp, Inc.
+      status: active
+    - ticker: BNL
+      cik: 0001424182
+      name: Broadstone Net Lease, Inc.
+      status: active
+    - ticker: GNTY
+      cik: 0001058867
+      name: GUARANTY BANCSHARES INC /TX/
+      status: active
+    - ticker: EGBN
+      cik: '0001050441'
+      name: EAGLE BANCORP INC
+      status: active
+    - ticker: PFBX
+      cik: '0000770460'
+      name: PEOPLES FINANCIAL CORP /MS/
+      status: active
+    - ticker: NXTP
+      cik: 0001372183
+      name: NextPlay Technologies Inc.
+      status: active
+    - ticker: NXDT, NXDT-PA
+      cik: '0001356115'
+      name: NEXPOINT DIVERSIFIED REAL ESTATE TRUST
+      status: active
+    - ticker: CHCI
+      cik: 0001299969
+      name: Comstock Holding Companies, Inc.
+      status: active
+    - ticker: BANF, BANFP
+      cik: 0000760498
+      name: BANCFIRST CORP /OK/
+      status: active
+    - ticker: SFDL
+      cik: 0000818677
+      name: SECURITY FEDERAL CORP
+      status: active
+    - ticker: SICP
+      cik: 0001312109
+      name: Silvergate Capital Corp
+      status: active
+    - ticker: SLV
+      cik: 0001330568
+      name: iShares Silver Trust
+      status: active
+    - ticker: CRD-A, CRD-B
+      cik: '0000025475'
+      name: CRAWFORD & CO
+      status: active
+    - ticker: LC
+      cik: 0001409970
+      name: LendingClub Corp
+      status: active
+    - ticker: SGOL
+      cik: 0001450923
+      name: abrdn Gold ETF Trust
+      status: active
+    - ticker: IVZ
+      cik: 0000914208
+      name: Invesco Ltd.
+      status: active
+    - ticker: OVBC
+      cik: 0000894671
+      name: OHIO VALLEY BANC CORP
+      status: active
+    - ticker: OAK-PA, OAK-PB
+      cik: 0001403528
+      name: Brookfield Oaktree Holdings, LLC
+      status: active
+    - ticker: WDLF
+      cik: 0001281984
+      name: Decentral Life, Inc.
+      status: active
+    - ticker: ACR, ACR-PC, ACR-PD
+      cik: '0001332551'
+      name: ACRES Commercial Realty Corp.
+      status: active
+    - ticker: LXP, LXP-PC
+      cik: 0000910108
+      name: LXP Industrial Trust
+      status: active
+    - ticker: PRA
+      cik: '0001127703'
+      name: PROASSURANCE CORP
+      status: active
+    - ticker: UNG
+      cik: '0001376227'
+      name: United States Natural Gas Fund, LP
+      status: active
+    - ticker: CATY
+      cik: 0000861842
+      name: CATHAY GENERAL BANCORP
+      status: active
+    - ticker: WASH
+      cik: 0000737468
+      name: WASHINGTON TRUST BANCORP INC
+      status: active
+    - ticker: BK
+      cik: 0001390777
+      name: Bank of New York Mellon Corp
+      status: active
+    - ticker: USL
+      cik: 0001405528
+      name: United States 12 Month Oil Fund, LP
+      status: active
+    - ticker: FNMA, FNMAS, FNMAH, FNMAJ, FNMFN, FNMAM, FNMAN, FNMAI, FNMAT, FNMAK,
+        FNMAL, FNMFM, FNMAO, FNMAG, FNMFO, FNMAP
+      cik: '0000310522'
+      name: FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE
+      status: active
+    - ticker: KBSR
+      cik: 0001482430
+      name: KBS Real Estate Investment Trust III, Inc.
+      status: active
+    - ticker: MGHL
+      cik: 0001162283
+      name: MORGAN GROUP HOLDING CO
+      status: active
+    - ticker: HLLK
+      cik: '0001331421'
+      name: HALLMARK VENTURE GROUP, INC.
+      status: active
+    - ticker: MPW
+      cik: 0001287865
+      name: MEDICAL PROPERTIES TRUST INC
+      status: active
+    - ticker: CIVB
+      cik: 0000944745
+      name: CIVISTA BANCSHARES, INC.
+      status: active
+    - ticker: EQC, EQC-PD
+      cik: 0000803649
+      name: Equity Commonwealth
+      status: active
+    - ticker: CXW
+      cik: 0001070985
+      name: CoreCivic, Inc.
+      status: active
+    - ticker: TFSL
+      cik: 0001381668
+      name: TFS Financial CORP
+      status: active
+    - ticker: BGC
+      cik: 0001094831
+      name: BGC Group, Inc.
+      status: active
+    - ticker: HMN
+      cik: 0000850141
+      name: HORACE MANN EDUCATORS CORP /DE/
+      status: active
+    - ticker: DOMH
+      cik: 0000012239
+      name: Dominari Holdings Inc.
+      status: active
+    - ticker: FKYS
+      cik: 0000737875
+      name: FIRST KEYSTONE CORP
+      status: active
+    - ticker: FITB, FITBI, FITBO, FITBP
+      cik: '0000035527'
+      name: FIFTH THIRD BANCORP
+      status: active
+    - ticker: SLG, SLG-PI
+      cik: 0001040971
+      name: SL GREEN REALTY CORP
+      status: active
+    - ticker: BRKL
+      cik: 0001049782
+      name: BROOKLINE BANCORP INC
+      status: active
+    - ticker: IMPM
+      cik: 0001000298
+      name: IMPAC MORTGAGE HOLDINGS INC
+      status: active
+    - ticker: BOH, BOH-PA, BOH-PB
+      cik: 0000046195
+      name: BANK OF HAWAII CORP
+      status: active
+    - ticker: UHT
+      cik: 0000798783
+      name: UNIVERSAL HEALTH REALTY INCOME TRUST
+      status: active
+    - ticker: NKSH
+      cik: 0000796534
+      name: NATIONAL BANKSHARES INC
+      status: active
+    - ticker: PNFP, PNFPP
+      cik: '0001115055'
+      name: PINNACLE FINANCIAL PARTNERS INC
+      status: active
+    - ticker: VALU
+      cik: '0000717720'
+      name: VALUE LINE INC
+      status: active
+    - ticker: MHLD, MHLA, MHNC
+      cik: '0001412100'
+      name: Maiden Holdings, Ltd.
+      status: active
+    - ticker: NICK
+      cik: '0001000045'
+      name: NICHOLAS FINANCIAL INC
+      status: active
+    - ticker: AUBN
+      cik: '0000750574'
+      name: AUBURN NATIONAL BANCORPORATION, INC
+      status: active
+    - ticker: CZFS
+      cik: 0000739421
+      name: CITIZENS FINANCIAL SERVICES INC
+      status: active
+    - ticker: EXR
+      cik: 0001289490
+      name: Extra Space Storage Inc.
+      status: active
+    - ticker: AXP
+      cik: 0000004962
+      name: AMERICAN EXPRESS CO
+      status: active
+    - ticker: SIEB
+      cik: 0000065596
+      name: SIEBERT FINANCIAL CORP
+      status: active
+    - ticker: CIZN
+      cik: '0001075706'
+      name: CITIZENS HOLDING CO /MS/
+      status: active
+    - ticker: CTO, CTO-PA
+      cik: 0000023795
+      name: CTO Realty Growth, Inc.
+      status: active
+    - ticker: ROIC
+      cik: '0001407623'
+      name: RETAIL OPPORTUNITY INVESTMENTS CORP
+      status: active
+    - ticker: BRK-B, BRK-A
+      cik: 0001067983
+      name: BERKSHIRE HATHAWAY INC
+      status: active
+    - ticker: GSFI
+      cik: '0001437476'
+      name: Green Stream Holdings Inc.
+      status: active
+    - ticker: UBFO
+      cik: '0001137547'
+      name: UNITED SECURITY BANCSHARES
+      status: active
+    - ticker: AVB
+      cik: 0000915912
+      name: AVALONBAY COMMUNITIES INC
+      status: active
+    - ticker: OSBC
+      cik: '0000357173'
+      name: OLD SECOND BANCORP INC
+      status: active
+    - ticker: CZWI
+      cik: 0001367859
+      name: Citizens Community Bancorp Inc.
+      status: active
+    - ticker: SITC, SITC-PA
+      cik: 0000894315
+      name: SITE Centers Corp.
+      status: active
+    - ticker: FCNCA, FCNCB, FCNCO, FCNCP
+      cik: 0000798941
+      name: FIRST CITIZENS BANCSHARES INC /DE/
+      status: active
+    - ticker: SNEX
+      cik: 0000913760
+      name: StoneX Group Inc.
+      status: active
+    - ticker: AROW
+      cik: 0000717538
+      name: ARROW FINANCIAL CORP
+      status: active
+    - ticker: PCB
+      cik: 0001423869
+      name: PCB BANCORP
+      status: active
+    - ticker: LAND, LANDM, LANDP, LANDO
+      cik: 0001495240
+      name: GLADSTONE LAND Corp
+      status: active
+    - ticker: CFFI
+      cik: 0000913341
+      name: C & F FINANCIAL CORP
+      status: active
+    - ticker: ABR, ABR-PD, ABR-PE, ABR-PF
+      cik: 0001253986
+      name: ARBOR REALTY TRUST INC
+      status: active
+    - ticker: EMYB
+      cik: 0001449794
+      name: Embassy Bancorp, Inc.
+      status: active
+    - ticker: FXY
+      cik: '0001353613'
+      name: Invesco CurrencyShares Japanese Yen Trust
+      status: active
+    - ticker: MKL
+      cik: 0001096343
+      name: MARKEL GROUP INC.
+      status: active
+    - ticker: GLRE
+      cik: 0001385613
+      name: GREENLIGHT CAPITAL RE, LTD.
+      status: active
+    - ticker: PKBK
+      cik: 0001315399
+      name: PARKE BANCORP, INC.
+      status: active
+    - ticker: EBTC
+      cik: 0001018399
+      name: ENTERPRISE BANCORP INC /MA/
+      status: active
+    - ticker: EPR, EPR-PG, EPR-PC, EPR-PE
+      cik: '0001045450'
+      name: EPR PROPERTIES
+      status: active
+    - ticker: HTH
+      cik: '0001265131'
+      name: Hilltop Holdings Inc.
+      status: active
+    - ticker: IAU
+      cik: 0001278680
+      name: ISHARES GOLD TRUST
+      status: active
+    - ticker: TMP
+      cik: 0001005817
+      name: TOMPKINS FINANCIAL CORP
+      status: active
+    - ticker: CBAN
+      cik: 0000711669
+      name: COLONY BANKCORP INC
+      status: active
+    - ticker: CBNK
+      cik: 0001419536
+      name: Capital Bancorp Inc
+      status: active
+    - ticker: BXMT
+      cik: '0001061630'
+      name: BLACKSTONE MORTGAGE TRUST, INC.
+      status: active
+    - ticker: CANE, CORN, SOYB, TAGS, WEAT
+      cik: 0001471824
+      name: Teucrium Commodity Trust
+      status: active
+    - ticker: SBAC
+      cik: '0001034054'
+      name: SBA COMMUNICATIONS CORP
+      status: active
+    - ticker: STWD
+      cik: 0001465128
+      name: STARWOOD PROPERTY TRUST, INC.
+      status: active
+    - ticker: BPOP, BPOPO, BPOPM
+      cik: 0000763901
+      name: POPULAR, INC.
+      status: active
+    - ticker: HTBK
+      cik: '0001053352'
+      name: HERITAGE COMMERCE CORP
+      status: active
+    - ticker: STAG
+      cik: 0001479094
+      name: STAG Industrial, Inc.
+      status: active
+    - ticker: DEI
+      cik: '0001364250'
+      name: Douglas Emmett Inc
+      status: active
+    - ticker: HNNA, HNNAZ
+      cik: '0001145255'
+      name: HENNESSY ADVISORS INC
+      status: active
+    - ticker: MLP
+      cik: '0000063330'
+      name: MAUI LAND & PINEAPPLE CO INC
+      status: active
+    - ticker: IVT
+      cik: 0001307748
+      name: InvenTrust Properties Corp.
+      status: active
+    - ticker: MCO
+      cik: 0001059556
+      name: MOODYS CORP /DE/
+      status: active
+    - ticker: GLBZ
+      cik: 0000890066
+      name: GLEN BURNIE BANCORP
+      status: active
+    - ticker: BEGI
+      cik: 0001483646
+      name: BLACKSTAR ENTERPRISE GROUP, INC.
+      status: active
+    - ticker: AMT
+      cik: '0001053507'
+      name: AMERICAN TOWER CORP /MA/
+      status: active
+    - ticker: QDMI
+      cik: 0001094032
+      name: QDM International Inc.
+      status: active
+    - ticker: CINF
+      cik: 0000020286
+      name: CINCINNATI FINANCIAL CORP
+      status: active
+    - ticker: PLYM
+      cik: 0001515816
+      name: Plymouth Industrial REIT, Inc.
+      status: active
+    - ticker: SUND
+      cik: 0001171838
+      name: Sundance Strategies, Inc.
+      status: active
+    - ticker: VBTX
+      cik: '0001501570'
+      name: Veritex Holdings, Inc.
+      status: active
+    - ticker: SIVBQ
+      cik: 0000719739
+      name: SVB FINANCIAL GROUP
+      status: active
+    - ticker: WNEB
+      cik: '0001157647'
+      name: Western New England Bancorp, Inc.
+      status: active
+    - ticker: WBHC
+      cik: 0000885275
+      name: WILSON BANK HOLDING CO
+      status: active
+    - ticker: WVFC
+      cik: 0000910679
+      name: WVS FINANCIAL CORP
+      status: active
+    - ticker: PB
+      cik: 0001068851
+      name: PROSPERITY BANCSHARES INC
+      status: active
+    - ticker: NHHS
+      cik: '0001503707'
+      name: NorthStar Healthcare Income, Inc.
+      status: active
+    - ticker: FCCO
+      cik: 0000932781
+      name: FIRST COMMUNITY CORP /SC/
+      status: active
+    - ticker: CCBG
+      cik: '0000726601'
+      name: CAPITAL CITY BANK GROUP INC
+      status: active
+    - ticker: KFFB
+      cik: 0001297341
+      name: Kentucky First Federal Bancorp
+      status: active
+    - ticker: DBE
+      cik: 0001383062
+      name: Invesco DB Energy Fund
+      status: active
+    - ticker: COHN
+      cik: '0001270436'
+      name: Cohen & Co Inc.
+      status: active
+    - ticker: KFS
+      cik: '0001072627'
+      name: KINGSWAY FINANCIAL SERVICES INC
+      status: active
+    - ticker: HTLF, HTLFP
+      cik: 0000920112
+      name: HEARTLAND FINANCIAL USA INC
+      status: active
+    - ticker: KRC
+      cik: 0001025996
+      name: KILROY REALTY CORP
+      status: active
+    - ticker: VRTS
+      cik: 0000883237
+      name: VIRTUS INVESTMENT PARTNERS, INC.
+      status: active
+    - ticker: TWO, TWO-PC, TWO-PB, TWO-PA
+      cik: '0001465740'
+      name: TWO HARBORS INVESTMENT CORP.
+      status: active
+    - ticker: FSBC
+      cik: 0001275168
+      name: FIVE STAR BANCORP
+      status: active
+    - ticker: PROV
+      cik: '0001010470'
+      name: PROVIDENT FINANCIAL HOLDINGS INC
+      status: active
+    - ticker: AGM, AGM-A, AGM-PD, AGM-PE, AGM-PF, AGM-PG
+      cik: 0000845877
+      name: FEDERAL AGRICULTURAL MORTGAGE CORP
+      status: active
+    - ticker: RWT, RWTN, RWTO, RWT-PA
+      cik: 0000930236
+      name: REDWOOD TRUST INC
+      status: active
+    - ticker: HLI
+      cik: '0001302215'
+      name: HOULIHAN LOKEY, INC.
+      status: active
+    - ticker: FNB
+      cik: 0000037808
+      name: FNB CORP/PA/
+      status: active
+    - ticker: CBRE
+      cik: 0001138118
+      name: CBRE GROUP, INC.
+      status: active
+    - ticker: VBFC
+      cik: 0001290476
+      name: Village Bank & Trust Financial Corp.
+      status: active
+    - ticker: WSR
+      cik: '0001175535'
+      name: Whitestone REIT
+      status: active
+    - ticker: BMNM
+      cik: '0001275477'
+      name: BIMINI CAPITAL MANAGEMENT, INC.
+      status: active
+    - ticker: WAL, WAL-PA
+      cik: '0001212545'
+      name: WESTERN ALLIANCE BANCORPORATION
+      status: active
+    - ticker: UCB, UCB-PI
+      cik: 0000857855
+      name: UNITED COMMUNITY BANKS INC
+      status: active
+    - ticker: ECPG
+      cik: 0001084961
+      name: ENCORE CAPITAL GROUP INC
+      status: active
+    - ticker: IROQ
+      cik: '0001514743'
+      name: IF Bancorp, Inc.
+      status: active
+    - ticker: SIVR
+      cik: 0001450922
+      name: abrdn Silver ETF Trust
+      status: active
+    - ticker: COFS
+      cik: 0000803164
+      name: CHOICEONE FINANCIAL SERVICES INC
+      status: active
+    - ticker: LARK
+      cik: 0001141688
+      name: LANDMARK BANCORP INC
+      status: active
+    - ticker: CBU
+      cik: 0000723188
+      name: COMMUNITY FINANCIAL SYSTEM, INC.
+      status: active
+    - ticker: SAFT
+      cik: '0001172052'
+      name: SAFETY INSURANCE GROUP INC
+      status: active
+    - ticker: UNB
+      cik: 0000706863
+      name: UNION BANKSHARES INC
+      status: active
+    - ticker: AB
+      cik: 0000825313
+      name: ALLIANCEBERNSTEIN HOLDING L.P.
+      status: active
+    - ticker: EWBC
+      cik: 0001069157
+      name: EAST WEST BANCORP INC
+      status: active
+    - ticker: MGLD
+      cik: '0001005101'
+      name: Marygold Companies, Inc.
+      status: active
+    - ticker: QCRH
+      cik: 0000906465
+      name: QCR HOLDINGS INC
+      status: active
+    - ticker: PFIS
+      cik: 0001056943
+      name: PEOPLES FINANCIAL SERVICES CORP.
+      status: active
+    - ticker: TBBK
+      cik: 0001295401
+      name: Bancorp, Inc.
+      status: active
+    - ticker: SLNH, SLNHP
+      cik: '0000064463'
+      name: Soluna Holdings, Inc
+      status: active
+    - ticker: BEN
+      cik: 0000038777
+      name: FRANKLIN RESOURCES INC
+      status: active
+    - ticker: ADC, ADC-PA
+      cik: 0000917251
+      name: AGREE REALTY CORP
+      status: active
+    - ticker: FHI
+      cik: 0001056288
+      name: FEDERATED HERMES, INC.
+      status: active
+    - ticker: FFIN
+      cik: 0000036029
+      name: FIRST FINANCIAL BANKSHARES INC
+      status: active
+    - ticker: COOP
+      cik: 0000933136
+      name: Mr. Cooper Group Inc.
+      status: active
+    - ticker: HOUS
+      cik: 0001398987
+      name: Anywhere Real Estate Inc.
+      status: active
+    - ticker: NCPL, NCPLW
+      cik: '0001414767'
+      name: Netcapital Inc.
+      status: active
+    - ticker: PPBI
+      cik: 0001028918
+      name: PACIFIC PREMIER BANCORP INC
+      status: active
+    - ticker: MARA
+      cik: '0001507605'
+      name: MARA Holdings, Inc.
+      status: active
+    - ticker: BRO
+      cik: 0000079282
+      name: BROWN & BROWN, INC.
+      status: active
+    - ticker: WABC
+      cik: 0000311094
+      name: WESTAMERICA BANCORPORATION
+      status: active
+    - ticker: HST
+      cik: '0001070750'
+      name: HOST HOTELS & RESORTS, INC.
+      status: active
+    - ticker: PLBC
+      cik: 0001168455
+      name: PLUMAS BANCORP
+      status: active
+    - ticker: MS, MS-PA, MS-PK, MS-PI, MS-PF, MS-PE, MS-PL, MS-PO, MS-PP, MS-PQ, MSTLW
+      cik: 0000895421
+      name: MORGAN STANLEY
+      status: active
+    - ticker: FNLC
+      cik: '0000765207'
+      name: First Bancorp, Inc /ME/
+      status: active
+    - ticker: HOPE
+      cik: 0001128361
+      name: HOPE BANCORP INC
+      status: active
+    - ticker: RGA, RZB, RZC
+      cik: 0000898174
+      name: REINSURANCE GROUP OF AMERICA INC
+      status: active
+    - ticker: CG, CGABL
+      cik: '0001527166'
+      name: Carlyle Group Inc.
+      status: active
+    - ticker: TCBI, TCBIO
+      cik: 0001077428
+      name: TEXAS CAPITAL BANCSHARES INC/TX
+      status: active
+    - ticker: SQFT, SQFTP, SQFTW
+      cik: 0001080657
+      name: Presidio Property Trust, Inc.
+      status: active
+    - ticker: ABCB
+      cik: 0000351569
+      name: Ameris Bancorp
+      status: active
+    - ticker: CPSS
+      cik: 0000889609
+      name: CONSUMER PORTFOLIO SERVICES, INC.
+      status: active
+    - ticker: CB
+      cik: 0000896159
+      name: Chubb Ltd
+      status: active
+    - ticker: EBMT
+      cik: 0001478454
+      name: Eagle Bancorp Montana, Inc.
+      status: active
+    - ticker: FRT, FRT-PC
+      cik: 0000034903
+      name: FEDERAL REALTY INVESTMENT TRUST
+      status: active
+    - ticker: IBKR
+      cik: 0001381197
+      name: Interactive Brokers Group, Inc.
+      status: active
+    - ticker: EFX
+      cik: 0000033185
+      name: EQUIFAX INC
+      status: active
+    - ticker: OHI
+      cik: 0000888491
+      name: OMEGA HEALTHCARE INVESTORS INC
+      status: active
+    - ticker: FLIC
+      cik: '0000740663'
+      name: FIRST OF LONG ISLAND CORP
+      status: active
+    - ticker: TRC
+      cik: 0000096869
+      name: TEJON RANCH CO
+      status: active
+    - ticker: FBP
+      cik: '0001057706'
+      name: FIRST BANCORP /PR/
+      status: active
+    - ticker: NIHK
+      cik: 0001084475
+      name: Video River Networks, Inc.
+      status: active
+    - ticker: BWFG
+      cik: '0001505732'
+      name: Bankwell Financial Group, Inc.
+      status: active
+    - ticker: CMRF
+      cik: 0001498547
+      name: CIM REAL ESTATE FINANCE TRUST, INC.
+      status: active
+    - ticker: FBMS
+      cik: 0000947559
+      name: FIRST BANCSHARES INC /MS/
+      status: active
+    - ticker: HIG, HIG-PG
+      cik: 0000874766
+      name: HARTFORD FINANCIAL SERVICES GROUP, INC.
+      status: active
+    - ticker: PSA, PSA-PH, PSA-PK, PSA-PF, PSA-PG, PSA-PI, PSA-PJ, PSA-PL, PSA-PM,
+        PSA-PN, PSA-PO, PSA-PP, PSA-PQ, PSA-PR, PSA-PS
+      cik: 0001393311
+      name: Public Storage
+      status: active
+    - ticker: FUNC
+      cik: 0000763907
+      name: FIRST UNITED CORP/MD/
+      status: active
+    - ticker: AIG
+      cik: '0000005272'
+      name: AMERICAN INTERNATIONAL GROUP, INC.
+      status: active
+    - ticker: SNV, SNV-PD, SNV-PE
+      cik: 0000018349
+      name: SYNOVUS FINANCIAL CORP
+      status: active
+    - ticker: CBKM
+      cik: 0001006830
+      name: CONSUMERS BANCORP INC /OH/
+      status: active
+    - ticker: RDN
+      cik: 0000890926
+      name: RADIAN GROUP INC
+      status: active
+    - ticker: FRME, FRMEP
+      cik: '0000712534'
+      name: FIRST MERCHANTS CORP
+      status: active
+    - ticker: HOMB
+      cik: '0001331520'
+      name: HOME BANCSHARES INC
+      status: active
+    - ticker: MVNC
+      cik: 0001439264
+      name: Marvion Inc.
+      status: active
+    - ticker: WPC
+      cik: 0001025378
+      name: W. P. Carey Inc.
+      status: active
+    - ticker: CMTV
+      cik: 0000718413
+      name: COMMUNITY BANCORP /VT
+      status: active
+    - ticker: BFIN
+      cik: 0001303942
+      name: BankFinancial CORP
+      status: active
+    - ticker: SGIC
+      cik: '0001446371'
+      name: Strategic Realty Trust, Inc.
+      status: active
+    - ticker: RJF, RJF-PB
+      cik: '0000720005'
+      name: RAYMOND JAMES FINANCIAL INC
+      status: active
+    - ticker: FCBC
+      cik: 0000859070
+      name: FIRST COMMUNITY BANKSHARES INC /VA/
+      status: active
+    - ticker: EFC, EFC-PA, EFC-PB, EFC-PC, EFC-PD, EFC-PE
+      cik: '0001411342'
+      name: Ellington Financial Inc.
+      status: active
+    - ticker: AIZ, AIZN
+      cik: 0001267238
+      name: ASSURANT, INC.
+      status: active
+    - ticker: MYFW
+      cik: '0001327607'
+      name: First Western Financial Inc
+      status: active
+    - ticker: TCBK
+      cik: '0000356171'
+      name: TRICO BANCSHARES /
+      status: active
+    - ticker: L
+      cik: 0000060086
+      name: LOEWS CORP
+      status: active
+    - ticker: JUVF
+      cik: '0000714712'
+      name: JUNIATA VALLEY FINANCIAL CORP
+      status: active
+    - ticker: ALLY
+      cik: 0000040729
+      name: Ally Financial Inc.
+      status: active
+    - ticker: WSBC, WSBCP
+      cik: 0000203596
+      name: WESBANCO INC
+      status: active
+    - ticker: BNO
+      cik: 0001472494
+      name: United States Brent Oil Fund, LP
+      status: active
+    - ticker: LAMR
+      cik: 0001090425
+      name: LAMAR ADVERTISING CO/NEW
+      status: active
+    - ticker: CNA
+      cik: '0000021175'
+      name: CNA FINANCIAL CORP
+      status: active
+    - ticker: SKT
+      cik: 0000899715
+      name: TANGER INC.
+      status: active
+    - ticker: ATLC, ATLCL, ATLCP, ATLCZ
+      cik: '0001464343'
+      name: Atlanticus Holdings Corp
+      status: active
+    - ticker: NBTB
+      cik: 0000790359
+      name: NBT BANCORP INC
+      status: active
+    - ticker: NNI
+      cik: 0001258602
+      name: NELNET INC
+      status: active
+    - ticker: FIBK
+      cik: 0000860413
+      name: FIRST INTERSTATE BANCSYSTEM INC
+      status: active
+    - ticker: KRG
+      cik: 0001286043
+      name: KITE REALTY GROUP TRUST
+      status: active
+    - ticker: AHT, AHT-PH, AHT-PI, AHT-PF, AHT-PG, AHT-PD
+      cik: 0001232582
+      name: ASHFORD HOSPITALITY TRUST INC
+      status: active
+    - ticker: CAC
+      cik: 0000750686
+      name: CAMDEN NATIONAL CORP
+      status: active
+    - ticker: OCFC, OCFCP
+      cik: '0001004702'
+      name: OCEANFIRST FINANCIAL CORP
+      status: active
+    - ticker: AHL-PC, AHL-PD, AHL-PE
+      cik: 0001267395
+      name: ASPEN INSURANCE HOLDINGS LTD
+      status: active
+    - ticker: WULF
+      cik: 0001083301
+      name: TERAWULF INC.
+      status: active
+    - ticker: SAFE
+      cik: 0001095651
+      name: Safehold Inc.
+      status: active
+    - ticker: DRH, DRH-PA
+      cik: 0001298946
+      name: DiamondRock Hospitality Co
+      status: active
+    - ticker: O, O-P
+      cik: 0000726728
+      name: REALTY INCOME CORP
+      status: active
+    - ticker: HBT
+      cik: '0000775215'
+      name: HBT Financial, Inc.
+      status: active
+    - ticker: WHLR, WHLRD, WHLRP, WHLRL
+      cik: '0001527541'
+      name: Wheeler Real Estate Investment Trust, Inc.
+      status: active
+    - ticker: RRBI
+      cik: '0001071236'
+      name: RED RIVER BANCSHARES INC
+      status: active
+    - ticker: UMBF
+      cik: 0000101382
+      name: UMB FINANCIAL CORP
+      status: active
+    - ticker: GLTR
+      cik: 0001483386
+      name: abrdn Precious Metals Basket ETF Trust
+      status: active
+    - ticker: PECO
+      cik: '0001476204'
+      name: Phillips Edison & Company, Inc.
+      status: active
+    - ticker: FMCB
+      cik: 0001085913
+      name: FARMERS & MERCHANTS BANCORP
+      status: active
+    - ticker: ELME
+      cik: 0000104894
+      name: Elme Communities
+      status: active
+    - ticker: SPFI
+      cik: 0001163668
+      name: SOUTH PLAINS FINANCIAL, INC.
+      status: active
+    - ticker: TIPT
+      cik: 0001393726
+      name: TIPTREE INC.
+      status: active
+    - ticker: ARE
+      cik: '0001035443'
+      name: ALEXANDRIA REAL ESTATE EQUITIES, INC.
+      status: active
+    - ticker: UWHR
+      cik: 0000898171
+      name: UWHARRIE CAPITAL CORP
+      status: active
+    - ticker: NYMT, NYMTN, NYMTI, NYMTL, NYMTM, NYMTZ
+      cik: 0001273685
+      name: NEW YORK MORTGAGE TRUST INC
+      status: active
+    - ticker: CVBF
+      cik: '0000354647'
+      name: CVB FINANCIAL CORP
+      status: active
+    - ticker: SASR
+      cik: 0000824410
+      name: SANDY SPRING BANCORP INC
+      status: active
+    - ticker: WD
+      cik: 0001497770
+      name: Walker & Dunlop, Inc.
+      status: active
+    - ticker: AAME
+      cik: 0000008177
+      name: ATLANTIC AMERICAN CORP
+      status: active
+    - ticker: ESS
+      cik: 0000920522
+      name: ESSEX PROPERTY TRUST, INC.
+      status: active
+    - ticker: LTC
+      cik: 0000887905
+      name: LTC PROPERTIES INC
+      status: active
+    - ticker: MSBI, MSBIP
+      cik: '0001466026'
+      name: Midland States Bancorp, Inc.
+      status: active
+    - ticker: NRIM
+      cik: '0001163370'
+      name: NORTHRIM BANCORP INC
+      status: active
+    - ticker: FRAF
+      cik: '0000723646'
+      name: FRANKLIN FINANCIAL SERVICES CORP /PA/
+      status: active
+    - ticker: ESSA
+      cik: 0001382230
+      name: ESSA Bancorp, Inc.
+      status: active
+    - ticker: OPHC
+      cik: 0001288855
+      name: OptimumBank Holdings, Inc.
+      status: active
+    - ticker: GS, GS-PA, GS-PD, GS-PC, GSCE
+      cik: 0000886982
+      name: GOLDMAN SACHS GROUP INC
+      status: active
+    - ticker: VAC
+      cik: 0001524358
+      name: MARRIOTT VACATIONS WORLDWIDE Corp
+      status: active
+    - ticker: SUI
+      cik: 0000912593
+      name: SUN COMMUNITIES INC
+      status: active
+    - ticker: LOAN
+      cik: 0001080340
+      name: MANHATTAN BRIDGE CAPITAL, INC
+      status: active
+    - ticker: CRMZ
+      cik: 0000315958
+      name: CREDITRISKMONITOR COM INC
+      status: active
+    - ticker: TRMK
+      cik: '0000036146'
+      name: TRUSTMARK CORP
+      status: active
+    - ticker: MBI
+      cik: 0000814585
+      name: MBIA INC
+      status: active
+    - ticker: OVLY
+      cik: '0001431567'
+      name: Oak Valley Bancorp
+      status: active
+    - ticker: AGNC, AGNCM, AGNCN, AGNCL, AGNCO, AGNCP
+      cik: 0001423689
+      name: AGNC Investment Corp.
+      status: active
+    - ticker: EG
+      cik: 0001095073
+      name: EVEREST GROUP, LTD.
+      status: active
+    - ticker: FNF
+      cik: 0001331875
+      name: Fidelity National Financial, Inc.
+      status: active
+    - ticker: FRHC
+      cik: 0000924805
+      name: Freedom Holding Corp.
+      status: active
+    - ticker: SCHW, SCHW-PD, SCHW-PJ
+      cik: 0000316709
+      name: SCHWAB CHARLES CORP
+      status: active
+    - ticker: PMT, PMT-PA, PMT-PB, PMT-PC, PMTU
+      cik: '0001464423'
+      name: PennyMac Mortgage Investment Trust
+      status: active
+    - ticker: NTRS, NTRSO
+      cik: '0000073124'
+      name: NORTHERN TRUST CORP
+      status: active
+    - ticker: HIW
+      cik: 0000921082
+      name: HIGHWOODS PROPERTIES, INC.
+      status: active
+    - ticker: GDOT
+      cik: 0001386278
+      name: GREEN DOT CORP
+      status: active
+    - ticker: MCY
+      cik: 0000064996
+      name: MERCURY GENERAL CORP
+      status: active
+    - ticker: FSP
+      cik: '0001031316'
+      name: FRANKLIN STREET PROPERTIES CORP /MA/
+      status: active
+    - ticker: ISBA
+      cik: 0000842517
+      name: ISABELLA BANK Corp
+      status: active
+    - ticker: MBCN
+      cik: 0000836147
+      name: MIDDLEFIELD BANC CORP
+      status: active
+    - ticker: BYFC
+      cik: '0001001171'
+      name: BROADWAY FINANCIAL CORP \DE\
+      status: active
+    - ticker: FFWM
+      cik: 0001413837
+      name: First Foundation Inc.
+      status: active
+    - ticker: DBP
+      cik: 0001383057
+      name: Invesco DB Precious Metals Fund
+      status: active
+    - ticker: RNST
+      cik: '0000715072'
+      name: RENASANT CORP
+      status: active
+    - ticker: UVE
+      cik: 0000891166
+      name: UNIVERSAL INSURANCE HOLDINGS, INC.
+      status: active
+    - ticker: KW
+      cik: 0001408100
+      name: Kennedy-Wilson Holdings, Inc.
+      status: active
+    - ticker: FXF
+      cik: '0001353615'
+      name: Invesco CurrencyShares Swiss Franc Trust
+      status: active
+    - ticker: MTB, MTB-PH, MTB-PJ
+      cik: '0000036270'
+      name: M&T BANK CORP
+      status: active
+    - ticker: NHI
+      cik: 0000877860
+      name: NATIONAL HEALTH INVESTORS INC
+      status: active
+    - ticker: CBOE
+      cik: '0001374310'
+      name: Cboe Global Markets, Inc.
+      status: active
+    - ticker: BKSC
+      cik: '0001007273'
+      name: BANK OF SOUTH CAROLINA CORP
+      status: active
+    - ticker: PRAA
+      cik: 0001185348
+      name: PRA GROUP INC
+      status: active
+    - ticker: CSR, IRET, CSR-PC
+      cik: 0000798359
+      name: CENTERSPACE
+      status: active
+    - ticker: CPER, USCI
+      cik: 0001479247
+      name: United States Commodity Index Funds Trust
+      status: active
+    - ticker: HFBL
+      cik: '0001500375'
+      name: Home Federal Bancorp, Inc. of Louisiana
+      status: active
+    - ticker: BFH
+      cik: '0001101215'
+      name: BREAD FINANCIAL HOLDINGS, INC.
+      status: active
+    - ticker: PIPR
+      cik: '0001230245'
+      name: PIPER SANDLER COMPANIES
+      status: active
+    - ticker: PCH
+      cik: 0001338749
+      name: POTLATCHDELTIC CORP
+      status: active
+    - ticker: DLR, DLR-PJ, DLR-PK, DLR-PL
+      cik: 0001297996
+      name: DIGITAL REALTY TRUST, INC.
+      status: active
+    - ticker: ARES
+      cik: 0001176948
+      name: Ares Management Corp
+      status: active
+    - ticker: UFCS
+      cik: 0000101199
+      name: UNITED FIRE GROUP INC
+      status: active
+    - ticker: SELF
+      cik: '0001031235'
+      name: Global Self Storage, Inc.
+      status: active
+    - ticker: CDR-PC, CDR-PB
+      cik: 0000761648
+      name: CEDAR REALTY TRUST, INC.
+      status: active
+    - ticker: IHT
+      cik: 0000082473
+      name: INNSUITES HOSPITALITY TRUST
+      status: active
+    - ticker: NBHC
+      cik: 0001475841
+      name: National Bank Holdings Corp
+      status: active
+    - ticker: FNWD
+      cik: 0000919864
+      name: Finward Bancorp
+      status: active
+    - ticker: GMPW
+      cik: '0001064722'
+      name: GIVEMEPOWER CORP
+      status: active
+    - ticker: PWOD
+      cik: '0000716605'
+      name: PENNS WOODS BANCORP INC
+      status: active
+    - ticker: DHC, DHCNI, DHCNL
+      cik: '0001075415'
+      name: DIVERSIFIED HEALTHCARE TRUST
+      status: active
+    - ticker: NLY, NLY-PG, NLY-PF, NLY-PI
+      cik: 0001043219
+      name: ANNALY CAPITAL MANAGEMENT INC
+      status: active
+    - ticker: FAF
+      cik: 0001472787
+      name: First American Financial Corp
+      status: active
+    - ticker: DCOM, DCOMG, DCOMP
+      cik: 0000846617
+      name: Dime Community Bancshares, Inc. /NY/
+      status: active
+    - ticker: RLI
+      cik: 0000084246
+      name: RLI CORP
+      status: active
+    - ticker: BHB
+      cik: '0000743367'
+      name: BAR HARBOR BANKSHARES
+      status: active
+    - ticker: GL, GL-PD
+      cik: '0000320335'
+      name: GLOBE LIFE INC.
+      status: active
+    - ticker: ACNB
+      cik: 0000715579
+      name: ACNB CORP
+      status: active
+    - ticker: CDP
+      cik: 0000860546
+      name: COPT DEFENSE PROPERTIES
+      status: active
+    - ticker: ELS
+      cik: 0000895417
+      name: EQUITY LIFESTYLE PROPERTIES INC
+      status: active
+    - ticker: ARGD, ARGO-PA
+      cik: 0001091748
+      name: Argo Group International Holdings, Inc.
+      status: active
+    - ticker: EEFT
+      cik: 0001029199
+      name: EURONET WORLDWIDE, INC.
+      status: active
+    - ticker: HBIA
+      cik: '0000732417'
+      name: HILLS BANCORPORATION
+      status: active
+    - ticker: EVR
+      cik: 0001360901
+      name: Evercore Inc.
+      status: active
+    - ticker: FNRN
+      cik: 0001114927
+      name: FIRST NORTHERN COMMUNITY BANCORP
+      status: active
+    - ticker: KEY, KEY-PK, KEY-PJ, KEY-PI, KEY-PL
+      cik: 0000091576
+      name: KEYCORP /NEW/
+      status: active
+    - ticker: GROW
+      cik: 0000754811
+      name: U S GLOBAL INVESTORS INC
+      status: active
+    - ticker: PFC
+      cik: 0000946647
+      name: PREMIER FINANCIAL CORP
+      status: active
+    - ticker: MBWM
+      cik: 0001042729
+      name: MERCANTILE BANK CORP
+      status: active
+    - ticker: THG
+      cik: 0000944695
+      name: HANOVER INSURANCE GROUP, INC.
+      status: active
+    - ticker: GSG, ISMCF
+      cik: '0001332174'
+      name: iShares S&P GSCI Commodity-Indexed Trust
+      status: active
+    - ticker: SVC
+      cik: 0000945394
+      name: Service Properties Trust
+      status: active
+    - ticker: RBCAA
+      cik: 0000921557
+      name: REPUBLIC BANCORP INC /KY/
+      status: active
+    - ticker: FMBH
+      cik: '0000700565'
+      name: FIRST MID BANCSHARES, INC.
+      status: active
+    - ticker: PEBO
+      cik: 0000318300
+      name: PEOPLES BANCORP INC
+      status: active
+    - ticker: MCVT
+      cik: '0001425355'
+      name: Mill City Ventures III, Ltd
+      status: active
+    - ticker: PPLT
+      cik: '0001460235'
+      name: abrdn Platinum ETF Trust
+      status: active
+    - ticker: HLNE
+      cik: '0001433642'
+      name: Hamilton Lane INC
+      status: active
+    - ticker: WTW
+      cik: '0001140536'
+      name: WILLIS TOWERS WATSON PLC
+      status: active
+    - ticker: FHN, FHN-PB, FHN-PC, FHN-PE, FHN-PF
+      cik: 0000036966
+      name: FIRST HORIZON CORP
+      status: active
+    - ticker: RC, RCB, RCC, RC-PC, RC-PE
+      cik: 0001527590
+      name: Ready Capital Corp
+      status: active
+    - ticker: FCF
+      cik: '0000712537'
+      name: FIRST COMMONWEALTH FINANCIAL CORP /PA/
+      status: active
+    - ticker: GABC
+      cik: 0000714395
+      name: GERMAN AMERICAN BANCORP, INC.
+      status: active
+    - ticker: CFG, CFG-PE, CFG-PH
+      cik: 0000759944
+      name: CITIZENS FINANCIAL GROUP INC/RI
+      status: active
+    - ticker: DOC
+      cik: 0000765880
+      name: HEALTHPEAK PROPERTIES, INC.
+      status: active
+    - ticker: FULT, FULTP
+      cik: '0000700564'
+      name: FULTON FINANCIAL CORP
+      status: active
+    - ticker: STC
+      cik: 0000094344
+      name: STEWART INFORMATION SERVICES CORP
+      status: active
+    - ticker: CMA
+      cik: 0000028412
+      name: COMERICA INC /NEW/
+      status: active
+    - ticker: HAFC
+      cik: 0001109242
+      name: HANMI FINANCIAL CORP
+      status: active
+    - ticker: THFF
+      cik: '0000714562'
+      name: FIRST FINANCIAL CORP /IN/
+      status: active
+    - ticker: MORN
+      cik: 0001289419
+      name: Morningstar, Inc.
+      status: active
+    - ticker: PEBK
+      cik: 0001093672
+      name: PEOPLES BANCORP OF NORTH CAROLINA INC
+      status: active
+    - ticker: TFC, TFC-PI, TFC-PO, TFC-PR
+      cik: 0000092230
+      name: TRUIST FINANCIAL CORP
+      status: active
+    - ticker: EQIX
+      cik: 0001101239
+      name: EQUINIX INC
+      status: active
+    - ticker: UDR
+      cik: 0000074208
+      name: UDR, Inc.
+      status: active
+    - ticker: ORRF
+      cik: 0000826154
+      name: ORRSTOWN FINANCIAL SERVICES INC
+      status: active
+    - ticker: HBNC
+      cik: 0000706129
+      name: HORIZON BANCORP INC /IN/
+      status: active
+    - ticker: FMNB
+      cik: 0000709337
+      name: FARMERS NATIONAL BANC CORP /OH/
+      status: active
+    - ticker: EGP
+      cik: 0000049600
+      name: EASTGROUP PROPERTIES INC
+      status: active
+    - ticker: BXP
+      cik: '0001037540'
+      name: BXP, Inc.
+      status: active
+    - ticker: FOR
+      cik: 0001406587
+      name: Forestar Group Inc.
+      status: active
+    - ticker: PRI
+      cik: 0001475922
+      name: Primerica, Inc.
+      status: active
+    - ticker: HPP, HPP-PC
+      cik: 0001482512
+      name: Hudson Pacific Properties, Inc.
+      status: active
+    - ticker: ENVA
+      cik: 0001529864
+      name: Enova International, Inc.
+      status: active
+    - ticker: MAC
+      cik: 0000912242
+      name: MACERICH CO
+      status: active
+    - ticker: DBC
+      cik: 0001328237
+      name: Invesco DB Commodity Index Tracking Fund
+      status: active
+    - ticker: LAZ
+      cik: '0001311370'
+      name: Lazard, Inc.
+      status: active
+    - ticker: ALRS
+      cik: 0000903419
+      name: ALERUS FINANCIAL CORP
+      status: active
+    - ticker: CLSK
+      cik: 0000827876
+      name: CLEANSPARK, INC.
+      status: active
+    - ticker: HBCP
+      cik: '0001436425'
+      name: HOME BANCORP, INC.
+      status: active
+    - ticker: MFA, MFA-PB, MFAN, MFAO, MFA-PC
+      cik: '0001055160'
+      name: MFA FINANCIAL, INC.
+      status: active
+    - ticker: SPG, SPG-PJ
+      cik: '0001063761'
+      name: SIMON PROPERTY GROUP INC /DE/
+      status: active
+    - ticker: SNFCA
+      cik: 0000318673
+      name: SECURITY NATIONAL FINANCIAL CORP
+      status: active
+    - ticker: VTR
+      cik: '0000740260'
+      name: Ventas, Inc.
+      status: active
+    - ticker: BKU
+      cik: 0001504008
+      name: BankUnited, Inc.
+      status: active
+    - ticker: LPLA
+      cik: 0001397911
+      name: LPL Financial Holdings Inc.
+      status: active
+    - ticker: WRB, WRB-PE, WRB-PF, WRB-PG, WRB-PH
+      cik: '0000011544'
+      name: BERKLEY W R CORP
+      status: active
+    - ticker: PRU, PFH, PRH, PRS
+      cik: '0001137774'
+      name: PRUDENTIAL FINANCIAL INC
+      status: active
+    - ticker: SEIC
+      cik: 0000350894
+      name: SEI INVESTMENTS CO
+      status: active
+    - ticker: OFG
+      cik: 0001030469
+      name: OFG BANCORP
+      status: active
+    - ticker: CCFN
+      cik: '0000731122'
+      name: MUNCY COLUMBIA FINANCIAL Corp
+      status: active
+    - ticker: C, C-PN
+      cik: 0000831001
+      name: CITIGROUP INC
+      status: active
+    - ticker: FHB
+      cik: '0000036377'
+      name: FIRST HAWAIIAN, INC.
+      status: active
+    - ticker: GTY
+      cik: '0001052752'
+      name: GETTY REALTY CORP /MD/
+      status: active
+    - ticker: ASRV
+      cik: '0000707605'
+      name: AMERISERV FINANCIAL INC /PA/
+      status: active
+    - ticker: HBAN, HBANL, HBANM, HBANP
+      cik: 0000049196
+      name: HUNTINGTON BANCSHARES INC /MD/
+      status: active
+    - ticker: DFS
+      cik: 0001393612
+      name: Discover Financial Services
+      status: active
+    - ticker: CBSH
+      cik: '0000022356'
+      name: COMMERCE BANCSHARES INC /MO/
+      status: active
+    - ticker: MCB
+      cik: '0001476034'
+      name: Metropolitan Bank Holding Corp.
+      status: active
+    - ticker: MAA, MAA-PI
+      cik: 0000912595
+      name: MID AMERICA APARTMENT COMMUNITIES INC.
+      status: active
+    - ticker: BOKF
+      cik: 0000875357
+      name: BOK FINANCIAL CORP
+      status: active
+    - ticker: SBFG
+      cik: '0000767405'
+      name: SB FINANCIAL GROUP, INC.
+      status: active
+    - ticker: BRST
+      cik: 0000764897
+      name: Broad Street Realty, Inc.
+      status: active
+    - ticker: CPT
+      cik: 0000906345
+      name: CAMDEN PROPERTY TRUST
+      status: active
+    - ticker: COLB
+      cik: 0000887343
+      name: COLUMBIA BANKING SYSTEM, INC.
+      status: active
+    - ticker: SYBT
+      cik: 0000835324
+      name: Stock Yards Bancorp, Inc.
+      status: active
+    - ticker: ALL, ALL-PH, ALL-PB, ALL-PI, ALL-PJ
+      cik: 0000899051
+      name: ALLSTATE CORP
+      status: active
+    - ticker: SFNC
+      cik: 0000090498
+      name: SIMMONS FIRST NATIONAL CORP
+      status: active
+    - ticker: IWSH
+      cik: 0001279715
+      name: Wright Investors Service Holdings, Inc.
+      status: active
+    - ticker: KMPR, KMPB
+      cik: 0000860748
+      name: KEMPER Corp
+      status: active
+    - ticker: UNAM
+      cik: '0000100716'
+      name: UNICO AMERICAN CORP
+      status: active
+    - ticker: TBNK
+      cik: '0001447051'
+      name: Territorial Bancorp Inc.
+      status: active
+    - ticker: FR
+      cik: 0000921825
+      name: FIRST INDUSTRIAL REALTY TRUST INC
+      status: active
+    - ticker: MITT, MITT-PA, MITT-PB, MITN, MITP, MITT-PC
+      cik: 0001514281
+      name: AG Mortgage Investment Trust, Inc.
+      status: active
+    - ticker: HALL
+      cik: 0000819913
+      name: HALLMARK FINANCIAL SERVICES INC
+      status: active
+    - ticker: TRXA
+      cik: '0001437750'
+      name: T-REX Acquisition Corp.
+      status: active
+    - ticker: ERIE
+      cik: 0000922621
+      name: ERIE INDEMNITY CO
+      status: active
+    - ticker: KINS
+      cik: 0000033992
+      name: KINGSTONE COMPANIES, INC.
+      status: active
+    - ticker: CRVL
+      cik: 0000874866
+      name: CORVEL CORP
+      status: active
+    - ticker: FXB
+      cik: '0001353611'
+      name: Invesco CurrencyShares British Pound Sterling Trust
+      status: active
+    - ticker: GBCI
+      cik: 0000868671
+      name: GLACIER BANCORP, INC.
+      status: active
+    - ticker: GLAE
+      cik: '0001014111'
+      name: GlassBridge Enterprises, Inc.
+      status: active
+    - ticker: USB, USB-PA, USB-PH, USB-PP, USB-PQ, USB-PR, USB-PS
+      cik: '0000036104'
+      name: US BANCORP \DE\
+      status: active
+    - ticker: FGCO
+      cik: '0001377167'
+      name: Financial Gravity Companies, Inc.
+      status: active
+    - ticker: WELL
+      cik: '0000766704'
+      name: WELLTOWER INC.
+      status: active
+    - ticker: FXE
+      cik: 0001328598
+      name: Invesco CurrencyShares Euro Trust
+      status: active
+    - ticker: AUB, AUB-PA
+      cik: 0000883948
+      name: Atlantic Union Bankshares Corp
+      status: active
+    - ticker: FMCC, FMCCT, FREJO, FMCCG, FMCCI, FMCKI, FMCCJ, FMCCL, FMCKL, FMCCS,
+        FMCCO, FMCKN, FREJN, FMCCN, FMCKO, FMCKJ, FMCKM, FREGP, FMCCH, FMCCK, FMCCP,
+        FMCCM, FMCKP, FMCKK, FREJP
+      cik: '0001026214'
+      name: FEDERAL HOME LOAN MORTGAGE CORP
+      status: active
+    - ticker: HWBK
+      cik: 0000893847
+      name: HAWTHORN BANCSHARES, INC.
+      status: active
+    - ticker: STBA
+      cik: 0000719220
+      name: S&T BANCORP INC
+      status: active
+    - ticker: CNOB, CNOBP
+      cik: '0000712771'
+      name: ConnectOne Bancorp, Inc.
+      status: active
+    - ticker: GNL, GNL-PA, GNL-PB, GNL-PD, GNL-PE
+      cik: '0001526113'
+      name: Global Net Lease, Inc.
+      status: active
+    - ticker: INDB
+      cik: 0000776901
+      name: INDEPENDENT BANK CORP
+      status: active
+    - ticker: SFST
+      cik: 0001090009
+      name: SOUTHERN FIRST BANCSHARES INC
+      status: active
+    - ticker: QNTO
+      cik: 0001391933
+      name: QUAINT OAK BANCORP INC
+      status: active
+    - ticker: IBOC
+      cik: 0000315709
+      name: INTERNATIONAL BANCSHARES CORP
+      status: active
+    - ticker: CARV
+      cik: 0001016178
+      name: CARVER BANCORP INC
+      status: active
+    - ticker: NDAQ
+      cik: 0001120193
+      name: NASDAQ, INC.
+      status: active
+    - ticker: ESNT
+      cik: 0001448893
+      name: Essent Group Ltd.
+      status: active
+    - ticker: TROW
+      cik: 0001113169
+      name: PRICE T ROWE GROUP INC
+      status: active
+    - ticker: AMG, MGR, MGRB, MGRD, MGRE
+      cik: '0001004434'
+      name: AFFILIATED MANAGERS GROUP, INC.
+      status: active
+    - ticker: MGTI
+      cik: '0001001601'
+      name: MGT CAPITAL INVESTMENTS, INC.
+      status: active
+    - ticker: LCNB
+      cik: 0001074902
+      name: LCNB CORP
+      status: active
+    - ticker: LSAK
+      cik: '0001041514'
+      name: LESAKA TECHNOLOGIES INC
+      status: active
+    - ticker: CNFR, CNFRZ
+      cik: 0001502292
+      name: Conifer Holdings, Inc.
+      status: active
+    - ticker: NNN
+      cik: '0000751364'
+      name: NNN REIT, INC.
+      status: active
+    - ticker: SBCF
+      cik: 0000730708
+      name: SEACOAST BANKING CORP OF FLORIDA
+      status: active
+    - ticker: BAC, BML-PG, BML-PH, BAC-PE, BML-PJ, BML-PL, BAC-PB, BAC-PK, BAC-PL,
+        BAC-PM, BAC-PN, BAC-PO, BAC-PP, BAC-PQ, BAC-PS, BACRP, MER-PK
+      cik: 0000070858
+      name: BANK OF AMERICA CORP /DE/
+      status: active
+    - ticker: MOFG
+      cik: '0001412665'
+      name: MidWestOne Financial Group, Inc.
+      status: active
+    - ticker: STLY
+      cik: 0000797465
+      name: HG Holdings, Inc.
+      status: active
+    - ticker: DHIL
+      cik: 0000909108
+      name: DIAMOND HILL INVESTMENT GROUP INC
+      status: active
+    - ticker: EVBN
+      cik: 0000842518
+      name: EVANS BANCORP INC
+      status: active
+    - ticker: EQR
+      cik: 0000906107
+      name: EQUITY RESIDENTIAL
+      status: active
+    - ticker: FBIZ
+      cik: 0001521951
+      name: FIRST BUSINESS FINANCIAL SERVICES, INC.
+      status: active
+    - ticker: TREE
+      cik: '0001434621'
+      name: LendingTree, Inc.
+      status: active
+    - ticker: MIGI
+      cik: 0001218683
+      name: Mawson Infrastructure Group Inc.
+      status: active
+    - ticker: JLL
+      cik: 0001037976
+      name: JONES LANG LASALLE INC
+      status: active
+    - ticker: AON
+      cik: 0000315293
+      name: Aon plc
+      status: active
+    - ticker: HFWA
+      cik: '0001046025'
+      name: HERITAGE FINANCIAL CORP /WA/
+      status: active
+    - ticker: DBO
+      cik: 0001383058
+      name: Invesco DB Oil Fund
+      status: active
+    - ticker: WSFS
+      cik: 0000828944
+      name: WSFS FINANCIAL CORP
+      status: active
+    - ticker: SWKH, SWKHL
+      cik: 0001089907
+      name: SWK Holdings Corp
+      status: active
+    - ticker: PALL
+      cik: 0001459862
+      name: abrdn Palladium ETF Trust
+      status: active
+    - ticker: MTG
+      cik: 0000876437
+      name: MGIC INVESTMENT CORP
+      status: active
+    - ticker: FMBM
+      cik: 0000740806
+      name: F&M BANK CORP
+      status: active
+    - ticker: RKFL
+      cik: 0000823546
+      name: ROCKETFUEL BLOCKCHAIN, INC.
+      status: active
+    - ticker: AMSF
+      cik: 0001018979
+      name: AMERISAFE INC
+      status: active
+    - ticker: BLK
+      cik: '0001364742'
+      name: BlackRock Inc.
+      status: active
+    - ticker: QNBC
+      cik: 0000750558
+      name: QNB CORP
+      status: active
+    - ticker: RLJ, RLJ-PA
+      cik: '0001511337'
+      name: RLJ Lodging Trust
+      status: active
+    - ticker: WY
+      cik: '0000106535'
+      name: WEYERHAEUSER CO
+      status: active
+    - ticker: CIM, CIM-PB, CIM-PD, CIM-PC, CIM-PA, CIMN, CIMO
+      cik: 0001409493
+      name: CHIMERA INVESTMENT CORP
+      status: active
+    - ticker: SKWD
+      cik: 0001519449
+      name: Skyward Specialty Insurance Group, Inc.
+      status: active
+    - ticker: UTGN
+      cik: 0000832480
+      name: UTG INC
+      status: active
+    - ticker: WT
+      cik: 0000880631
+      name: WisdomTree, Inc.
+      status: active
+    - ticker: RDFN
+      cik: 0001382821
+      name: Redfin Corp
+      status: active
+    - ticker: MPB
+      cik: 0000879635
+      name: MID PENN BANCORP INC
+      status: active
+    - ticker: FHLD
+      cik: 0001386044
+      name: Freedom Holdings, Inc.
+      status: active
+    - ticker: BX
+      cik: 0001393818
+      name: Blackstone Inc.
+      status: active
+    - ticker: SEVN
+      cik: '0001452477'
+      name: Seven Hills Realty Trust
+      status: active
+    - ticker: AMBC
+      cik: 0000874501
+      name: AMBAC FINANCIAL GROUP INC
+      status: active
+    - ticker: UVSP
+      cik: '0000102212'
+      name: UNIVEST FINANCIAL Corp
+      status: active
+    - ticker: OFED
+      cik: 0001501078
+      name: Oconee Federal Financial Corp.
+      status: active
+    - ticker: AX
+      cik: 0001299709
+      name: Axos Financial, Inc.
+      status: active
+    - ticker: VNO, VNO-PL, VNO-PM, VNORP, VNO-PN, VNO-PO
+      cik: 0000899689
+      name: VORNADO REALTY TRUST
+      status: active
+    - ticker: EFSC, EFSCP
+      cik: 0001025835
+      name: ENTERPRISE FINANCIAL SERVICES CORP
+      status: active
+    - ticker: WAFD, WAFDP
+      cik: 0000936528
+      name: WAFD INC
+      status: active
+    - ticker: AMP
+      cik: 0000820027
+      name: AMERIPRISE FINANCIAL INC
+      status: active
+    - ticker: BTCS
+      cik: 0001436229
+      name: BTCS Inc.
+      status: active
+    - ticker: ANG-PA, ANG-PB
+      cik: 0001039828
+      name: American National Group Inc.
+      status: active
+    - ticker: RBB
+      cik: 0001499422
+      name: RBB Bancorp
+      status: active
+    - ticker: PNBK
+      cik: 0001098146
+      name: PATRIOT NATIONAL BANCORP INC
+      status: active
+    - ticker: MET, MET-PA, MET-PE, MET-PF
+      cik: 0001099219
+      name: METLIFE INC
+      status: active
+    - ticker: AGQ, BOIL, EUO, GLL, KOLD, SCO, SVXY, UCO, UGL, ULE, UVXY, VIXM, VIXY,
+        YCL, YCS, ZSL
+      cik: '0001415311'
+      name: ProShares Trust II
+      status: active
+    - ticker: CWBC
+      cik: '0001127371'
+      name: Community West Bancshares
+      status: active
+    - ticker: FGBI, FGBIP
+      cik: 0001408534
+      name: First Guaranty Bancshares, Inc.
+      status: active
+    - ticker: FXA
+      cik: '0001353614'
+      name: Invesco CurrencyShares Australian Dollar Trust
+      status: active
+    - ticker: DGICA, DGICB
+      cik: 0000800457
+      name: DONEGAL GROUP INC
+      status: active
+    - ticker: ASB, ASB-PE, ASBA, ASB-PF
+      cik: 0000007789
+      name: ASSOCIATED BANC-CORP
+      status: active
+    - ticker: NWBI
+      cik: '0001471265'
+      name: Northwest Bancshares, Inc.
+      status: active
+    - ticker: BCBP
+      cik: 0001228454
+      name: BCB BANCORP INC
+      status: active
+    - ticker: UDN
+      cik: 0001383149
+      name: INVESCO DB US DOLLAR INDEX BEARISH FUND
+      status: active
+    - ticker: PSBQ
+      cik: 0000948368
+      name: PSB HOLDINGS INC /WI/
+      status: active
+    - ticker: SF, SF-PB, SFB, SF-PC, SF-PD
+      cik: '0000720672'
+      name: STIFEL FINANCIAL CORP
+      status: active
+    - ticker: IRM
+      cik: 0001020569
+      name: IRON MOUNTAIN INC
+      status: active
+    - ticker: CUZ
+      cik: '0000025232'
+      name: COUSINS PROPERTIES INC
+      status: active
+    - ticker: BANC, BANC-PF
+      cik: 0001169770
+      name: BANC OF CALIFORNIA, INC.
+      status: active
+    - ticker: PWCO
+      cik: '0000733337'
+      name: PwrCor, Inc.
+      status: active
+    - ticker: PCOK
+      cik: 0001452936
+      name: Pacific Oak Strategic Opportunity REIT, Inc.
+      status: active
+    - ticker: GLD
+      cik: '0001222333'
+      name: SPDR GOLD TRUST
+      status: active
+    - ticker: EQH, EQH-PA, EQH-PC
+      cik: 0001333986
+      name: Equitable Holdings, Inc.
+      status: active
+    - ticker: AKR
+      cik: 0000899629
+      name: ACADIA REALTY TRUST
+      status: active
+    - ticker: FCAP
+      cik: 0001070296
+      name: FIRST CAPITAL INC
+      status: active
+    - ticker: MKTX
+      cik: 0001278021
+      name: MARKETAXESS HOLDINGS INC
+      status: active
+    - ticker: OPY
+      cik: 0000791963
+      name: OPPENHEIMER HOLDINGS INC
+      status: active
+    - ticker: FSFG
+      cik: 0001435508
+      name: First Savings Financial Group, Inc.
+      status: active
+    - ticker: BOC
+      cik: 0001494582
+      name: BOSTON OMAHA Corp
+      status: active
+    - ticker: WRLD
+      cik: 0000108385
+      name: WORLD ACCEPTANCE CORP
+      status: active
+    - ticker: EFSI
+      cik: 0000880641
+      name: EAGLE FINANCIAL SERVICES INC
+      status: active
+    - ticker: CFB
+      cik: 0001458412
+      name: CROSSFIRST BANKSHARES, INC.
+      status: active
+    - ticker: GGEI
+      cik: 0001158420
+      name: Green Giant Inc.
+      status: active
+    - ticker: RF, RF-PC, RF-PB, RF-PE, RF-PF
+      cik: 0001281761
+      name: REGIONS FINANCIAL CORP
+      status: active
+    - ticker: IBCP
+      cik: 0000039311
+      name: INDEPENDENT BANK CORP /MI/
+      status: active
+    - ticker: CTBI
+      cik: 0000350852
+      name: COMMUNITY TRUST BANCORP INC /KY/
+      status: active
+    - ticker: GAMI
+      cik: 0001060349
+      name: GAMCO INVESTORS, INC. ET AL
+      status: active
+    - ticker: LVDW
+      cik: 0001503658
+      name: LiquidValue Development Inc.
+      status: active
+    - ticker: CNS
+      cik: 0001284812
+      name: COHEN & STEERS, INC.
+      status: active
+    - ticker: CZNC
+      cik: 0000810958
+      name: CITIZENS & NORTHERN CORP
+      status: active
+    - ticker: CPF
+      cik: '0000701347'
+      name: CENTRAL PACIFIC FINANCIAL CORP
+      status: active
+    - ticker: NIC
+      cik: 0001174850
+      name: NICOLET BANKSHARES INC
+      status: active
+    - ticker: SFBS
+      cik: '0001430723'
+      name: ServisFirst Bancshares, Inc.
+      status: active
+    - ticker: MGYR
+      cik: 0001337068
+      name: Magyar Bancorp, Inc.
+      status: active
+    - ticker: ACRE
+      cik: 0001529377
+      name: Ares Commercial Real Estate Corp
+      status: active
+    - ticker: UNTY
+      cik: 0000920427
+      name: UNITY BANCORP INC /NJ/
+      status: active
+    - ticker: PLD, PLDGP
+      cik: 0001045609
+      name: Prologis, Inc.
+      status: active
+    - ticker: SSB
+      cik: 0000764038
+      name: SouthState Corp
+      status: active
+    - ticker: PDNLA
+      cik: '0000731245'
+      name: PRESIDENTIAL REALTY CORP/DE/
+      status: active
+    - ticker: FUSB
+      cik: 0000717806
+      name: FIRST US BANCSHARES, INC.
+      status: active
+    - ticker: NWPP
+      cik: 0001163389
+      name: NEW PEOPLES BANKSHARES INC
+      status: active
+    - ticker: VLY, VLYPP, VLYPO, VLYPN
+      cik: '0000714310'
+      name: VALLEY NATIONAL BANCORP
+      status: active
+    - ticker: BHLB
+      cik: 0001108134
+      name: BERKSHIRE HILLS BANCORP INC
+      status: active
+    - ticker: CFBK
+      cik: 0001070680
+      name: CF BANKSHARES INC.
+      status: active
+    - ticker: EQBK
+      cik: '0001227500'
+      name: EQUITY BANCSHARES INC
+      status: active
+    - ticker: PNC
+      cik: '0000713676'
+      name: PNC FINANCIAL SERVICES GROUP, INC.
+      status: active
+    - ticker: BOTJ
+      cik: '0001275101'
+      name: BANK OF THE JAMES FINANCIAL GROUP INC
+      status: active
+    - ticker: AAPI
+      cik: 0001134982
+      name: Apple iSports Group, Inc.
+      status: active
+    - ticker: FFBC
+      cik: 0000708955
+      name: FIRST FINANCIAL BANCORP /OH/
+      status: active
+    - ticker: DBA
+      cik: 0001383082
+      name: INVESCO DB AGRICULTURE FUND
+      status: active
+    - ticker: FRST
+      cik: '0001325670'
+      name: Primis Financial Corp.
+      status: active
+    - ticker: COF, COF-PI, COF-PJ, COF-PK, COF-PL, COF-PN
+      cik: 0000927628
+      name: CAPITAL ONE FINANCIAL CORP
+      status: active
+    - ticker: SHBI
+      cik: 0001035092
+      name: SHORE BANCSHARES INC
+      status: active
+    - ticker: KKR, KKRS
+      cik: 0001404912
+      name: KKR & Co. Inc.
+      status: active
+    - ticker: RILY, RILYG, RILYK, RILYL, RILYM, RILYN, RILYP, RILYT, RILYZ
+      cik: 0001464790
+      name: B. Riley Financial, Inc.
+      status: active
+    - ticker: WHG
+      cik: '0001165002'
+      name: WESTWOOD HOLDINGS GROUP INC
+      status: active
+    - ticker: JPM, JPM-PC, JPM-PD, AMJB, JPM-PJ, JPM-PK, JPM-PL, JPM-PM
+      cik: 0000019617
+      name: JPMORGAN CHASE & CO
+      status: active
+    - ticker: HCI, HCIIP
+      cik: 0001400810
+      name: HCI Group, Inc.
+      status: active
+    - ticker: SBRA
+      cik: 0001492298
+      name: Sabra Health Care REIT, Inc.
+      status: active
+    - ticker: CLDT, CLDT-PA
+      cik: '0001476045'
+      name: Chatham Lodging Trust
+      status: active
+    - ticker: EXPI
+      cik: 0001495932
+      name: EXP World Holdings, Inc.
+      status: active
+    - ticker: UBOH
+      cik: 0001087456
+      name: UNITED BANCSHARES INC/OH
+      status: active
+    - ticker: STT, STT-PG
+      cik: 0000093751
+      name: STATE STREET CORP
+      status: active
+    - ticker: MFIN, MBNKP
+      cik: 0001000209
+      name: MEDALLION FINANCIAL CORP
+      status: active
+  Technology:
+    description: Software, Hardware, Semiconductors, and IT Services
+    companies:
+    - ticker: AOSL
+      cik: 0001387467
+      name: ALPHA & OMEGA SEMICONDUCTOR Ltd
+      status: active
+    - ticker: NVDA
+      cik: 0001045810
+      name: NVIDIA CORP
+      status: active
+    - ticker: POWI
+      cik: 0000833640
+      name: POWER INTEGRATIONS INC
+      status: active
+    - ticker: SQSP
+      cik: 0001496963
+      name: Squarespace, Inc.
+      status: active
+    - ticker: AMAT
+      cik: 0000006951
+      name: APPLIED MATERIALS INC /DE
+      status: active
+    - ticker: BOX
+      cik: '0001372612'
+      name: BOX INC
+      status: active
+    - ticker: BLIN
+      cik: 0001378590
+      name: Bridgeline Digital, Inc.
+      status: active
+    - ticker: MYSZ
+      cik: 0001211805
+      name: My Size, Inc.
+      status: active
+    - ticker: BYOC
+      cik: 0001386049
+      name: Beyond Commerce, Inc.
+      status: active
+    - ticker: APCX, APCXW
+      cik: '0001070050'
+      name: AppTech Payments Corp.
+      status: active
+    - ticker: FORM
+      cik: 0001039399
+      name: FORMFACTOR INC
+      status: active
+    - ticker: INQR
+      cik: 0001102942
+      name: InnovaQor, Inc.
+      status: active
+    - ticker: ASAN
+      cik: '0001477720'
+      name: Asana, Inc.
+      status: active
+    - ticker: CDNS
+      cik: 0000813672
+      name: CADENCE DESIGN SYSTEMS INC
+      status: active
+    - ticker: HSTM
+      cik: 0001095565
+      name: HEALTHSTREAM INC
+      status: active
+    - ticker: SMAR
+      cik: '0001366561'
+      name: SMARTSHEET INC
+      status: active
+    - ticker: SPWRQ
+      cik: 0000867773
+      name: SUNPOWER CORP
+      status: active
+    - ticker: GAHC
+      cik: 0001138724
+      name: Global Arena Holding, Inc.
+      status: active
+    - ticker: VBIX
+      cik: 0000797542
+      name: Viewbix Inc.
+      status: active
+    - ticker: ISGN
+      cik: '0000727634'
+      name: iSign Solutions Inc.
+      status: active
+    - ticker: ADP
+      cik: 0000008670
+      name: AUTOMATIC DATA PROCESSING INC
+      status: active
+    - ticker: ATYG
+      cik: 0001093636
+      name: Saxon Capital Group, Inc./DE
+      status: active
+    - ticker: NVEC
+      cik: 0000724910
+      name: NVE CORP /NEW/
+      status: active
+    - ticker: VIAV
+      cik: 0000912093
+      name: VIAVI SOLUTIONS INC.
+      status: active
+    - ticker: IMCI
+      cik: 0000884650
+      name: INFINITE GROUP INC
+      status: active
+    - ticker: RDAR
+      cik: 0001384365
+      name: RAADR, INC.
+      status: active
+    - ticker: ICCRW, ICNP
+      cik: 0001408057
+      name: iCoreConnect Inc.
+      status: active
+    - ticker: INTZ
+      cik: '0000736012'
+      name: INTRUSION INC
+      status: active
+    - ticker: AITX
+      cik: 0001498148
+      name: Artificial Intelligence Technology Solutions Inc.
+      status: active
+    - ticker: ALRM
+      cik: 0001459200
+      name: Alarm.com Holdings, Inc.
+      status: active
+    - ticker: ASTI
+      cik: '0001350102'
+      name: Ascent Solar Technologies, Inc.
+      status: active
+    - ticker: TESI
+      cik: '0001514056'
+      name: Titan Environmental Solutions Inc.
+      status: active
+    - ticker: EB
+      cik: '0001475115'
+      name: Eventbrite, Inc.
+      status: active
+    - ticker: OBLG
+      cik: '0000746210'
+      name: Oblong, Inc.
+      status: active
+    - ticker: RFIL
+      cik: '0000740664'
+      name: R F INDUSTRIES LTD
+      status: active
+    - ticker: IEHC
+      cik: 0000050292
+      name: IEH Corp
+      status: active
+    - ticker: EXFY
+      cik: 0001476840
+      name: Expensify, Inc.
+      status: active
+    - ticker: PRO
+      cik: 0001392972
+      name: PROS Holdings, Inc.
+      status: active
+    - ticker: NTAP
+      cik: '0001002047'
+      name: NetApp, Inc.
+      status: active
+    - ticker: BOMO
+      cik: 0001381871
+      name: bowmo, Inc.
+      status: active
+    - ticker: MXL
+      cik: 0001288469
+      name: MAXLINEAR, INC
+      status: active
+    - ticker: ITOX
+      cik: 0001290658
+      name: IIOT-OXYS, Inc.
+      status: active
+    - ticker: BELFA, BELFB
+      cik: 0000729580
+      name: BEL FUSE INC /NJ
+      status: active
+    - ticker: TIKK
+      cik: 0000096885
+      name: TEL INSTRUMENT ELECTRONICS CORP
+      status: active
+    - ticker: TRIP
+      cik: '0001526520'
+      name: TripAdvisor, Inc.
+      status: active
+    - ticker: GMER
+      cik: '0001454742'
+      name: GOOD GAMING, INC.
+      status: active
+    - ticker: MMATQ
+      cik: 0001431959
+      name: META MATERIALS INC.
+      status: active
+    - ticker: FSLR
+      cik: 0001274494
+      name: FIRST SOLAR, INC.
+      status: active
+    - ticker: ALKT
+      cik: 0001529274
+      name: ALKAMI TECHNOLOGY, INC.
+      status: active
+    - ticker: SNPS
+      cik: 0000883241
+      name: SYNOPSYS INC
+      status: active
+    - ticker: ADI
+      cik: 0000006281
+      name: ANALOG DEVICES INC
+      status: active
+    - ticker: ADBE
+      cik: 0000796343
+      name: ADOBE INC.
+      status: active
+    - ticker: APPN
+      cik: 0001441683
+      name: APPIAN CORP
+      status: active
+    - ticker: AMBA
+      cik: 0001280263
+      name: AMBARELLA INC
+      status: active
+    - ticker: HFUS
+      cik: 0001482554
+      name: Hartford Creative Group, Inc.
+      status: active
+    - ticker: WDAY
+      cik: 0001327811
+      name: Workday, Inc.
+      status: active
+    - ticker: TYL
+      cik: 0000860731
+      name: TYLER TECHNOLOGIES INC
+      status: active
+    - ticker: MPWR
+      cik: 0001280452
+      name: MONOLITHIC POWER SYSTEMS INC
+      status: active
+    - ticker: GRHI
+      cik: 0000894501
+      name: GOLD ROCK HOLDINGS, INC.
+      status: active
+    - ticker: IWSY
+      cik: 0000941685
+      name: IMAGEWARE SYSTEMS INC
+      status: active
+    - ticker: ALGM
+      cik: 0000866291
+      name: ALLEGRO MICROSYSTEMS, INC.
+      status: active
+    - ticker: DSGT
+      cik: 0001413909
+      name: DSG Global Inc.
+      status: active
+    - ticker: AMKR
+      cik: '0001047127'
+      name: AMKOR TECHNOLOGY, INC.
+      status: active
+    - ticker: ONCI
+      cik: 0001300867
+      name: ON4 COMMUNICATIONS INC.
+      status: active
+    - ticker: INTU
+      cik: 0000896878
+      name: INTUIT INC.
+      status: active
+    - ticker: OMQS
+      cik: 0000278165
+      name: OMNIQ Corp.
+      status: active
+    - ticker: HPQ
+      cik: '0000047217'
+      name: HP INC
+      status: active
+    - ticker: FFIV
+      cik: 0001048695
+      name: F5, INC.
+      status: active
+    - ticker: UPLD
+      cik: '0001505155'
+      name: Upland Software, Inc.
+      status: active
+    - ticker: FRZT
+      cik: 0001485074
+      name: Freeze Tag, Inc.
+      status: active
+    - ticker: INVE
+      cik: '0001036044'
+      name: Identiv, Inc.
+      status: active
+    - ticker: KOAN
+      cik: 0000897078
+      name: Resonate Blends, Inc.
+      status: active
+    - ticker: INTC
+      cik: 0000050863
+      name: INTEL CORP
+      status: active
+    - ticker: UIS
+      cik: 0000746838
+      name: UNISYS CORP
+      status: active
+    - ticker: FTNT
+      cik: 0001262039
+      name: Fortinet, Inc.
+      status: active
+    - ticker: META
+      cik: 0001326801
+      name: Meta Platforms, Inc.
+      status: active
+    - ticker: MRIN
+      cik: 0001389002
+      name: MARIN SOFTWARE INC
+      status: active
+    - ticker: ANSS
+      cik: '0001013462'
+      name: ANSYS INC
+      status: active
+    - ticker: VRSN
+      cik: '0001014473'
+      name: VERISIGN INC/CA
+      status: active
+    - ticker: PLUS
+      cik: 0001022408
+      name: EPLUS INC
+      status: active
+    - ticker: SDCH
+      cik: '0001022505'
+      name: SideChannel, Inc.
+      status: active
+    - ticker: LGL, LGL-WT
+      cik: '0000061004'
+      name: LGL GROUP INC
+      status: active
+    - ticker: WOLF
+      cik: 0000895419
+      name: WOLFSPEED, INC.
+      status: active
+    - ticker: NTCT
+      cik: 0001078075
+      name: NETSCOUT SYSTEMS INC
+      status: active
+    - ticker: DOMO
+      cik: 0001505952
+      name: DOMO, INC.
+      status: active
+    - ticker: IBM
+      cik: '0000051143'
+      name: INTERNATIONAL BUSINESS MACHINES CORP
+      status: active
+    - ticker: SSTI
+      cik: '0001351636'
+      name: SOUNDTHINKING, INC.
+      status: active
+    - ticker: FCCN
+      cik: 0001131903
+      name: SPECTRAL CAPITAL Corp
+      status: active
+    - ticker: ATDS
+      cik: 0001068689
+      name: Data443 Risk Mitigation, Inc.
+      status: active
+    - ticker: WDC
+      cik: '0000106040'
+      name: WESTERN DIGITAL CORP
+      status: active
+    - ticker: CSCO
+      cik: 0000858877
+      name: CISCO SYSTEMS, INC.
+      status: active
+    - ticker: LPSN
+      cik: 0001102993
+      name: LIVEPERSON INC
+      status: active
+    - ticker: EXTR
+      cik: 0001078271
+      name: EXTREME NETWORKS INC
+      status: active
+    - ticker: TLS
+      cik: '0000320121'
+      name: TELOS CORP
+      status: active
+    - ticker: ASUR
+      cik: 0000884144
+      name: ASURE SOFTWARE INC
+      status: active
+    - ticker: AIFF
+      cik: 0000803578
+      name: FIREFLY NEUROSCIENCE, INC.
+      status: active
+    - ticker: SITM
+      cik: 0001451809
+      name: SITIME Corp
+      status: active
+    - ticker: XTIA
+      cik: 0001529113
+      name: XTI Aerospace, Inc.
+      status: active
+    - ticker: ZRFY
+      cik: 0001285543
+      name: Zerify, Inc.
+      status: active
+    - ticker: TACT
+      cik: '0001017303'
+      name: TRANSACT TECHNOLOGIES INC
+      status: active
+    - ticker: PRGS
+      cik: 0000876167
+      name: PROGRESS SOFTWARE CORP /MA
+      status: active
+    - ticker: CNNN
+      cik: 0001182731
+      name: ConneXionONE Corp.
+      status: active
+    - ticker: SCSC
+      cik: 0000918965
+      name: SCANSOURCE, INC.
+      status: active
+    - ticker: ELST
+      cik: 0000752294
+      name: ELECTRONIC SYSTEMS TECHNOLOGY INC
+      status: active
+    - ticker: JKHY
+      cik: 0000779152
+      name: JACK HENRY & ASSOCIATES INC
+      status: active
+    - ticker: TCX
+      cik: 0000909494
+      name: TUCOWS INC /PA/
+      status: active
+    - ticker: PTOP
+      cik: 0001421981
+      name: Peer To Peer Network
+      status: active
+    - ticker: LDOS
+      cik: 0001336920
+      name: Leidos Holdings, Inc.
+      status: active
+    - ticker: NXPI
+      cik: '0001413447'
+      name: NXP Semiconductors N.V.
+      status: active
+    - ticker: MEI
+      cik: '0000065270'
+      name: METHODE ELECTRONICS INC
+      status: active
+    - ticker: IPWR
+      cik: 0001507957
+      name: Ideal Power Inc.
+      status: active
+    - ticker: MDRX
+      cik: 0001124804
+      name: Veradigm Inc.
+      status: active
+    - ticker: MITK
+      cik: 0000807863
+      name: MITEK SYSTEMS INC
+      status: active
+    - ticker: AVT
+      cik: 0000008858
+      name: AVNET INC
+      status: active
+    - ticker: RBLX
+      cik: 0001315098
+      name: Roblox Corp
+      status: active
+    - ticker: AXTI
+      cik: '0001051627'
+      name: AXT INC
+      status: active
+    - ticker: IDN
+      cik: 0001040896
+      name: Intellicheck, Inc.
+      status: active
+    - ticker: ESP
+      cik: '0000033533'
+      name: ESPEY MFG & ELECTRONICS CORP
+      status: active
+    - ticker: FALC
+      cik: 0000922521
+      name: FALCONSTOR SOFTWARE INC
+      status: active
+    - ticker: IPGP
+      cik: 0001111928
+      name: IPG PHOTONICS CORP
+      status: active
+    - ticker: INLX
+      cik: 0001081745
+      name: INTELLINETICS, INC.
+      status: active
+    - ticker: LOGI
+      cik: 0001032975
+      name: LOGITECH INTERNATIONAL S.A.
+      status: active
+    - ticker: DPLS
+      cik: 0000866439
+      name: DarkPulse, Inc.
+      status: active
+    - ticker: EA
+      cik: '0000712515'
+      name: ELECTRONIC ARTS INC.
+      status: active
+    - ticker: VRNS
+      cik: '0001361113'
+      name: VARONIS SYSTEMS INC
+      status: active
+    - ticker: TAIT
+      cik: 0000942126
+      name: TAITRON COMPONENTS INC
+      status: active
+    - ticker: MTSI
+      cik: 0001493594
+      name: MACOM Technology Solutions Holdings, Inc.
+      status: active
+    - ticker: IMMR
+      cik: 0001058811
+      name: IMMERSION CORP
+      status: active
+    - ticker: WFCF
+      cik: '0001360565'
+      name: Where Food Comes From, Inc.
+      status: active
+    - ticker: MTBLY
+      cik: 0001509223
+      name: Moatable, Inc.
+      status: active
+    - ticker: BLZE
+      cik: '0001462056'
+      name: Backblaze, Inc.
+      status: active
+    - ticker: SPT
+      cik: '0001517375'
+      name: Sprout Social, Inc.
+      status: active
+    - ticker: GHST
+      cik: 0001121795
+      name: GHST World Inc.
+      status: active
+    - ticker: NOW
+      cik: '0001373715'
+      name: ServiceNow, Inc.
+      status: active
+    - ticker: AEYE
+      cik: 0001362190
+      name: AUDIOEYE INC
+      status: active
+    - ticker: DBX
+      cik: '0001467623'
+      name: DROPBOX, INC.
+      status: active
+    - ticker: LPTH
+      cik: 0000889971
+      name: LIGHTPATH TECHNOLOGIES INC
+      status: active
+    - ticker: CRUS
+      cik: '0000772406'
+      name: CIRRUS LOGIC, INC.
+      status: active
+    - ticker: VOXX
+      cik: 0000807707
+      name: VOXX International Corp
+      status: active
+    - ticker: FDS
+      cik: '0001013237'
+      name: FACTSET RESEARCH SYSTEMS INC
+      status: active
+    - ticker: DOCU
+      cik: '0001261333'
+      name: DOCUSIGN, INC.
+      status: active
+    - ticker: BSY
+      cik: 0001031308
+      name: BENTLEY SYSTEMS INC
+      status: active
+    - ticker: INOD
+      cik: 0000903651
+      name: INNODATA INC
+      status: active
+    - ticker: MPAD
+      cik: 0000065759
+      name: MICROPAC INDUSTRIES INC
+      status: active
+    - ticker: RCAT
+      cik: 0000748268
+      name: Red Cat Holdings, Inc.
+      status: active
+    - ticker: APPF
+      cik: 0001433195
+      name: APPFOLIO INC
+      status: active
+    - ticker: PWDY
+      cik: '0001435617'
+      name: POWERDYNE INTERNATIONAL, INC.
+      status: active
+    - ticker: APH
+      cik: 0000820313
+      name: AMPHENOL CORP /DE/
+      status: active
+    - ticker: ENPH
+      cik: '0001463101'
+      name: Enphase Energy, Inc.
+      status: active
+    - ticker: SNBH
+      cik: 0001358633
+      name: SENTIENT BRANDS HOLDINGS INC.
+      status: active
+    - ticker: OSIS
+      cik: 0001039065
+      name: OSI SYSTEMS INC
+      status: active
+    - ticker: TRFE
+      cik: '0001265521'
+      name: Trustfeed Corp.
+      status: active
+    - ticker: JFIL
+      cik: 0001517389
+      name: Jubilant Flame International, Ltd
+      status: active
+    - ticker: ELRA
+      cik: '0001402371'
+      name: ELRAY RESOURCES, INC.
+      status: active
+    - ticker: PDFS
+      cik: 0001120914
+      name: PDF SOLUTIONS INC
+      status: active
+    - ticker: CRM
+      cik: 0001108524
+      name: Salesforce, Inc.
+      status: active
+    - ticker: IVDA, IVDAW
+      cik: 0001397183
+      name: Iveda Solutions, Inc.
+      status: active
+    - ticker: TBRG
+      cik: 0001169445
+      name: TruBridge, Inc.
+      status: active
+    - ticker: CLOQ
+      cik: '0001437517'
+      name: CYBERLOQ TECHNOLOGIES, INC.
+      status: active
+    - ticker: ADSK
+      cik: 0000769397
+      name: Autodesk, Inc.
+      status: active
+    - ticker: BBY
+      cik: 0000764478
+      name: BEST BUY CO INC
+      status: active
+    - ticker: RELL
+      cik: 0000355948
+      name: RICHARDSON ELECTRONICS, LTD.
+      status: active
+    - ticker: TTCM
+      cik: 0001389067
+      name: TAUTACHROME INC.
+      status: active
+    - ticker: VICR
+      cik: 0000751978
+      name: VICOR CORP
+      status: active
+    - ticker: ONEI
+      cik: 0001388295
+      name: OneMeta Inc.
+      status: active
+    - ticker: NLST
+      cik: 0001282631
+      name: NETLIST INC
+      status: active
+    - ticker: PTC
+      cik: 0000857005
+      name: PTC INC.
+      status: active
+    - ticker: SPI
+      cik: 0001210618
+      name: SPI Energy Co., Ltd.
+      status: active
+    - ticker: PINS
+      cik: 0001506293
+      name: PINTEREST, INC.
+      status: active
+    - ticker: VISM
+      cik: 0001082733
+      name: VISIUM TECHNOLOGIES, INC.
+      status: active
+    - ticker: PAR
+      cik: 0000708821
+      name: PAR TECHNOLOGY CORP
+      status: active
+    - ticker: EVOL
+      cik: '0001052054'
+      name: Symbolic Logic, Inc.
+      status: active
+    - ticker: VRME, VRMEW
+      cik: 0001104038
+      name: VerifyMe, Inc.
+      status: active
+    - ticker: DMRC
+      cik: 0001438231
+      name: Digimarc CORP
+      status: active
+    - ticker: CTGL
+      cik: 0001498067
+      name: CITRINE GLOBAL, CORP.
+      status: active
+    - ticker: CETX, CETXP
+      cik: '0001435064'
+      name: CEMTREX INC
+      status: active
+    - ticker: CNET
+      cik: '0001376321'
+      name: ZW Data Action Technologies Inc.
+      status: active
+    - ticker: AMD
+      cik: 0000002488
+      name: ADVANCED MICRO DEVICES INC
+      status: active
+    - ticker: ORCL
+      cik: 0001341439
+      name: ORACLE CORP
+      status: active
+    - ticker: CSPI
+      cik: '0000356037'
+      name: CSP INC /MA/
+      status: active
+    - ticker: EGAN
+      cik: 0001066194
+      name: EGAIN Corp
+      status: active
+    - ticker: STX
+      cik: 0001137789
+      name: Seagate Technology Holdings plc
+      status: active
+    - ticker: HYSR
+      cik: 0001481028
+      name: SUNHYDROGEN, INC.
+      status: active
+    - ticker: AMSWA
+      cik: '0000713425'
+      name: AMERICAN SOFTWARE INC
+      status: active
+    - ticker: CVLT
+      cik: 0001169561
+      name: COMMVAULT SYSTEMS INC
+      status: active
+    - ticker: SPRS
+      cik: '0000747540'
+      name: SURGE COMPONENTS INC
+      status: active
+    - ticker: UCTT
+      cik: '0001275014'
+      name: Ultra Clean Holdings, Inc.
+      status: active
+    - ticker: PI
+      cik: 0001114995
+      name: IMPINJ INC
+      status: active
+    - ticker: SSNC
+      cik: '0001402436'
+      name: SS&C Technologies Holdings Inc
+      status: active
+    - ticker: RBCN
+      cik: '0001410172'
+      name: Rubicon Technology, Inc.
+      status: active
+    - ticker: BLKB
+      cik: 0001280058
+      name: BLACKBAUD INC
+      status: active
+    - ticker: OSS
+      cik: 0001394056
+      name: ONE STOP SYSTEMS, INC.
+      status: active
+    - ticker: CLMB
+      cik: 0000945983
+      name: Climb Global Solutions, Inc.
+      status: active
+    - ticker: HUBB
+      cik: 0000048898
+      name: HUBBELL INC
+      status: active
+    - ticker: QLYS
+      cik: 0001107843
+      name: QUALYS, INC.
+      status: active
+    - ticker: SLP
+      cik: 0001023459
+      name: Simulations Plus, Inc.
+      status: active
+    - ticker: CTLP, CTLPP
+      cik: 0000896429
+      name: CANTALOUPE, INC.
+      status: active
+    - ticker: VRNT
+      cik: 0001166388
+      name: VERINT SYSTEMS INC
+      status: active
+    - ticker: OLED
+      cik: 0001005284
+      name: UNIVERSAL DISPLAY CORP \PA\
+      status: active
+    - ticker: SNCR, SNCRL
+      cik: '0001131554'
+      name: SYNCHRONOSS TECHNOLOGIES INC
+      status: active
+    - ticker: MU
+      cik: '0000723125'
+      name: MICRON TECHNOLOGY INC
+      status: active
+    - ticker: PRFT
+      cik: 0001085869
+      name: PERFICIENT INC
+      status: active
+    - ticker: ARW
+      cik: '0000007536'
+      name: ARROW ELECTRONICS, INC.
+      status: active
+    - ticker: JNPR
+      cik: '0001043604'
+      name: JUNIPER NETWORKS INC
+      status: active
+    - ticker: LFAP
+      cik: '0001510247'
+      name: LGBTQ Loyalty Holdings, Inc.
+      status: active
+    - ticker: SQ, BSQKZ
+      cik: '0001512673'
+      name: Block, Inc.
+      status: active
+    - ticker: NSYS
+      cik: '0000722313'
+      name: NORTECH SYSTEMS INC
+      status: active
+    - ticker: PXLW
+      cik: '0001040161'
+      name: PIXELWORKS, INC
+      status: active
+    - ticker: DGII
+      cik: 0000854775
+      name: DIGI INTERNATIONAL INC
+      status: active
+    - ticker: WHEN
+      cik: 0000943535
+      name: WORLD HEALTH ENERGY HOLDINGS, INC.
+      status: active
+    - ticker: VPRB
+      cik: '0001376231'
+      name: VPR Brands, LP.
+      status: active
+    - ticker: MDB
+      cik: 0001441816
+      name: MongoDB, Inc.
+      status: active
+    - ticker: BKYI
+      cik: 0001019034
+      name: BIO KEY INTERNATIONAL INC
+      status: active
+    - ticker: CSGS
+      cik: '0001005757'
+      name: CSG SYSTEMS INTERNATIONAL INC
+      status: active
+    - ticker: AWRE
+      cik: 0001015739
+      name: AWARE INC /MA/
+      status: active
+    - ticker: BEEM
+      cik: 0001398805
+      name: Beam Global
+      status: active
+    - ticker: ELYS
+      cik: 0001080319
+      name: Elys BMG Group, Inc.
+      status: active
+    - ticker: MRCY
+      cik: 0001049521
+      name: MERCURY SYSTEMS INC
+      status: active
+    - ticker: WWSG
+      cik: 0001342792
+      name: WORLDWIDE STRATEGIES INC
+      status: active
+    - ticker: ROII
+      cik: 0001437491
+      name: RiskOn International, Inc.
+      status: active
+    - ticker: SMCI
+      cik: '0001375365'
+      name: Super Micro Computer, Inc.
+      status: active
+    - ticker: ADGO
+      cik: 0000869531
+      name: Advantego Corp
+      status: active
+    - ticker: GME
+      cik: 0001326380
+      name: GameStop Corp.
+      status: active
+    - ticker: GMGI
+      cik: 0001437925
+      name: Golden Matrix Group, Inc.
+      status: active
+    - ticker: CREX
+      cik: 0001356093
+      name: CREATIVE REALITIES, INC.
+      status: active
+    - ticker: DTST, DTSTW
+      cik: 0001419951
+      name: Data Storage Corp
+      status: active
+    - ticker: OB
+      cik: 0001454938
+      name: Outbrain Inc.
+      status: active
+    - ticker: DIOD
+      cik: 0000029002
+      name: DIODES INC /DEL/
+      status: active
+    - ticker: TRAK
+      cik: '0000050471'
+      name: ReposiTrak, Inc.
+      status: active
+    - ticker: LTRX
+      cik: 0001114925
+      name: LANTRONIX INC
+      status: active
+    - ticker: WYY
+      cik: '0001034760'
+      name: WIDEPOINT CORP
+      status: active
+    - ticker: QTWO
+      cik: 0001410384
+      name: Q2 Holdings, Inc.
+      status: active
+    - ticker: CEVA
+      cik: 0001173489
+      name: CEVA INC
+      status: active
+    - ticker: PANW
+      cik: '0001327567'
+      name: Palo Alto Networks Inc
+      status: active
+    - ticker: MRAM
+      cik: 0001438423
+      name: EVERSPIN TECHNOLOGIES INC
+      status: active
+    - ticker: DBD
+      cik: 0000028823
+      name: DIEBOLD NIXDORF, Inc
+      status: active
+    - ticker: DTGI
+      cik: '0001014052'
+      name: Digerati Technologies, Inc.
+      status: active
+    - ticker: QXO
+      cik: '0001236275'
+      name: QXO, Inc.
+      status: active
+    - ticker: LSCC
+      cik: 0000855658
+      name: LATTICE SEMICONDUCTOR CORP
+      status: active
+    - ticker: VEEV
+      cik: 0001393052
+      name: VEEVA SYSTEMS INC
+      status: active
+    - ticker: LZ
+      cik: 0001286139
+      name: LEGALZOOM.COM, INC.
+      status: active
+    - ticker: MX
+      cik: '0001325702'
+      name: MAGNACHIP SEMICONDUCTOR Corp
+      status: active
+    - ticker: CONNQ
+      cik: 0001223389
+      name: CONNS INC
+      status: active
+    - ticker: SPSC
+      cik: 0001092699
+      name: SPS COMMERCE INC
+      status: active
+    - ticker: SMCE
+      cik: 0001497230
+      name: SMC Entertainment, Inc.
+      status: active
+    - ticker: QMCO
+      cik: 0000709283
+      name: QUANTUM CORP /DE/
+      status: active
+    - ticker: VIDE
+      cik: 0000758743
+      name: VIDEO DISPLAY CORP
+      status: active
+    - ticker: MFON
+      cik: 0001447380
+      name: MOBIVITY HOLDINGS CORP.
+      status: active
+    - ticker: SLAB
+      cik: 0001038074
+      name: SILICON LABORATORIES INC.
+      status: active
+    - ticker: SMSI
+      cik: 0000948708
+      name: SMITH MICRO SOFTWARE, INC.
+      status: active
+    - ticker: MANH
+      cik: 0001056696
+      name: MANHATTAN ASSOCIATES INC
+      status: active
+    - ticker: TEL
+      cik: 0001385157
+      name: TE Connectivity Ltd.
+      status: active
+    - ticker: EMKR
+      cik: 0000808326
+      name: EMCORE CORP
+      status: active
+    - ticker: CRWE
+      cik: 0001103833
+      name: Crown Equity Holdings, Inc.
+      status: active
+    - ticker: MAXD
+      cik: 0001353499
+      name: Max Sound Corp
+      status: active
+    - ticker: 'ON'
+      cik: 0001097864
+      name: ON SEMICONDUCTOR CORP
+      status: active
+    - ticker: EBIXQ
+      cik: 0000814549
+      name: EBIX INC
+      status: active
+    - ticker: VRSK
+      cik: '0001442145'
+      name: Verisk Analytics, Inc.
+      status: active
+    - ticker: TDC
+      cik: 0000816761
+      name: TERADATA CORP /DE/
+      status: active
+    - ticker: DRTTF, DESLF
+      cik: '0001340476'
+      name: DIRTT ENVIRONMENTAL SOLUTIONS LTD
+      status: active
+    - ticker: VPG
+      cik: 0001487952
+      name: Vishay Precision Group, Inc.
+      status: active
+    - ticker: STRM
+      cik: 0001008586
+      name: STREAMLINE HEALTH SOLUTIONS INC.
+      status: active
+    - ticker: QUIK
+      cik: 0000882508
+      name: QUICKLOGIC Corp
+      status: active
+    - ticker: GSIT
+      cik: '0001126741'
+      name: GSI TECHNOLOGY INC
+      status: active
+    - ticker: VSH
+      cik: '0000103730'
+      name: VISHAY INTERTECHNOLOGY INC
+      status: active
+    - ticker: SODI
+      cik: 0000091668
+      name: SOLITRON DEVICES INC
+      status: active
+    - ticker: MTCH
+      cik: 0000891103
+      name: Match Group, Inc.
+      status: active
+    - ticker: LINK
+      cik: 0000828146
+      name: INTERLINK ELECTRONICS INC
+      status: active
+    - ticker: WDDD
+      cik: 0000001961
+      name: WORLDS INC
+      status: active
+    - ticker: DSNY
+      cik: 0001099369
+      name: DESTINY MEDIA TECHNOLOGIES INC
+      status: active
+    - ticker: DUOT
+      cik: 0001396536
+      name: DUOS TECHNOLOGIES GROUP, INC.
+      status: active
+    - ticker: KOPN
+      cik: '0000771266'
+      name: KOPIN CORP
+      status: active
+    - ticker: PSTG
+      cik: '0001474432'
+      name: Pure Storage, Inc.
+      status: active
+    - ticker: EGHT
+      cik: '0001023731'
+      name: 8X8 INC /DE/
+      status: active
+    - ticker: CLIS
+      cik: 0001393548
+      name: ClickStream Corp
+      status: active
+    - ticker: CACI
+      cik: 0000016058
+      name: CACI INTERNATIONAL INC /DE/
+      status: active
+    - ticker: SANP
+      cik: 0001499275
+      name: SANTO MINING CORP.
+      status: active
+    - ticker: HUBS
+      cik: '0001404655'
+      name: HUBSPOT INC
+      status: active
+    - ticker: ACIW
+      cik: 0000935036
+      name: ACI WORLDWIDE, INC.
+      status: active
+    - ticker: NET
+      cik: '0001477333'
+      name: Cloudflare, Inc.
+      status: active
+    - ticker: TWOUQ
+      cik: 0001459417
+      name: 2U, Inc.
+      status: active
+    - ticker: GEN
+      cik: 0000849399
+      name: Gen Digital Inc.
+      status: active
+    - ticker: BCOV
+      cik: '0001313275'
+      name: BRIGHTCOVE INC
+      status: active
+    - ticker: SCKT
+      cik: 0000944075
+      name: SOCKET MOBILE, INC.
+      status: active
+    - ticker: SEAC
+      cik: 0001019671
+      name: SEACHANGE INTERNATIONAL INC
+      status: active
+    - ticker: SWKS
+      cik: '0000004127'
+      name: SKYWORKS SOLUTIONS, INC.
+      status: active
+    - ticker: RAMP
+      cik: 0000733269
+      name: LiveRamp Holdings, Inc.
+      status: active
+    - ticker: OSPN
+      cik: '0001044777'
+      name: OneSpan Inc.
+      status: active
+    - ticker: SNX
+      cik: 0001177394
+      name: TD SYNNEX CORP
+      status: active
+    - ticker: KLIC
+      cik: 0000056978
+      name: KULICKE & SOFFA INDUSTRIES INC
+      status: active
+    - ticker: SITS
+      cik: 0001468978
+      name: SOUTHERN ITS INTERNATIONAL, INC.
+      status: active
+    - ticker: AAPL
+      cik: 0000320193
+      name: Apple Inc.
+      status: active
+    - ticker: CARG
+      cik: 0001494259
+      name: CarGurus, Inc.
+      status: active
+    - ticker: MSFT
+      cik: 0000789019
+      name: MICROSOFT CORP
+      status: active
+    - ticker: APLD
+      cik: 0001144879
+      name: Applied Digital Corp.
+      status: active
+    - ticker: PSN
+      cik: 0000275880
+      name: PARSONS CORP
+      status: active
+    - ticker: PRSO
+      cik: 0000890394
+      name: Peraso Inc.
+      status: active
+    - ticker: GVP
+      cik: 0000944480
+      name: GSE SYSTEMS INC
+      status: active
+    - ticker: PEGA
+      cik: 0001013857
+      name: PEGASYSTEMS INC
+      status: active
+    - ticker: WNFT
+      cik: 0001528188
+      name: Worldwide NFT Inc.
+      status: active
+    - ticker: RMBS
+      cik: 0000917273
+      name: RAMBUS INC
+      status: active
+    - ticker: BB
+      cik: '0001070235'
+      name: BLACKBERRY Ltd
+      status: active
+    - ticker: EPAM
+      cik: '0001352010'
+      name: EPAM Systems, Inc.
+      status: active
+    - ticker: AGYS
+      cik: 0000078749
+      name: AGILYSYS INC
+      status: active
+    - ticker: PLAB
+      cik: 0000810136
+      name: PHOTRONICS INC
+      status: active
+    - ticker: RNG
+      cik: 0001384905
+      name: RingCentral, Inc.
+      status: active
+    - ticker: ZUO
+      cik: '0001423774'
+      name: ZUORA INC
+      status: active
+    - ticker: BAND
+      cik: '0001514416'
+      name: Bandwidth Inc.
+      status: active
+    - ticker: NTWK
+      cik: 0001039280
+      name: NETSOL TECHNOLOGIES INC
+      status: active
+    - ticker: SEDG
+      cik: 0001419612
+      name: SOLAREDGE TECHNOLOGIES, INC.
+      status: active
+    - ticker: ONTF
+      cik: '0001110611'
+      name: ON24 INC.
+      status: active
+    - ticker: MSTR
+      cik: '0001050446'
+      name: MICROSTRATEGY Inc
+      status: active
+    - ticker: LASR
+      cik: 0001124796
+      name: NLIGHT, INC.
+      status: active
+    - ticker: GWRE
+      cik: 0001528396
+      name: Guidewire Software, Inc.
+      status: active
+    - ticker: FSLY
+      cik: '0001517413'
+      name: Fastly, Inc.
+      status: active
+    - ticker: DOCS
+      cik: '0001516513'
+      name: Doximity, Inc.
+      status: active
+    - ticker: SMTC
+      cik: 0000088941
+      name: SEMTECH CORP
+      status: active
+    - ticker: FIVN
+      cik: 0001288847
+      name: Five9, Inc.
+      status: active
+    - ticker: RPMT
+      cik: 0001437283
+      name: REGO PAYMENT ARCHITECTURES, INC.
+      status: active
+    - ticker: LEDS
+      cik: 0001333822
+      name: SemiLEDs Corp
+      status: active
+    - ticker: TWLO
+      cik: 0001447669
+      name: TWILIO INC
+      status: active
+    - ticker: EMR
+      cik: '0000032604'
+      name: EMERSON ELECTRIC CO
+      status: active
+    - ticker: RCRT, RCRTW
+      cik: '0001462223'
+      name: Recruiter.com Group, Inc.
+      status: active
+    - ticker: OOMA
+      cik: 0001327688
+      name: OOMA INC
+      status: active
+    - ticker: AULT, AULT-PD
+      cik: 0000896493
+      name: Ault Alliance, Inc.
+      status: active
+    - ticker: CYCA
+      cik: 0001383088
+      name: CYTTA CORP.
+      status: active
+    - ticker: 'TRUE'
+      cik: 0001327318
+      name: TrueCar, Inc.
+      status: active
+    - ticker: ISSC
+      cik: 0000836690
+      name: INNOVATIVE SOLUTIONS & SUPPORT INC
+      status: active
+    - ticker: MCHP
+      cik: 0000827054
+      name: MICROCHIP TECHNOLOGY INC
+      status: active
+    - ticker: TXN
+      cik: 0000097476
+      name: TEXAS INSTRUMENTS INC
+      status: active
+    - ticker: SCWX
+      cik: 0001468666
+      name: SecureWorks Corp
+      status: active
+    - ticker: UUU
+      cik: 0000102109
+      name: UNIVERSAL SECURITY INSTRUMENTS INC
+      status: active
+    - ticker: ATOM
+      cik: '0001420520'
+      name: Atomera Inc
+      status: active
+    - ticker: MVIS
+      cik: '0000065770'
+      name: MICROVISION, INC.
+      status: active
+    - ticker: SOL
+      cik: 0001417892
+      name: Emeren Group Ltd
+      status: active
+    - ticker: WK
+      cik: '0001445305'
+      name: WORKIVA INC
+      status: active
+    - ticker: TTWO
+      cik: 0000946581
+      name: TAKE TWO INTERACTIVE SOFTWARE INC
+      status: active
+    - ticker: DDD
+      cik: 0000910638
+      name: 3D SYSTEMS CORP
+      status: active
+    - ticker: PUBM
+      cik: 0001422930
+      name: PubMatic, Inc.
+      status: active
+    - ticker: GE
+      cik: '0000040545'
+      name: GENERAL ELECTRIC CO
+      status: active
+    - ticker: PLTR
+      cik: '0001321655'
+      name: Palantir Technologies Inc.
+      status: active
+    - ticker: XDSL
+      cik: 0000825322
+      name: MPHASE TECHNOLOGIES, INC.
+      status: active
+    - ticker: OTEX
+      cik: 0001002638
+      name: OPEN TEXT CORP
+      status: active
+    - ticker: VYX, NCRRP
+      cik: 0000070866
+      name: NCR Voyix Corp
+      status: active
+    - ticker: AAOI
+      cik: 0001158114
+      name: APPLIED OPTOELECTRONICS, INC.
+      status: active
+    - ticker: LNW, LAWIL
+      cik: '0000750004'
+      name: Light & Wonder, Inc.
+      status: active
+    - ticker: CBBB
+      cik: 0001477960
+      name: Catalyst Crew Technologies Corp.
+      status: active
+    - ticker: KLTR
+      cik: '0001432133'
+      name: KALTURA INC
+      status: active
+    - ticker: FSTJ
+      cik: '0001525306'
+      name: First America Resources Corp
+      status: active
+    - ticker: NEON
+      cik: 0000087050
+      name: Neonode Inc.
+      status: active
+    - ticker: ALOT
+      cik: 0000008146
+      name: AstroNova, Inc.
+      status: active
+    - ticker: MQ
+      cik: '0001522540'
+      name: Marqeta, Inc.
+      status: active
+    - ticker: EACO
+      cik: 0000784539
+      name: EACO CORP
+      status: active
+    - ticker: CTSH
+      cik: 0001058290
+      name: COGNIZANT TECHNOLOGY SOLUTIONS CORP
+      status: active
+    - ticker: CCRD
+      cik: '0000320340'
+      name: CoreCard Corp
+      status: active
+    - ticker: AEIS
+      cik: 0000927003
+      name: ADVANCED ENERGY INDUSTRIES INC
+      status: active
+    - ticker: SYNA
+      cik: 0000817720
+      name: SYNAPTICS Inc
+      status: active
+    - ticker: OMCL
+      cik: 0000926326
+      name: OMNICELL, INC.
+      status: active

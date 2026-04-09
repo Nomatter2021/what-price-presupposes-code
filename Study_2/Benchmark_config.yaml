@@ -1,0 +1,1666 @@
+sectors:
+  Healthcare_Pharma:
+    description: SME Companies (<$2B) extracted from Finviz (sec_healthcare)
+    companies:
+    - ticker: ABEO
+      cik: 0000318306
+      name: ABEONA THERAPEUTICS INC.
+    - ticker: ABUS
+      cik: 0001447028
+      name: Arbutus Biopharma Corp
+    - ticker: ABVC
+      cik: '0001173313'
+      name: ABVC BIOPHARMA, INC.
+    - ticker: ACHV
+      cik: 0000949858
+      name: ACHIEVE LIFE SCIENCES, INC.
+    - ticker: ADIL
+      cik: '0001513525'
+      name: ADIAL PHARMACEUTICALS, INC.
+    - ticker: ADUS
+      cik: 0001468328
+      name: Addus HomeCare Corp
+    - ticker: AEMD
+      cik: 0000882291
+      name: AETHLON MEDICAL INC
+    - ticker: AGEN
+      cik: 0001098972
+      name: AGENUS INC
+    - ticker: AIM
+      cik: 0000946644
+      name: AIM ImmunoTech Inc.
+    - ticker: AKBA
+      cik: '0001517022'
+      name: Akebia Therapeutics, Inc.
+    - ticker: ALDX
+      cik: '0001341235'
+      name: Aldeyra Therapeutics, Inc.
+    - ticker: ALT
+      cik: 0001326190
+      name: Altimmune, Inc.
+    - ticker: AMN
+      cik: '0001142750'
+      name: AMN HEALTHCARE SERVICES INC
+    - ticker: AMPH
+      cik: 0001297184
+      name: Amphastar Pharmaceuticals, Inc.
+    - ticker: AMRN
+      cik: 0000897448
+      name: AMARIN CORP PLC\UK
+    - ticker: AMS
+      cik: 0000744825
+      name: AMERICAN SHARED HOSPITAL SERVICES
+    - ticker: AMWL
+      cik: 0001393584
+      name: American Well Corp
+    - ticker: ANAB
+      cik: '0001370053'
+      name: ANAPTYSBIO, INC
+    - ticker: ANGO
+      cik: 0001275187
+      name: ANGIODYNAMICS INC
+    - ticker: ANIK
+      cik: 0000898437
+      name: Anika Therapeutics, Inc.
+    - ticker: ANIP
+      cik: '0001023024'
+      name: ANI PHARMACEUTICALS INC
+    - ticker: ANIX
+      cik: '0000715446'
+      name: Anixa Biosciences Inc
+    - ticker: ANNX
+      cik: 0001528115
+      name: Annexon, Inc.
+    - ticker: ANVS
+      cik: 0001477845
+      name: Annovis Bio, Inc.
+    - ticker: AORT
+      cik: 0000784199
+      name: ARTIVION, INC.
+    - ticker: APYX
+      cik: 0000719135
+      name: Apyx Medical Corp
+    - ticker: AQST
+      cik: 0001398733
+      name: Aquestive Therapeutics, Inc.
+    - ticker: ARAY
+      cik: 0001138723
+      name: ACCURAY INC
+    - ticker: ARDX
+      cik: '0001437402'
+      name: ARDELYX, INC.
+    - ticker: ARMP
+      cik: 0000921114
+      name: Armata Pharmaceuticals, Inc.
+    - ticker: ASMB
+      cik: 0001426800
+      name: ASSEMBLY BIOSCIENCES, INC.
+    - ticker: ASTH
+      cik: 0001083446
+      name: Astrana Health, Inc.
+    - ticker: ATEC
+      cik: '0001350653'
+      name: Alphatec Holdings, Inc.
+    - ticker: ATNM
+      cik: 0001388320
+      name: Actinium Pharmaceuticals, Inc.
+    - ticker: ATOS
+      cik: 0001488039
+      name: ATOSSA THERAPEUTICS, INC.
+    - ticker: ATRC
+      cik: 0001323885
+      name: AtriCure, Inc.
+    - ticker: ATYR
+      cik: 0001339970
+      name: aTYR PHARMA INC
+    - ticker: AURA
+      cik: 0001501796
+      name: Aura Biosciences, Inc.
+    - ticker: AVXL
+      cik: '0001314052'
+      name: ANAVEX LIFE SCIENCES CORP.
+    - ticker: AXGN
+      cik: 0000805928
+      name: Axogen, Inc.
+    - ticker: AYTU
+      cik: 0001385818
+      name: AYTU BIOPHARMA, INC
+    - ticker: AZTA
+      cik: 0000933974
+      name: Azenta, Inc.
+    - ticker: BCDA
+      cik: 0000925741
+      name: BioCardia, Inc.
+    - ticker: BDSX
+      cik: 0001439725
+      name: BIODESIX INC
+    - ticker: BLFS
+      cik: 0000834365
+      name: BIOLIFE SOLUTIONS INC
+    - ticker: BMRA
+      cik: 0000073290
+      name: BIOMERICA INC
+    - ticker: BNGO
+      cik: 0001411690
+      name: Bionano Genomics, Inc.
+    - ticker: BRTX
+      cik: 0001505497
+      name: BioRestorative Therapies, Inc.
+    - ticker: CAPR
+      cik: 0001133869
+      name: CAPRICOR THERAPEUTICS, INC.
+    - ticker: CATX
+      cik: 0000728387
+      name: Perspective Therapeutics, Inc.
+    - ticker: CCEL
+      cik: 0000862692
+      name: CRYO CELL INTERNATIONAL INC
+    - ticker: CCRN
+      cik: '0001141103'
+      name: CROSS COUNTRY HEALTHCARE INC
+    - ticker: CDNA
+      cik: '0001217234'
+      name: CareDx, Inc.
+    - ticker: CDXS
+      cik: '0001200375'
+      name: CODEXIS, INC.
+    - ticker: CELZ
+      cik: 0001187953
+      name: CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.
+    - ticker: CERS
+      cik: '0001020214'
+      name: CERUS CORP
+    - ticker: CGTX
+      cik: '0001455365'
+      name: COGNITION THERAPEUTICS INC
+    - ticker: CHRS
+      cik: '0001512762'
+      name: Coherus BioSciences, Inc.
+    - ticker: CLPT
+      cik: 0001285550
+      name: ClearPoint Neuro, Inc.
+    - ticker: CLRB
+      cik: 0001279704
+      name: Cellectar Biosciences, Inc.
+    - ticker: CNMD
+      cik: 0000816956
+      name: CONMED Corp
+    - ticker: COCP
+      cik: 0001412486
+      name: Cocrystal Pharma, Inc.
+    - ticker: COLL
+      cik: '0001267565'
+      name: COLLEGIUM PHARMACEUTICAL, INC
+    - ticker: COSM
+      cik: '0001474167'
+      name: Cosmos Health Inc.
+    - ticker: CPHI
+      cik: '0001106644'
+      name: CHINA PHARMA HOLDINGS, INC.
+    - ticker: CPIX
+      cik: 0001087294
+      name: CUMBERLAND PHARMACEUTICALS INC
+    - ticker: CRDF
+      cik: '0001213037'
+      name: Cardiff Oncology, Inc.
+    - ticker: CRIS
+      cik: 0001108205
+      name: CURIS INC
+    - ticker: CRMD
+      cik: 0001410098
+      name: CorMedix Inc.
+    - ticker: CRVO
+      cik: 0001053691
+      name: CervoMed Inc.
+    - ticker: CSBR
+      cik: 0000771856
+      name: CHAMPIONS ONCOLOGY, INC.
+    - ticker: CSTL
+      cik: '0001447362'
+      name: CASTLE BIOSCIENCES INC
+    - ticker: CTMX
+      cik: 0001501989
+      name: CytomX Therapeutics, Inc.
+    - ticker: CTSO
+      cik: '0001175151'
+      name: Cytosorbents Corp
+    - ticker: CTXR
+      cik: '0001506251'
+      name: Citius Pharmaceuticals, Inc.
+    - ticker: CVM
+      cik: '0000725363'
+      name: CEL SCI CORP
+    - ticker: CVRX
+      cik: 0001235912
+      name: CVRx, Inc.
+    - ticker: CYH
+      cik: 0001108109
+      name: COMMUNITY HEALTH SYSTEMS INC
+    - ticker: DARE
+      cik: 0001401914
+      name: Dare Bioscience, Inc.
+    - ticker: DCTH
+      cik: 0000872912
+      name: DELCATH SYSTEMS, INC.
+    - ticker: DMAC
+      cik: '0001401040'
+      name: DiaMedica Therapeutics Inc.
+    - ticker: DTIL
+      cik: 0001357874
+      name: PRECISION BIOSCIENCES INC
+    - ticker: DYAI
+      cik: 0001213809
+      name: DYADIC INTERNATIONAL INC
+    - ticker: EBS
+      cik: '0001367644'
+      name: Emergent BioSolutions Inc.
+    - ticker: ELDN
+      cik: 0001404281
+      name: Eledon Pharmaceuticals, Inc.
+    - ticker: ELMD
+      cik: 0001488917
+      name: Electromed, Inc.
+    - ticker: ENOV
+      cik: 0001420800
+      name: Enovis CORP
+    - ticker: ENTA
+      cik: 0001177648
+      name: ENANTA PHARMACEUTICALS INC
+    - ticker: ENVB
+      cik: 0000890821
+      name: Enveric Biosciences, Inc.
+    - ticker: ERNA
+      cik: 0000748592
+      name: Eterna Therapeutics Inc.
+    - ticker: ESPR
+      cik: 0001434868
+      name: Esperion Therapeutics, Inc.
+    - ticker: EYPT
+      cik: '0001314102'
+      name: EyePoint Pharmaceuticals, Inc.
+    - ticker: FATE
+      cik: '0001434316'
+      name: FATE THERAPEUTICS INC
+    - ticker: FBRX
+      cik: 0001419041
+      name: Forte Biosciences, Inc.
+    - ticker: FEMY
+      cik: 0001339005
+      name: FEMASYS INC
+    - ticker: FENC
+      cik: 0001211583
+      name: FENNEC PHARMACEUTICALS INC.
+    - ticker: FONR
+      cik: 0000355019
+      name: FONAR CORP
+    - ticker: GALT
+      cik: '0001133416'
+      name: GALECTIN THERAPEUTICS INC
+    - ticker: GCTK
+      cik: 0001506983
+      name: Glucotrack, Inc.
+    - ticker: GNLX
+      cik: '0001231457'
+      name: GENELUX Corp
+    - ticker: GTBP
+      cik: 0000109657
+      name: GT Biopharma, Inc.
+    - ticker: GYRE
+      cik: '0001124105'
+      name: GYRE THERAPEUTICS, INC.
+    - ticker: HBIO
+      cik: 0001123494
+      name: HARVARD BIOSCIENCE INC
+    - ticker: HCSG
+      cik: '0000731012'
+      name: HEALTHCARE SERVICES GROUP INC
+    - ticker: HRTX
+      cik: 0000818033
+      name: HERON THERAPEUTICS, INC. /DE/
+    - ticker: HSTM
+      cik: 0001095565
+      name: HEALTHSTREAM INC
+    - ticker: IART
+      cik: 0000917520
+      name: INTEGRA LIFESCIENCES HOLDINGS CORP
+    - ticker: IBIO
+      cik: '0001420720'
+      name: iBio, Inc.
+    - ticker: ICCC
+      cik: 0000811641
+      name: IMMUCELL CORP /DE/
+    - ticker: IGC
+      cik: '0001326205'
+      name: IGC Pharma, Inc.
+    - ticker: IMNN
+      cik: 0000749647
+      name: Imunon, Inc.
+    - ticker: IMUX
+      cik: 0001280776
+      name: IMMUNIC, INC.
+    - ticker: INFU
+      cik: '0001337013'
+      name: InfuSystem Holdings, Inc
+    - ticker: INGN
+      cik: 0001294133
+      name: Inogen Inc
+    - ticker: INO
+      cik: '0001055726'
+      name: INOVIO PHARMACEUTICALS, INC.
+    - ticker: INVA
+      cik: 0001080014
+      name: Innoviva, Inc.
+    - ticker: IOVA
+      cik: '0001425205'
+      name: IOVANCE BIOTHERAPEUTICS, INC.
+    - ticker: IRIX
+      cik: '0001006045'
+      name: IRIDEX CORP
+    - ticker: IRMD
+      cik: 0001325618
+      name: IRADIMED CORP
+    - ticker: IRWD
+      cik: 0001446847
+      name: IRONWOOD PHARMACEUTICALS INC
+    - ticker: KALA
+      cik: 0001479419
+      name: KALA BIO, Inc.
+    - ticker: KALV
+      cik: 0001348911
+      name: KalVista Pharmaceuticals, Inc.
+    - ticker: KIDS
+      cik: '0001425450'
+      name: ORTHOPEDIATRICS CORP
+    - ticker: KPTI
+      cik: 0001503802
+      name: Karyopharm Therapeutics Inc.
+    - ticker: KRMD
+      cik: '0000704440'
+      name: KORU Medical Systems, Inc.
+    - ticker: KURA
+      cik: '0001422143'
+      name: Kura Oncology, Inc.
+    - ticker: LAB
+      cik: 0001162194
+      name: STANDARD BIOTOOLS INC.
+    - ticker: LCTX
+      cik: 0000876343
+      name: Lineage Cell Therapeutics, Inc.
+    - ticker: LFCR
+      cik: 0001005286
+      name: LIFECORE BIOMEDICAL, INC. \DE\
+    - ticker: LNSR
+      cik: '0001320350'
+      name: LENSAR, Inc.
+    - ticker: LRMR
+      cik: 0001374690
+      name: Larimar Therapeutics, Inc.
+    - ticker: LSTA
+      cik: '0000320017'
+      name: LISATA THERAPEUTICS, INC.
+    - ticker: LUNG
+      cik: '0001127537'
+      name: Pulmonx Corp
+    - ticker: LXRX
+      cik: 0001062822
+      name: LEXICON PHARMACEUTICALS, INC.
+    - ticker: MBOT
+      cik: 0000883975
+      name: Microbot Medical Inc.
+    - ticker: MD
+      cik: 0000893949
+      name: Pediatrix Medical Group, Inc.
+    - ticker: MDXG
+      cik: 0001376339
+      name: MIMEDX GROUP, INC.
+    - ticker: MGNX
+      cik: '0001125345'
+      name: MACROGENICS INC
+    - ticker: MIST
+      cik: 0001408443
+      name: Milestone Pharmaceuticals Inc.
+    - ticker: MLSS
+      cik: 0000855683
+      name: MILESTONE SCIENTIFIC INC.
+    - ticker: MNKD
+      cik: 0000899460
+      name: MANNKIND CORP
+    - ticker: MNOV
+      cik: '0001226616'
+      name: MEDICINOVA INC
+    - ticker: MODD
+      cik: 0001074871
+      name: Modular Medical, Inc.
+    - ticker: MRKR
+      cik: 0001094038
+      name: Marker Therapeutics, Inc.
+    - ticker: MXCT
+      cik: 0001287098
+      name: MAXCYTE, INC.
+    - ticker: MYGN
+      cik: 0000899923
+      name: MYRIAD GENETICS INC
+    - ticker: MYO
+      cik: 0001369290
+      name: MYOMO, INC.
+    - ticker: NBY
+      cik: 0001389545
+      name: NovaBay Pharmaceuticals, Inc.
+    - ticker: NEO
+      cik: 0001077183
+      name: NEOGENOMICS INC
+    - ticker: NEPH
+      cik: 0001196298
+      name: NEPHROS INC
+    - ticker: NGNE
+      cik: '0001404644'
+      name: Neurogene Inc.
+    - ticker: NMTC
+      cik: 0001500198
+      name: NEUROONE MEDICAL TECHNOLOGIES Corp
+    - ticker: NNVC
+      cik: 0001379006
+      name: NANOVIRICIDES, INC.
+    - ticker: NOTV
+      cik: '0000720154'
+      name: Inotiv, Inc.
+    - ticker: NPCE
+      cik: 0001528287
+      name: NeuroPace Inc
+    - ticker: NRC
+      cik: 0000070487
+      name: NATIONAL RESEARCH CORP
+    - ticker: NSPR
+      cik: '0001433607'
+      name: InspireMD, Inc.
+    - ticker: NSYS
+      cik: '0000722313'
+      name: NORTECH SYSTEMS INC
+    - ticker: NUTX
+      cik: 0001479681
+      name: Nutex Health, Inc.
+    - ticker: NVAX
+      cik: 0001000694
+      name: NOVAVAX INC
+    - ticker: OCGN
+      cik: 0001372299
+      name: Ocugen, Inc.
+    - ticker: OCUL
+      cik: 0001393434
+      name: OCULAR THERAPEUTIX, INC
+    - ticker: OFIX
+      cik: 0000884624
+      name: Orthofix Medical Inc.
+    - ticker: OGEN
+      cik: 0001174940
+      name: ORAGENICS INC
+    - ticker: OM
+      cik: 0001484612
+      name: Outset Medical, Inc.
+    - ticker: OMCL
+      cik: 0000926326
+      name: OMNICELL, INC.
+    - ticker: OMER
+      cik: 0001285819
+      name: OMEROS CORP
+    - ticker: OPK
+      cik: 0000944809
+      name: OPKO HEALTH, INC.
+    - ticker: OPRX
+      cik: 0001448431
+      name: OptimizeRx Corp
+    - ticker: ORMP
+      cik: 0001176309
+      name: ORAMED PHARMACEUTICALS INC.
+    - ticker: OSUR
+      cik: '0001116463'
+      name: ORASURE TECHNOLOGIES INC
+    - ticker: PACB
+      cik: 0001299130
+      name: PACIFIC BIOSCIENCES OF CALIFORNIA, INC.
+    - ticker: PALI
+      cik: 0001357459
+      name: PALISADE BIO, INC.
+    - ticker: PBYI
+      cik: '0001401667'
+      name: PUMA BIOTECHNOLOGY, INC.
+    - ticker: PCRX
+      cik: 0001396814
+      name: Pacira BioSciences, Inc.
+    - ticker: PDEX
+      cik: 0000788920
+      name: PRO DEX INC
+    - ticker: PDSB
+      cik: 0001472091
+      name: PDS Biotechnology Corp
+    - ticker: PETS
+      cik: '0001040130'
+      name: PETMED EXPRESS INC
+    - ticker: PGEN
+      cik: 0001356090
+      name: PRECIGEN, INC.
+    - ticker: PHR
+      cik: 0001412408
+      name: Phreesia, Inc.
+    - ticker: PLUR
+      cik: 0001158780
+      name: Pluri Inc.
+    - ticker: PLX
+      cik: 0001006281
+      name: Protalix BioTherapeutics, Inc.
+    - ticker: PMCB
+      cik: '0001157075'
+      name: PharmaCyte Biotech, Inc.
+    - ticker: PMN
+      cik: 0001374339
+      name: ProMIS Neurosciences Inc.
+    - ticker: POCI
+      cik: 0000867840
+      name: PRECISION OPTICS CORPORATION, INC.
+    - ticker: PPCB
+      cik: 0001517681
+      name: Propanc Biopharma, Inc.
+    - ticker: PRPO
+      cik: 0001043961
+      name: Precipio, Inc.
+    - ticker: PSNL
+      cik: '0001527753'
+      name: Personalis, Inc.
+    - ticker: PSTV
+      cik: 0001095981
+      name: PLUS THERAPEUTICS, INC.
+    - ticker: PTN
+      cik: 0000911216
+      name: PALATIN TECHNOLOGIES INC
+    - ticker: QTRX
+      cik: '0001503274'
+      name: Quanterix Corp
+    - ticker: RIGL
+      cik: 0001034842
+      name: RIGEL PHARMACEUTICALS INC
+    - ticker: RMTI
+      cik: '0001041024'
+      name: ROCKWELL MEDICAL, INC.
+    - ticker: RNAC
+      cik: 0001453687
+      name: Cartesian Therapeutics, Inc.
+    - ticker: RPID
+      cik: 0001380106
+      name: RAPID MICRO BIOSYSTEMS, INC.
+    - ticker: RVP
+      cik: 0000946563
+      name: RETRACTABLE TECHNOLOGIES INC
+    - ticker: RXST
+      cik: 0001111485
+      name: RxSight, Inc.
+    - ticker: RZLT
+      cik: 0001509261
+      name: Rezolute, Inc.
+    - ticker: SCYX
+      cik: 0001178253
+      name: SCYNEXIS INC
+    - ticker: SDGR
+      cik: 0001490978
+      name: Schrodinger, Inc.
+  Financials_and_Real_Estate:
+    description: SME Companies (<$2B) extracted from Finviz (sec_financial, sec_realestate)
+    companies:
+    - ticker: AAME
+      cik: 0000008177
+      name: ATLANTIC AMERICAN CORP
+    - ticker: ACIC
+      cik: '0001401521'
+      name: AMERICAN COASTAL INSURANCE Corp
+    - ticker: ACNB
+      cik: 0000715579
+      name: ACNB CORP
+    - ticker: ALRS
+      cik: 0000903419
+      name: ALERUS FINANCIAL CORP
+    - ticker: AMSF
+      cik: 0001018979
+      name: AMERISAFE INC
+    - ticker: AROW
+      cik: 0000717538
+      name: ARROW FINANCIAL CORP
+    - ticker: ASRV
+      cik: '0000707605'
+      name: AMERISERV FINANCIAL INC /PA/
+    - ticker: ATLO
+      cik: '0001132651'
+      name: AMES NATIONAL CORP
+    - ticker: AUBN
+      cik: '0000750574'
+      name: AUBURN NATIONAL BANCORPORATION, INC
+    - ticker: BBDC
+      cik: 0001379785
+      name: Barings BDC, Inc.
+    - ticker: BCBP
+      cik: 0001228454
+      name: BCB BANCORP INC
+    - ticker: BHB
+      cik: '0000743367'
+      name: BAR HARBOR BANKSHARES
+    - ticker: BMRC
+      cik: '0001403475'
+      name: Bank of Marin Bancorp
+    - ticker: BOTJ
+      cik: '0001275101'
+      name: BANK OF THE JAMES FINANCIAL GROUP INC
+    - ticker: BRBS
+      cik: 0000842717
+      name: BLUE RIDGE BANKSHARES, INC.
+    - ticker: BSRR
+      cik: '0001130144'
+      name: SIERRA BANCORP
+    - ticker: BTCS
+      cik: 0001436229
+      name: BTCS Inc.
+    - ticker: BVFL
+      cik: 0001302387
+      name: BV Financial, Inc.
+    - ticker: BWFG
+      cik: '0001505732'
+      name: Bankwell Financial Group, Inc.
+    - ticker: BYFC
+      cik: '0001001171'
+      name: BROADWAY FINANCIAL CORP \DE\
+    - ticker: CAC
+      cik: 0000750686
+      name: CAMDEN NATIONAL CORP
+    - ticker: CASH
+      cik: 0000907471
+      name: PATHWARD FINANCIAL, INC.
+    - ticker: CBAN
+      cik: 0000711669
+      name: COLONY BANKCORP INC
+    - ticker: CBNK
+      cik: 0001419536
+      name: Capital Bancorp Inc
+    - ticker: CCB
+      cik: 0001437958
+      name: COASTAL FINANCIAL CORP
+    - ticker: CCBG
+      cik: '0000726601'
+      name: CAPITAL CITY BANK GROUP INC
+    - ticker: CFBK
+      cik: 0001070680
+      name: CF BANKSHARES INC.
+    - ticker: CFFI
+      cik: 0000913341
+      name: C & F FINANCIAL CORP
+    - ticker: CFFN
+      cik: 0001490906
+      name: Capitol Federal Financial, Inc.
+    - ticker: CHCO
+      cik: 0000726854
+      name: CITY HOLDING CO
+    - ticker: CHMG
+      cik: '0000763563'
+      name: CHEMUNG FINANCIAL CORP
+    - ticker: CIA
+      cik: 0000024090
+      name: CITIZENS, INC.
+    - ticker: CIVB
+      cik: 0000944745
+      name: CIVISTA BANCSHARES, INC.
+    - ticker: CMTV
+      cik: 0000718413
+      name: COMMUNITY BANCORP /VT
+    - ticker: COFS
+      cik: 0000803164
+      name: CHOICEONE FINANCIAL SERVICES INC
+    - ticker: COHN
+      cik: '0001270436'
+      name: Cohen & Co Inc.
+    - ticker: CPF
+      cik: '0000701347'
+      name: CENTRAL PACIFIC FINANCIAL CORP
+    - ticker: CPSS
+      cik: 0000889609
+      name: CONSUMER PORTFOLIO SERVICES, INC.
+    - ticker: CTBI
+      cik: 0000350852
+      name: COMMUNITY TRUST BANCORP INC /KY/
+    - ticker: CWBC
+      cik: '0001127371'
+      name: Community West Bancshares
+    - ticker: CZFS
+      cik: 0000739421
+      name: CITIZENS FINANCIAL SERVICES INC
+    - ticker: CZNC
+      cik: 0000810958
+      name: CITIZENS & NORTHERN CORP
+    - ticker: CZWI
+      cik: 0001367859
+      name: Citizens Community Bancorp Inc.
+    - ticker: DHIL
+      cik: 0000909108
+      name: DIAMOND HILL INVESTMENT GROUP INC
+    - ticker: DOMH
+      cik: 0000012239
+      name: Dominari Holdings Inc.
+    - ticker: EBMT
+      cik: 0001478454
+      name: Eagle Bancorp Montana, Inc.
+    - ticker: ECPG
+      cik: 0001084961
+      name: ENCORE CAPITAL GROUP INC
+    - ticker: EFSI
+      cik: 0000880641
+      name: EAGLE FINANCIAL SERVICES INC
+    - ticker: EGBN
+      cik: '0001050441'
+      name: EAGLE BANCORP INC
+    - ticker: EHTH
+      cik: 0001333493
+      name: eHealth, Inc.
+    - ticker: EIG
+      cik: 0001379041
+      name: Employers Holdings, Inc.
+    - ticker: EQBK
+      cik: '0001227500'
+      name: EQUITY BANCSHARES INC
+    - ticker: EQS
+      cik: 0000878932
+      name: EQUUS TOTAL RETURN, INC.
+    - ticker: EZPW
+      cik: 0000876523
+      name: EZCORP INC
+    - ticker: FBIZ
+      cik: 0001521951
+      name: FIRST BUSINESS FINANCIAL SERVICES, INC.
+    - ticker: FCAP
+      cik: 0001070296
+      name: FIRST CAPITAL INC
+    - ticker: FCBC
+      cik: 0000859070
+      name: FIRST COMMUNITY BANKSHARES INC /VA/
+    - ticker: FCCO
+      cik: 0000932781
+      name: FIRST COMMUNITY CORP /SC/
+    - ticker: FCF
+      cik: '0000712537'
+      name: FIRST COMMONWEALTH FINANCIAL CORP /PA/
+    - ticker: FDBC
+      cik: 0001098151
+      name: FIDELITY D & D BANCORP INC
+    - ticker: FDUS
+      cik: '0001513363'
+      name: FIDUS INVESTMENT Corp
+    - ticker: FFIC
+      cik: 0000923139
+      name: FLUSHING FINANCIAL CORP
+    - ticker: FFWM
+      cik: 0001413837
+      name: First Foundation Inc.
+    - ticker: FMAO
+      cik: 0000792966
+      name: FARMERS & MERCHANTS BANCORP INC
+    - ticker: FMBH
+      cik: '0000700565'
+      name: FIRST MID BANCSHARES, INC.
+    - ticker: FMNB
+      cik: 0000709337
+      name: FARMERS NATIONAL BANC CORP /OH/
+    - ticker: FNLC
+      cik: '0000765207'
+      name: First Bancorp, Inc /ME/
+    - ticker: FNWD
+      cik: 0000919864
+      name: Finward Bancorp
+    - ticker: FRAF
+      cik: '0000723646'
+      name: FRANKLIN FINANCIAL SERVICES CORP /PA/
+    - ticker: FRST
+      cik: '0001325670'
+      name: Primis Financial Corp.
+    - ticker: FSBC
+      cik: 0001275168
+      name: FIVE STAR BANCORP
+    - ticker: FSBW
+      cik: 0001530249
+      name: FS Bancorp, Inc.
+    - ticker: FUNC
+      cik: 0000763907
+      name: FIRST UNITED CORP/MD/
+    - ticker: FUSB
+      cik: 0000717806
+      name: FIRST US BANCSHARES, INC.
+    - ticker: FXNC
+      cik: 0000719402
+      name: FIRST NATIONAL CORP /VA/
+    - ticker: GABC
+      cik: 0000714395
+      name: GERMAN AMERICAN BANCORP, INC.
+    - ticker: GBLI
+      cik: 0001494904
+      name: Global Indemnity Group, LLC
+    - ticker: GCBC
+      cik: '0001070524'
+      name: GREENE COUNTY BANCORP INC
+    - ticker: GDOT
+      cik: 0001386278
+      name: GREEN DOT CORP
+    - ticker: GHI
+      cik: 0001059142
+      name: Greystone Housing Impact Investors LP
+    - ticker: GLRE
+      cik: 0001385613
+      name: GREENLIGHT CAPITAL RE, LTD.
+    - ticker: GROW
+      cik: 0000754811
+      name: U S GLOBAL INVESTORS INC
+    - ticker: GSBC
+      cik: 0000854560
+      name: GREAT SOUTHERN BANCORP, INC.
+    - ticker: HAFC
+      cik: 0001109242
+      name: HANMI FINANCIAL CORP
+    - ticker: HBCP
+      cik: '0001436425'
+      name: HOME BANCORP, INC.
+    - ticker: HBNC
+      cik: 0000706129
+      name: HORIZON BANCORP INC /IN/
+    - ticker: HBT
+      cik: '0000775215'
+      name: HBT Financial, Inc.
+    - ticker: HFBL
+      cik: '0001500375'
+      name: Home Federal Bancorp, Inc. of Louisiana
+    - ticker: HFWA
+      cik: '0001046025'
+      name: HERITAGE FINANCIAL CORP /WA/
+    - ticker: HGBL
+      cik: 0000849145
+      name: Heritage Global Inc.
+    - ticker: HMN
+      cik: 0000850141
+      name: HORACE MANN EDUCATORS CORP /DE/
+    - ticker: HOPE
+      cik: 0001128361
+      name: HOPE BANCORP INC
+    - ticker: HTBK
+      cik: '0001053352'
+      name: HERITAGE COMMERCE CORP
+    - ticker: HWBK
+      cik: 0000893847
+      name: HAWTHORN BANCSHARES, INC.
+    - ticker: IBCP
+      cik: 0000039311
+      name: INDEPENDENT BANK CORP /MI/
+    - ticker: IOR
+      cik: 0000949961
+      name: INCOME OPPORTUNITY REALTY INVESTORS INC /TX/
+    - ticker: ISBA
+      cik: 0000842517
+      name: ISABELLA BANK Corp
+    - ticker: ITIC
+      cik: 0000720858
+      name: INVESTORS TITLE CO
+    - ticker: KFFB
+      cik: 0001297341
+      name: Kentucky First Federal Bancorp
+    - ticker: KINS
+      cik: 0000033992
+      name: KINGSTONE COMPANIES, INC.
+    - ticker: LARK
+      cik: 0001141688
+      name: LANDMARK BANCORP INC
+    - ticker: LC
+      cik: 0001409970
+      name: LendingClub Corp
+    - ticker: LCNB
+      cik: 0001074902
+      name: LCNB CORP
+    - ticker: LKFN
+      cik: 0000721994
+      name: LAKELAND FINANCIAL CORP
+    - ticker: LOB
+      cik: '0001462120'
+      name: Live Oak Bancshares, Inc.
+    - ticker: LSBK
+      cik: 0001341318
+      name: LAKE SHORE BANCORP, INC.
+    - ticker: MBI
+      cik: 0000814585
+      name: MBIA INC
+    - ticker: MBWM
+      cik: 0001042729
+      name: MERCANTILE BANK CORP
+    - ticker: MCB
+      cik: '0001476034'
+      name: Metropolitan Bank Holding Corp.
+    - ticker: MGLD
+      cik: '0001005101'
+      name: Marygold Companies, Inc.
+    - ticker: MGYR
+      cik: 0001337068
+      name: Magyar Bancorp, Inc.
+    - ticker: MIGI
+      cik: 0001218683
+      name: Mawson Infrastructure Group Inc.
+    - ticker: MPB
+      cik: 0000879635
+      name: MID PENN BANCORP INC
+    - ticker: MRCC
+      cik: 0001512931
+      name: MONROE CAPITAL Corp
+    - ticker: MVBF
+      cik: 0001277902
+      name: MVB FINANCIAL CORP
+    - ticker: MYFW
+      cik: '0001327607'
+      name: First Western Financial Inc
+    - ticker: NBHC
+      cik: 0001475841
+      name: National Bank Holdings Corp
+    - ticker: NFBK
+      cik: 0001493225
+      name: Northfield Bancorp, Inc.
+    - ticker: NKSH
+      cik: 0000796534
+      name: NATIONAL BANKSHARES INC
+    - ticker: NRIM
+      cik: '0001163370'
+      name: NORTHRIM BANCORP INC
+    - ticker: NWBI
+      cik: '0001471265'
+      name: Northwest Bancshares, Inc.
+    - ticker: NWFL
+      cik: '0001013272'
+      name: NORWOOD FINANCIAL CORP
+    - ticker: OBK
+      cik: 0001516912
+      name: Origin Bancorp, Inc.
+    - ticker: OCSL
+      cik: 0001414932
+      name: Oaktree Specialty Lending Corp
+    - ticker: OFG
+      cik: 0001030469
+      name: OFG BANCORP
+    - ticker: ONIT
+      cik: 0000873860
+      name: ONITY GROUP INC.
+    - ticker: OPHC
+      cik: 0001288855
+      name: OptimumBank Holdings, Inc.
+    - ticker: OPY
+      cik: 0000791963
+      name: OPPENHEIMER HOLDINGS INC
+    - ticker: ORRF
+      cik: 0000826154
+      name: ORRSTOWN FINANCIAL SERVICES INC
+    - ticker: OSBC
+      cik: '0000357173'
+      name: OLD SECOND BANCORP INC
+    - ticker: OVBC
+      cik: 0000894671
+      name: OHIO VALLEY BANC CORP
+    - ticker: OVLY
+      cik: '0001431567'
+      name: Oak Valley Bancorp
+    - ticker: PCB
+      cik: 0001423869
+      name: PCB BANCORP
+    - ticker: PEBK
+      cik: 0001093672
+      name: PEOPLES BANCORP OF NORTH CAROLINA INC
+    - ticker: PEBO
+      cik: 0000318300
+      name: PEOPLES BANCORP INC
+    - ticker: PFIS
+      cik: 0001056943
+      name: PEOPLES FINANCIAL SERVICES CORP.
+    - ticker: PFLT
+      cik: 0001504619
+      name: PennantPark Floating Rate Capital Ltd.
+    - ticker: PGC
+      cik: '0001050743'
+      name: PEAPACK GLADSTONE FINANCIAL CORP
+    - ticker: PKBK
+      cik: 0001315399
+      name: PARKE BANCORP, INC.
+    - ticker: PLBC
+      cik: 0001168455
+      name: PLUMAS BANCORP
+    - ticker: PNBK
+      cik: 0001098146
+      name: PATRIOT NATIONAL BANCORP INC
+    - ticker: PNNT
+      cik: 0001383414
+      name: PENNANTPARK INVESTMENT CORP
+    - ticker: PRA
+      cik: '0001127703'
+      name: PROASSURANCE CORP
+    - ticker: PRAA
+      cik: 0001185348
+      name: PRA GROUP INC
+    - ticker: PROV
+      cik: '0001010470'
+      name: PROVIDENT FINANCIAL HOLDINGS INC
+    - ticker: QCRH
+      cik: 0000906465
+      name: QCR HOLDINGS INC
+    - ticker: RAND
+      cik: 0000081955
+      name: RAND CAPITAL CORP
+    - ticker: RBB
+      cik: 0001499422
+      name: RBB Bancorp
+    - ticker: RBCAA
+      cik: 0000921557
+      name: REPUBLIC BANCORP INC /KY/
+    - ticker: RM
+      cik: 0001519401
+      name: Regional Management Corp.
+    - ticker: RRBI
+      cik: '0001071236'
+      name: RED RIVER BANCSHARES INC
+    - ticker: RVSB
+      cik: 0001041368
+      name: RIVERVIEW BANCORP INC
+    - ticker: SAFT
+      cik: '0001172052'
+      name: SAFETY INSURANCE GROUP INC
+    - ticker: SBFG
+      cik: '0000767405'
+      name: SB FINANCIAL GROUP, INC.
+    - ticker: SBSI
+      cik: '0000705432'
+      name: SOUTHSIDE BANCSHARES INC
+    - ticker: SFST
+      cik: 0001090009
+      name: SOUTHERN FIRST BANCSHARES INC
+    - ticker: SHBI
+      cik: 0001035092
+      name: SHORE BANCSHARES INC
+    - ticker: SIEB
+      cik: 0000065596
+      name: SIEBERT FINANCIAL CORP
+    - ticker: SKWD
+      cik: 0001519449
+      name: Skyward Specialty Insurance Group, Inc.
+    - ticker: SLRC
+      cik: 0001418076
+      name: SLR Investment Corp.
+    - ticker: SMBC
+      cik: 0000916907
+      name: SOUTHERN MISSOURI BANCORP, INC.
+    - ticker: SMBK
+      cik: 0001038773
+      name: SMARTFINANCIAL INC.
+    - ticker: SNFCA
+      cik: 0000318673
+      name: SECURITY NATIONAL FINANCIAL CORP
+    - ticker: SPFI
+      cik: 0001163668
+      name: SOUTH PLAINS FINANCIAL, INC.
+    - ticker: SRCE
+      cik: 0000034782
+      name: 1ST SOURCE CORP
+    - ticker: STBA
+      cik: 0000719220
+      name: S&T BANCORP INC
+    - ticker: STC
+      cik: 0000094344
+      name: STEWART INFORMATION SERVICES CORP
+    - ticker: STEL
+      cik: 0001473844
+      name: Stellar Bancorp, Inc.
+    - ticker: SYBT
+      cik: 0000835324
+      name: Stock Yards Bancorp, Inc.
+    - ticker: TCBK
+      cik: '0000356171'
+      name: TRICO BANCSHARES /
+    - ticker: TCPC
+      cik: '0001370755'
+      name: BlackRock TCP Capital Corp.
+    - ticker: THFF
+      cik: '0000714562'
+      name: FIRST FINANCIAL CORP /IN/
+    - ticker: TIPT
+      cik: 0001393726
+      name: TIPTREE INC.
+    - ticker: TMP
+      cik: 0001005817
+      name: TOMPKINS FINANCIAL CORP
+    - ticker: TREE
+      cik: '0001434621'
+      name: LendingTree, Inc.
+    - ticker: TRST
+      cik: '0000357301'
+      name: TRUSTCO BANK CORP N Y
+    - ticker: TRUP
+      cik: 0001371285
+      name: TRUPANION, INC.
+    - ticker: TSBK
+      cik: '0001046050'
+      name: TIMBERLAND BANCORP INC
+    - ticker: TSLX
+      cik: 0001508655
+      name: Sixth Street Specialty Lending, Inc.
+    - ticker: UBCP
+      cik: '0000731653'
+      name: UNITED BANCORP INC /OH/
+    - ticker: UBFO
+      cik: '0001137547'
+      name: UNITED SECURITY BANCSHARES
+    - ticker: UFCS
+      cik: 0000101199
+      name: UNITED FIRE GROUP INC
+    - ticker: UNB
+      cik: 0000706863
+      name: UNION BANKSHARES INC
+    - ticker: UNTY
+      cik: 0000920427
+      name: UNITY BANCORP INC /NJ/
+    - ticker: UVE
+      cik: 0000891166
+      name: UNIVERSAL INSURANCE HOLDINGS, INC.
+    - ticker: UVSP
+      cik: '0000102212'
+      name: UNIVEST FINANCIAL Corp
+    - ticker: VALU
+      cik: '0000717720'
+      name: VALUE LINE INC
+    - ticker: VRTS
+      cik: 0000883237
+      name: VIRTUS INVESTMENT PARTNERS, INC.
+    - ticker: WABC
+      cik: 0000311094
+      name: WESTAMERICA BANCORPORATION
+    - ticker: WASH
+      cik: 0000737468
+      name: WASHINGTON TRUST BANCORP INC
+    - ticker: WD
+      cik: 0001497770
+      name: Walker & Dunlop, Inc.
+    - ticker: WHG
+      cik: '0001165002'
+      name: WESTWOOD HOLDINGS GROUP INC
+    - ticker: WNEB
+      cik: '0001157647'
+      name: Western New England Bancorp, Inc.
+    - ticker: WRLD
+      cik: 0000108385
+      name: WORLD ACCEPTANCE CORP
+    - ticker: WTBA
+      cik: 0001166928
+      name: WEST BANCORPORATION INC
+    - ticker: AAT
+      cik: '0001500217'
+      name: American Assets Trust, Inc.
+    - ticker: ACRE
+      cik: 0001529377
+      name: Ares Commercial Real Estate Corp
+    - ticker: AIV
+      cik: 0000922864
+      name: APARTMENT INVESTMENT & MANAGEMENT CO
+    - ticker: ALX
+      cik: 0000003499
+      name: ALEXANDERS INC
+    - ticker: ARI
+      cik: '0001467760'
+      name: Apollo Commercial Real Estate Finance, Inc.
+  Technology:
+    description: SME Companies (<$2B) extracted from Finviz (sec_technology)
+    companies:
+    - ticker: ACFN
+      cik: 0000880984
+      name: ACORN ENERGY, INC.
+    - ticker: ADTN
+      cik: 0000926282
+      name: ADTRAN Holdings, Inc.
+    - ticker: AEHR
+      cik: '0001040470'
+      name: AEHR TEST SYSTEMS
+    - ticker: AEYE
+      cik: 0001362190
+      name: AUDIOEYE INC
+    - ticker: AGYS
+      cik: 0000078749
+      name: AGILYSYS INC
+    - ticker: AIFF
+      cik: 0000803578
+      name: FIREFLY NEUROSCIENCE, INC.
+    - ticker: AIRG
+      cik: 0001272842
+      name: AIRGAIN INC
+    - ticker: ALKT
+      cik: 0001529274
+      name: ALKAMI TECHNOLOGY, INC.
+    - ticker: ALNT
+      cik: 0000046129
+      name: ALLIENT INC
+    - ticker: ALOT
+      cik: 0000008146
+      name: AstroNova, Inc.
+    - ticker: ALTS
+      cik: 0000862861
+      name: ALT5 Sigma Corp
+    - ticker: AOSL
+      cik: 0001387467
+      name: ALPHA & OMEGA SEMICONDUCTOR Ltd
+    - ticker: APPN
+      cik: 0001441683
+      name: APPIAN CORP
+    - ticker: APPS
+      cik: 0000317788
+      name: Digital Turbine, Inc.
+    - ticker: ASAN
+      cik: '0001477720'
+      name: Asana, Inc.
+    - ticker: ASGN
+      cik: 0000890564
+      name: ASGN Inc
+    - ticker: ASNS
+      cik: 0001141284
+      name: ACTELIS NETWORKS INC
+    - ticker: ASTC
+      cik: 0001001907
+      name: ASTROTECH Corp
+    - ticker: ASTI
+      cik: '0001350102'
+      name: Ascent Solar Technologies, Inc.
+    - ticker: ASUR
+      cik: 0000884144
+      name: ASURE SOFTWARE INC
+    - ticker: ASYS
+      cik: '0000720500'
+      name: AMTECH SYSTEMS INC
+    - ticker: ATOM
+      cik: '0001420520'
+      name: Atomera Inc
+    - ticker: AVNW
+      cik: 0001377789
+      name: AVIAT NETWORKS, INC.
+    - ticker: AWRE
+      cik: 0001015739
+      name: AWARE INC /MA/
+    - ticker: BAND
+      cik: '0001514416'
+      name: Bandwidth Inc.
+    - ticker: BB
+      cik: '0001070235'
+      name: BLACKBERRY Ltd
+    - ticker: BEEM
+      cik: 0001398805
+      name: Beam Global
+    - ticker: BKTI
+      cik: 0000002186
+      name: BK Technologies Corp
+    - ticker: BLIN
+      cik: 0001378590
+      name: Bridgeline Digital, Inc.
+    - ticker: BLKB
+      cik: 0001280058
+      name: BLACKBAUD INC
+    - ticker: BLZE
+      cik: '0001462056'
+      name: Backblaze, Inc.
+    - ticker: BTTC
+      cik: '0001066764'
+      name: Bitech Technologies Corp
+    - ticker: CEVA
+      cik: 0001173489
+      name: CEVA INC
+    - ticker: CLFD
+      cik: 0000796505
+      name: Clearfield, Inc.
+    - ticker: CLMB
+      cik: 0000945983
+      name: Climb Global Solutions, Inc.
+    - ticker: CLRO
+      cik: 0000840715
+      name: CLEARONE INC
+    - ticker: CMTL
+      cik: 0000023197
+      name: COMTECH TELECOMMUNICATIONS CORP /DE/
+    - ticker: CNXN
+      cik: '0001050377'
+      name: PC CONNECTION INC
+    - ticker: COHU
+      cik: '0000021535'
+      name: COHU INC
+    - ticker: CPSH
+      cik: 0000814676
+      name: CPS TECHNOLOGIES CORP/DE/
+    - ticker: CREX
+      cik: 0001356093
+      name: CREATIVE REALITIES, INC.
+    - ticker: CSPI
+      cik: '0000356037'
+      name: CSP INC /MA/
+    - ticker: CTS
+      cik: 0000026058
+      name: CTS CORP
+    - ticker: DAIO
+      cik: 0000351998
+      name: DATA I/O CORP
+    - ticker: DAKT
+      cik: 0000915779
+      name: DAKTRONICS INC /SD/
+    - ticker: DDD
+      cik: 0000910638
+      name: 3D SYSTEMS CORP
+    - ticker: DGII
+      cik: 0000854775
+      name: DIGI INTERNATIONAL INC
+    - ticker: DHX
+      cik: 0001393883
+      name: DHI GROUP, INC.
+    - ticker: DJCO
+      cik: 0000783412
+      name: DAILY JOURNAL CORP
+    - ticker: DMRC
+      cik: 0001438231
+      name: Digimarc CORP
+    - ticker: DOMO
+      cik: 0001505952
+      name: DOMO, INC.
+    - ticker: DUOT
+      cik: 0001396536
+      name: DUOS TECHNOLOGIES GROUP, INC.
+    - ticker: EGAN
+      cik: 0001066194
+      name: EGAIN Corp
+    - ticker: EGHT
+      cik: '0001023731'
+      name: 8X8 INC /DE/
+    - ticker: ELSE
+      cik: 0000351789
+      name: ELECTRO SENSORS INC
+    - ticker: EXFY
+      cik: 0001476840
+      name: Expensify, Inc.
+    - ticker: FEIM
+      cik: 0000039020
+      name: FREQUENCY ELECTRONICS INC
+    - ticker: FIVN
+      cik: 0001288847
+      name: Five9, Inc.
+    - ticker: FKWL
+      cik: '0000722572'
+      name: FRANKLIN WIRELESS CORP
+    - ticker: FTFT
+      cik: 0001066923
+      name: Future FinTech Group Inc.
+    - ticker: GNSS
+      cik: 0000924383
+      name: Genasys Inc.
+    - ticker: GPRO
+      cik: '0001500435'
+      name: GoPro, Inc.
+    - ticker: GSIT
+      cik: '0001126741'
+      name: GSI TECHNOLOGY INC
+    - ticker: HCKT
+      cik: 0001057379
+      name: HACKETT GROUP, INC.
+    - ticker: HLIT
+      cik: 0000851310
+      name: HARMONIC INC
+    - ticker: IDN
+      cik: 0001040896
+      name: Intellicheck, Inc.
+    - ticker: III
+      cik: 0001371489
+      name: Information Services Group Inc.
+    - ticker: IMMR
+      cik: 0001058811
+      name: IMMERSION CORP
+    - ticker: INLX
+      cik: 0001081745
+      name: INTELLINETICS, INC.
+    - ticker: INOD
+      cik: 0000903651
+      name: INNODATA INC
+    - ticker: INSG
+      cik: '0001022652'
+      name: INSEEGO CORP.
+    - ticker: INTT
+      cik: '0001036262'
+      name: INTEST CORP
+    - ticker: INTZ
+      cik: '0000736012'
+      name: INTRUSION INC
+    - ticker: INUV
+      cik: 0000829323
+      name: Inuvo, Inc.
+    - ticker: IPWR
+      cik: 0001507957
+      name: Ideal Power Inc.
+    - ticker: KLTR
+      cik: '0001432133'
+      name: KALTURA INC
+    - ticker: KOPN
+      cik: '0000771266'
+      name: KOPIN CORP
+    - ticker: KOSS
+      cik: '0000056701'
+      name: KOSS CORP
+    - ticker: KTCC
+      cik: 0000719733
+      name: KEY TRONIC CORP
+    - ticker: LEDS
+      cik: 0001333822
+      name: SemiLEDs Corp
+    - ticker: LINK
+      cik: 0000828146
+      name: INTERLINK ELECTRONICS INC
+    - ticker: LPSN
+      cik: 0001102993
+      name: LIVEPERSON INC
+    - ticker: LPTH
+      cik: 0000889971
+      name: LIGHTPATH TECHNOLOGIES INC
+    - ticker: LSAK
+      cik: '0001041514'
+      name: LESAKA TECHNOLOGIES INC
+    - ticker: LTRX
+      cik: 0001114925
+      name: LANTRONIX INC
+    - ticker: LYTS
+      cik: '0000763532'
+      name: LSI INDUSTRIES INC
+    - ticker: MEI
+      cik: '0000065270'
+      name: METHODE ELECTRONICS INC
+    - ticker: MITK
+      cik: 0000807863
+      name: MITEK SYSTEMS INC
+    - ticker: MLAB
+      cik: '0000724004'
+      name: MESA LABORATORIES INC /CO/
+    - ticker: MQ
+      cik: '0001522540'
+      name: Marqeta, Inc.
+    - ticker: MRAM
+      cik: 0001438423
+      name: EVERSPIN TECHNOLOGIES INC
+    - ticker: MSN
+      cik: '0000032621'
+      name: EMERSON RADIO CORP
+    - ticker: MVIS
+      cik: '0000065770'
+      name: MICROVISION, INC.
+    - ticker: MX
+      cik: '0001325702'
+      name: MAGNACHIP SEMICONDUCTOR Corp
+    - ticker: MXL
+      cik: 0001288469
+      name: MAXLINEAR, INC
+    - ticker: MYSZ
+      cik: 0001211805
+      name: My Size, Inc.
+    - ticker: NEON
+      cik: 0000087050
+      name: Neonode Inc.
+    - ticker: NTGR
+      cik: 0001122904
+      name: NETGEAR, INC.
+    - ticker: NTWK
+      cik: 0001039280
+      name: NETSOL TECHNOLOGIES INC
+    - ticker: NVEC
+      cik: 0000724910
+      name: NVE CORP /NEW/
+    - ticker: OCC
+      cik: '0001000230'
+      name: OPTICAL CABLE CORP
+    - ticker: OLB
+      cik: 0001314196
+      name: OLB GROUP, INC.
+    - ticker: ONTF
+      cik: '0001110611'
+      name: ON24 INC.
+    - ticker: OOMA
+      cik: 0001327688
+      name: OOMA INC
+    - ticker: OSPN
+      cik: '0001044777'
+      name: OneSpan Inc.
+    - ticker: OSS
+      cik: 0001394056
+      name: ONE STOP SYSTEMS, INC.
+    - ticker: PAR
+      cik: 0000708821
+      name: PAR TECHNOLOGY CORP
+    - ticker: PAYS
+      cik: 0001496443
+      name: Paysign, Inc.
+    - ticker: PDFS
+      cik: 0001120914
+      name: PDF SOLUTIONS INC
+    - ticker: PRGS
+      cik: 0000876167
+      name: PROGRESS SOFTWARE CORP /MA
+    - ticker: PRSO
+      cik: 0000890394
+      name: Peraso Inc.
+    - ticker: PUBM
+      cik: 0001422930
+      name: PubMatic, Inc.
+    - ticker: PXLW
+      cik: '0001040161'
+      name: PIXELWORKS, INC
+    - ticker: QMCO
+      cik: 0000709283
+      name: QUANTUM CORP /DE/
+    - ticker: QUIK
+      cik: 0000882508
+      name: QUICKLOGIC Corp
+    - ticker: RAMP
+      cik: 0000733269
+      name: LiveRamp Holdings, Inc.
+    - ticker: REFR
+      cik: 0000793524
+      name: RESEARCH FRONTIERS INC
+    - ticker: RELL
+      cik: 0000355948
+      name: RICHARDSON ELECTRONICS, LTD.
+    - ticker: ROG
+      cik: 0000084748
+      name: ROGERS CORP
+    - ticker: RSSS
+      cik: 0001386301
+      name: Research Solutions, Inc.
+    - ticker: RVYL
+      cik: 0001419275
+      name: RYVYL Inc.
+    - ticker: SCKT
+      cik: 0000944075
+      name: SOCKET MOBILE, INC.
+    - ticker: SCOR
+      cik: 0001158172
+      name: COMSCORE, INC.
+    - ticker: SCSC
+      cik: 0000918965
+      name: SCANSOURCE, INC.
+    - ticker: SMSI
+      cik: 0000948708
+      name: SMITH MICRO SOFTWARE, INC.
+    - ticker: SMXT
+      cik: 0001519472
+      name: SolarMax Technology, Inc.
+    - ticker: SOBR
+      cik: '0001425627'
+      name: SOBR Safe, Inc.
+    - ticker: SONM
+      cik: 0001178697
+      name: SONIM TECHNOLOGIES INC
+    - ticker: SONO
+      cik: '0001314727'
+      name: Sonos Inc
+    - ticker: SOTK
+      cik: 0000806172
+      name: SONO TEK CORP
+    - ticker: SPT
+      cik: '0001517375'
+      name: Sprout Social, Inc.
+    - ticker: SSTI
+      cik: '0001351636'
+      name: SOUNDTHINKING, INC.
+    - ticker: TACT
+      cik: '0001017303'
+      name: TRANSACT TECHNOLOGIES INC
+    - ticker: TCX
+      cik: 0000909494
+      name: TUCOWS INC /PA/
+    - ticker: TLS
+      cik: '0000320121'
+      name: TELOS CORP
+    - ticker: TRAK
+      cik: '0000050471'
+      name: ReposiTrak, Inc.
+    - ticker: TRT
+      cik: '0000732026'
+      name: TRIO-TECH INTERNATIONAL
+    - ticker: TSSI
+      cik: '0001320760'
+      name: TSS, Inc.
+    - ticker: TTEC
+      cik: 0001013880
+      name: TTEC Holdings, Inc.
+    - ticker: TTGT
+      cik: 0001293282
+      name: TechTarget Inc
+    - ticker: UAVS
+      cik: 0000008504
+      name: AgEagle Aerial Systems Inc.
+    - ticker: UEIC
+      cik: 0000101984
+      name: UNIVERSAL ELECTRONICS INC
+    - ticker: UIS
+      cik: 0000746838
+      name: UNISYS CORP
+    - ticker: UPBD
+      cik: 0000933036
+      name: UPBOUND GROUP, INC.
+    - ticker: UPLD
+      cik: '0001505155'
+      name: Upland Software, Inc.
+    - ticker: USIO
+      cik: 0001088034
+      name: Usio, Inc.
+    - ticker: VHC
+      cik: 0001082324
+      name: VirnetX Holding Corp
+    - ticker: VPG
+      cik: 0001487952
+      name: Vishay Precision Group, Inc.
+    - ticker: VTSI
+      cik: 0001085243
+      name: VirTra, Inc
+    - ticker: VUZI
+      cik: 0001463972
+      name: Vuzix Corp
+    - ticker: WOLF
+      cik: 0000895419
+      name: WOLFSPEED, INC.
+    - ticker: WYY
+      cik: '0001034760'
+      name: WIDEPOINT CORP
